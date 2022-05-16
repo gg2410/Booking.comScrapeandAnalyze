@@ -1,0 +1,2001 @@
+Number of Hotels,,Comment_Text,Name,Rating,Positive Polarity Scores,Negative Polarity Scores,Neutral Polarity Scores,CompoundPolarityScores
+1,0,Very Good,Hotel M Hotel Singapore City Centre,8,0.762,0,0.238,0.4927
+2,1,Pleasant,Hotel M Hotel Singapore City Centre,6,1,0,0,0.5106
+3,2,"Wonderful stay, good quality of food and services. :D Hehehe worth the money!",Hotel M Hotel Singapore City Centre,9,0.588,0,0.412,0.9157
+4,3,Very Good,Hotel M Hotel Singapore City Centre,8,0.762,0,0.238,0.4927
+5,4,Recommended to stay Orchard Hotel,Hotel M Hotel Singapore City Centre,8,0.31,0,0.69,0.2023
+6,5,Exceptional,Hotel M Hotel Singapore City Centre,10,0,0,1,0
+7,6,Excellent stay,Hotel M Hotel Singapore City Centre,9,0.787,0,0.213,0.5719
+8,7,try and find somewhere else,Hotel M Hotel Singapore City Centre,3,0,0,1,0
+9,8,Exceptional,Hotel M Hotel Singapore City Centre,10,0,0,1,0
+10,9,Good,Hotel M Hotel Singapore City Centre,7,1,0,0,0.4404
+11,10,Wonderful,Hotel M Hotel Singapore City Centre,9,1,0,0,0.5719
+12,11,Good,Hotel M Hotel Singapore City Centre,7,1,0,0,0.4404
+13,12,Great place to stay,Hotel M Hotel Singapore City Centre,9,0.577,0,0.423,0.6249
+14,13,Very Good,Hotel M Hotel Singapore City Centre,8,0.762,0,0.238,0.4927
+15,14,Wonderful,Hotel M Hotel Singapore City Centre,9,1,0,0,0.5719
+16,15,Excellent service and hotel.,Hotel M Hotel Singapore City Centre,10,0.552,0,0.448,0.5719
+17,16,Very Good,Hotel M Hotel Singapore City Centre,8,0.762,0,0.238,0.4927
+18,17,Wonderful,Hotel M Hotel Singapore City Centre,9,1,0,0,0.5719
+19,18,Fantastic weekend staycation,Hotel M Hotel Singapore City Centre,10,0.643,0,0.357,0.5574
+20,19,Very Good,Hotel M Hotel Singapore City Centre,8,0.762,0,0.238,0.4927
+21,20,Wonderful,Hotel M Hotel Singapore City Centre,9,1,0,0,0.5719
+22,21,Good,Hotel M Hotel Singapore City Centre,7,1,0,0,0.4404
+23,22,Disappointing staycation,Hotel M Hotel Singapore City Centre,3,0,0.762,0.238,-0.4939
+24,23,Exceptional,Hotel M Hotel Singapore City Centre,10,0,0,1,0
+25,24,Exceptional,Hotel M Hotel Singapore City Centre,10,0,0,1,0
+26,25,Very Good,Hotel M Hotel Singapore City Centre,8,0.762,0,0.238,0.4927
+27,26,Cozy weekend staycation,Hotel M Hotel Singapore City Centre,9.6,0,0,1,0
+28,27,"Hotel is perfectly located for us, next to our office building. Spacious rooms with a nice view.",Hotel M Hotel Singapore City Centre,7,0.333,0,0.667,0.7906
+29,28,great location for the money,Hotel M Hotel Singapore City Centre,8,0.506,0,0.494,0.6249
+30,29,Pleasant,Hotel M Hotel Singapore City Centre,6.7,1,0,0,0.5106
+31,30,A wonderfully brief stay,Hotel M Hotel Singapore City Centre,8.8,0.661,0,0.339,0.5994
+32,31,Very Good,Hotel M Hotel Singapore City Centre,8,0.762,0,0.238,0.4927
+33,32,Very Good,Hotel M Hotel Singapore City Centre,8,0.762,0,0.238,0.4927
+34,33,Wonderful,Hotel M Hotel Singapore City Centre,9,1,0,0,0.5719
+35,34,Good location,Hotel M Hotel Singapore City Centre,9,0.744,0,0.256,0.4404
+36,35,Very Good,Hotel M Hotel Singapore City Centre,8,0.762,0,0.238,0.4927
+37,36,Pleasant,Hotel M Hotel Singapore City Centre,6.2,1,0,0,0.5106
+38,37,Wonderful,Hotel M Hotel Singapore City Centre,9,1,0,0,0.5719
+39,38,Pleasant,Hotel M Hotel Singapore City Centre,6.7,1,0,0,0.5106
+40,39,Exceptional,Hotel M Hotel Singapore City Centre,10,0,0,1,0
+41,40,Excellent,Hotel M Hotel Singapore City Centre,8.8,1,0,0,0.5719
+42,41,Pleasant,Hotel M Hotel Singapore City Centre,6.2,1,0,0,0.5106
+43,42,Exceptional,Hotel M Hotel Singapore City Centre,10,0,0,1,0
+44,43,Wonderful,Hotel M Hotel Singapore City Centre,9.2,1,0,0,0.5719
+45,44,Good,Hotel M Hotel Singapore City Centre,7,1,0,0,0.4404
+46,45,Pleasant three day stay,Hotel M Hotel Singapore City Centre,7.9,0.524,0,0.476,0.5106
+47,46,Better luck next time,Hotel M Hotel Singapore City Centre,6,0.747,0,0.253,0.7096
+48,47,Good,Hotel M Hotel Singapore City Centre,7,1,0,0,0.4404
+49,48,Exceptional,Hotel M Hotel Singapore City Centre,10,0,0,1,0
+50,49,Exceptional,Hotel M Hotel Singapore City Centre,9.6,0,0,1,0
+51,50,Fair,Hotel M Hotel Singapore City Centre,5,1,0,0,0.3182
+52,51,Pleasant,Hotel M Hotel Singapore City Centre,6.2,1,0,0,0.5106
+53,52,Very Good,Hotel M Hotel Singapore City Centre,8,0.762,0,0.238,0.4927
+54,53,Great place to enjoy Singapore,Hotel M Hotel Singapore City Centre,10,0.709,0,0.291,0.8074
+55,54,Fair,Hotel M Hotel Singapore City Centre,5,1,0,0,0.3182
+56,55,Very Good,Hotel M Hotel Singapore City Centre,8,0.762,0,0.238,0.4927
+57,56,Fair,Hotel M Hotel Singapore City Centre,5,1,0,0,0.3182
+58,57,Exceptional,Hotel M Hotel Singapore City Centre,10,0,0,1,0
+59,58,Wonderful,Hotel M Hotel Singapore City Centre,9,1,0,0,0.5719
+60,59,Pleasant,Hotel M Hotel Singapore City Centre,6,1,0,0,0.5106
+61,60,Exceptional,Hotel M Hotel Singapore City Centre,10,0,0,1,0
+62,61,Wonderful,Hotel M Hotel Singapore City Centre,9,1,0,0,0.5719
+63,62,All of the positive reviews got it right,Hotel M Hotel Singapore City Centre,9.2,0.34,0,0.66,0.5574
+64,63,Exceptional,Hotel M Hotel Singapore City Centre,10,0,0,1,0
+65,64,Fair,Hotel M Hotel Singapore City Centre,5,1,0,0,0.3182
+66,65,Exceptional,Hotel M Hotel Singapore City Centre,9.6,0,0,1,0
+67,66,Exceptional,Hotel M Hotel Singapore City Centre,10,0,0,1,0
+68,67,"Gone wrong, fixed quickly",Hotel M Hotel Singapore City Centre,7,0,0.508,0.492,-0.4767
+69,68,They want to charge me an early check in for TWO HOURS ( they had the rooms available). The attitude at the front desk w,Hotel M Hotel Singapore City Centre,3.3,0.056,0,0.944,0.0772
+70,69,Perfect,Hotel M Hotel Singapore City Centre,8,1,0,0,0.5719
+71,70,More like a 4 Stars,Hotel M Hotel Singapore City Centre,7,0.583,0,0.417,0.4201
+72,71,"Very nice hotel in a very clean neighborhood, with great views of the harbor.",Hotel M Hotel Singapore City Centre,10,0.505,0,0.495,0.8803
+73,72,Exceptional,Hotel M Hotel Singapore City Centre,10,0,0,1,0
+74,73,Very Good,Hotel M Hotel Singapore City Centre,8.3,0.762,0,0.238,0.4927
+75,74,good value for the money.,Hotel M Hotel Singapore City Centre,9,0.639,0,0.361,0.6486
+76,75,Wonderful,Hotel M Hotel Singapore City Centre,9.2,1,0,0,0.5719
+77,76,Good,Hotel M Hotel Singapore City Centre,7,1,0,0,0.4404
+78,77,Fair,Hotel M Hotel Singapore City Centre,5,1,0,0,0.3182
+79,78,Very Good,Hotel M Hotel Singapore City Centre,8.3,0.762,0,0.238,0.4927
+80,79,Good,Hotel M Hotel Singapore City Centre,7.1,1,0,0,0.4404
+81,80,Wonderful,Hotel M Hotel Singapore City Centre,9,1,0,0,0.5719
+82,81,Very Good,Hotel M Hotel Singapore City Centre,8,0.762,0,0.238,0.4927
+83,82,Disappointing,Hotel M Hotel Singapore City Centre,4,0,1,0,-0.4939
+84,83,Nice modern and roomy hotelroom in a good location.,Hotel M Hotel Singapore City Centre,9,0.487,0,0.513,0.6908
+85,84,Wonderful,Hotel M Hotel Singapore City Centre,9,1,0,0,0.5719
+86,85,Poor service,Hotel M Hotel Singapore City Centre,5.8,0,0.756,0.244,-0.4767
+87,86,Wonderful,Hotel M Hotel Singapore City Centre,9,1,0,0,0.5719
+88,87,Good,Hotel M Hotel Singapore City Centre,7,1,0,0,0.4404
+89,88,Good,Hotel M Hotel Singapore City Centre,7.5,1,0,0,0.4404
+90,89,Good,Hotel M Hotel Singapore City Centre,7,1,0,0,0.4404
+91,90,Wonderful,Hotel M Hotel Singapore City Centre,9.2,1,0,0,0.5719
+92,91,Good,Hotel M Hotel Singapore City Centre,7,1,0,0,0.4404
+93,92,Very Good,Hotel M Hotel Singapore City Centre,8,0.762,0,0.238,0.4927
+94,93,Very Good,Hotel M Hotel Singapore City Centre,8,0.762,0,0.238,0.4927
+95,94,Very Good,Hotel M Hotel Singapore City Centre,8.3,0.762,0,0.238,0.4927
+96,95,Very Poor,Hotel M Hotel Singapore City Centre,2.5,0,0.772,0.228,-0.5256
+97,96,Fair,Hotel M Hotel Singapore City Centre,5,1,0,0,0.3182
+98,97,Very Good,Hotel M Hotel Singapore City Centre,8.3,0.762,0,0.238,0.4927
+99,98,Good,Hotel M Hotel Singapore City Centre,7.1,1,0,0,0.4404
+100,99,Fair,Hotel M Hotel Singapore City Centre,5,1,0,0,0.3182
+101,0,Pleasant,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),6,1,0,0,0.5106
+102,1,Very Good,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),8,0.762,0,0.238,0.4927
+103,2,Wonderful,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),9,1,0,0,0.5719
+104,3,Wonderful,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),9,1,0,0,0.5719
+105,4,Nice family staycation,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),9,0.583,0,0.417,0.4215
+106,5,It was a fantastic visit with staff that was amazing!,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),10,0.524,0,0.476,0.8268
+107,6,Wonderful,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),9.2,1,0,0,0.5719
+108,7,Wonderful,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),9.2,1,0,0,0.5719
+109,8,"great, fun & fantastic",Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),9,1,0,0,0.9001
+110,9,Exceptional,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+111,10,Very Good,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),8,0.762,0,0.238,0.4927
+112,11,Wonderful,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),9,1,0,0,0.5719
+113,12,Wonderful,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),9,1,0,0,0.5719
+114,13,Great,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),9,1,0,0,0.6249
+115,14,Kid staycation,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),8,0,0,1,0
+116,15,Nice stay,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),10,0.737,0,0.263,0.4215
+117,16,Great place to enjoy with the family. kid friendl,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),10,0.51,0,0.49,0.8074
+118,17,Perfect getaway,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),10,0.787,0,0.213,0.5719
+119,18,Very Good,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),8,0.762,0,0.238,0.4927
+120,19,Ok,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),8,1,0,0,0.296
+121,20,Wonderful,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),9,1,0,0,0.5719
+122,21,Relaxing,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),8,1,0,0,0.4939
+123,22,Very Good,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),8,0.762,0,0.238,0.4927
+124,23,Wonderful,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),9,1,0,0,0.5719
+125,24,Exceptional,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+126,25,Very Good,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),8,0.762,0,0.238,0.4927
+127,26,COVID staycation,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),8.8,0,0,1,0
+128,27,Family staycation,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),8,0,0,1,0
+129,28,Exceptional,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+130,29,Great staycay,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),9,0.804,0,0.196,0.6249
+131,30,Good,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),7,1,0,0,0.4404
+132,31,Very Good,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),8,0.762,0,0.238,0.4927
+133,32,We'll definitely be back! :),Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),10,0.666,0,0.334,0.7177
+134,33,Exceptional,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+135,34,Good,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),7.9,1,0,0,0.4404
+136,35,March Staycation,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),8,0,0,1,0
+137,36,Perfect getaway for families with small children! Really friendly and helpful staff (:,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),9,0.604,0,0.396,0.9293
+138,37,"Excellent service, awesome facilities!",Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),10,0.802,0,0.198,0.8439
+139,38,"In all an excellent stay, close to everything and perfect for families. The pool area was excellent",Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),9,0.442,0,0.558,0.9022
+140,39,Very Good,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),8,0.762,0,0.238,0.4927
+141,40,Exceptional,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+142,41,Exceptional,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+143,42,Exceptional,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+144,43,Fabulous hotel with high level of service and great facilitues,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),10,0.484,0,0.516,0.8176
+145,44,Wonderful,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),9.2,1,0,0,0.5719
+146,45,Good,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),7,1,0,0,0.4404
+147,46,We were treated like family by all staff and the whole vibe was so friendly,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),9,0.337,0,0.663,0.7661
+148,47,Exceptional,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+149,48,Wonderful,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),9,1,0,0,0.5719
+150,49,Exceptional,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+151,50,Great,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),8,1,0,0,0.6249
+152,51,Unexpected visit that exceeded expectations,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),9,0,0,1,0
+153,52,Excellent service and great location,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),10,0.722,0,0.278,0.8316
+154,53,Wonderful,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),9.2,1,0,0,0.5719
+155,54,Exceptional,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),9.6,0,0,1,0
+156,55,Exceptional,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+157,56,Exceptional,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+158,57,I would stay here again very happily,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),10,0.438,0,0.562,0.5984
+159,58,Only the pool area is top,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),6.7,0.265,0,0.735,0.2023
+160,59,A cosy stay for a Sentosa Getaway,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+161,60,LOVED THE STAY!,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),10,0.677,0,0.323,0.636
+162,61,Wonderful,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),9.2,1,0,0,0.5719
+163,62,Superb stay,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),10,0.804,0,0.196,0.6249
+164,63,Fair,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),5,1,0,0,0.3182
+165,64,Very Good,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),8,0.762,0,0.238,0.4927
+166,65,Wonderful,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),9,1,0,0,0.5719
+167,66,Excellent,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),8.8,1,0,0,0.5719
+168,67,"great location for us as a family, very clean.",Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),8,0.542,0,0.458,0.796
+169,68,Excellent,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),8.8,1,0,0,0.5719
+170,69,Exceptional,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+171,70,Wonderful,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),9,1,0,0,0.5719
+172,71,Good,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),7,1,0,0,0.4404
+173,72,Fair,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),5,1,0,0,0.3182
+174,73,"A good location, a bit pokey fir family of four and I think a bit expensive for that reason.",Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),6,0.172,0,0.828,0.4404
+175,74,Very Good,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),8.3,0.762,0,0.238,0.4927
+176,75,Family affair,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),8.3,0,0,1,0
+177,76,"Great location, very clean and inviting but need to improve on pool area with tables/chairs",Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),7,0.481,0,0.519,0.8473
+178,77,"Amazing,",Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),10,1,0,0,0.5859
+179,78,Bad,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),1,0,1,0,-0.5423
+180,79,Very Good,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),8,0.762,0,0.238,0.4927
+181,80,Exceptional,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+182,81,Good,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),7.9,1,0,0,0.4404
+183,82,Excellent,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),8.8,1,0,0,0.5719
+184,83,Very Good,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),8.3,0.762,0,0.238,0.4927
+185,84,Good,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),7,1,0,0,0.4404
+186,85,Good,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),7.5,1,0,0,0.4404
+187,86,Good,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),7.1,1,0,0,0.4404
+188,87,Good,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),7,1,0,0,0.4404
+189,88,Very Good,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),8,0.762,0,0.238,0.4927
+190,89,Good,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),7.5,1,0,0,0.4404
+191,90,Disappointing,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),4,0,1,0,-0.4939
+192,91,we were really enjoying where we stay.,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),10,0.381,0,0.619,0.5709
+193,92,Kids loved the pool.,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),8,0.565,0,0.435,0.5994
+194,93,The Best,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),10,0.808,0,0.192,0.6369
+195,94,Wonderful,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),9.2,1,0,0,0.5719
+196,95,Wonderful,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),9,1,0,0,0.5719
+197,96,Im coming back,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),9,0,0,1,0
+198,97,Very relaxing stay for the whole family,Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),10,0.368,0,0.632,0.5413
+199,98,"Average, will look at other places in future",Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),4,0,0,1,0
+200,99,"Super tiny rooms, too loud and busy.",Hotel Village Hotel Sentosa by Far East Hospitality (SG Clean),6.2,0.394,0,0.606,0.5994
+201,0,Good,"Hotel M Social Singapore (SG Clean, Staycation Approved)",7,1,0,0,0.4404
+202,1,Exceptional,"Hotel M Social Singapore (SG Clean, Staycation Approved)",10,0,0,1,0
+203,2,The rooms were too uncomfortable and I wouldn’t stay again,"Hotel M Social Singapore (SG Clean, Staycation Approved)",5,0,0.245,0.755,-0.3818
+204,3,Average,"Hotel M Social Singapore (SG Clean, Staycation Approved)",7,0,0,1,0
+205,4,Disappointing,"Hotel M Social Singapore (SG Clean, Staycation Approved)",4,0,1,0,-0.4939
+206,5,Very Good,"Hotel M Social Singapore (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+207,6,Pleasant,"Hotel M Social Singapore (SG Clean, Staycation Approved)",6,1,0,0,0.5106
+208,7,Wonderful,"Hotel M Social Singapore (SG Clean, Staycation Approved)",9,1,0,0,0.5719
+209,8,Exceptional,"Hotel M Social Singapore (SG Clean, Staycation Approved)",10,0,0,1,0
+210,9,It was good overall except the water temperature ;-;,"Hotel M Social Singapore (SG Clean, Staycation Approved)",8,0.266,0,0.734,0.4404
+211,10,great location to stay in singapore.,"Hotel M Social Singapore (SG Clean, Staycation Approved)",8,0.451,0,0.549,0.6249
+212,11,Exceptional,"Hotel M Social Singapore (SG Clean, Staycation Approved)",10,0,0,1,0
+213,12,Good,"Hotel M Social Singapore (SG Clean, Staycation Approved)",7,1,0,0,0.4404
+214,13,Pleasant,"Hotel M Social Singapore (SG Clean, Staycation Approved)",6,1,0,0,0.5106
+215,14,Very Good,"Hotel M Social Singapore (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+216,15,pleasant experience but can get better value for money elsewhere.,"Hotel M Social Singapore (SG Clean, Staycation Approved)",6,0.565,0,0.435,0.8442
+217,16,Good and most efficient.,"Hotel M Social Singapore (SG Clean, Staycation Approved)",7,0.75,0,0.25,0.7178
+218,17,Very Good,"Hotel M Social Singapore (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+219,18,Exceptional,"Hotel M Social Singapore (SG Clean, Staycation Approved)",10,0,0,1,0
+220,19,Very Good,"Hotel M Social Singapore (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+221,20,"brilliant staff, very accommodating, fantastic location and all round great stay.","Hotel M Social Singapore (SG Clean, Staycation Approved)",10,0.596,0,0.404,0.9149
+222,21,Wonderful,"Hotel M Social Singapore (SG Clean, Staycation Approved)",9,1,0,0,0.5719
+223,22,near Singapore river,"Hotel M Social Singapore (SG Clean, Staycation Approved)",8,0,0,1,0
+224,23,Very Good,"Hotel M Social Singapore (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+225,24,Good,"Hotel M Social Singapore (SG Clean, Staycation Approved)",7,1,0,0,0.4404
+226,25,Wonderful,"Hotel M Social Singapore (SG Clean, Staycation Approved)",9,1,0,0,0.5719
+227,26,Very Good,"Hotel M Social Singapore (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+228,27,great,"Hotel M Social Singapore (SG Clean, Staycation Approved)",10,1,0,0,0.6249
+229,28,Very Poor,"Hotel M Social Singapore (SG Clean, Staycation Approved)",2,0,0.772,0.228,-0.5256
+230,29,Pleasant,"Hotel M Social Singapore (SG Clean, Staycation Approved)",6,1,0,0,0.5106
+231,30,Fair,"Hotel M Social Singapore (SG Clean, Staycation Approved)",5,1,0,0,0.3182
+232,31,"Great place for CBD area, many food around","Hotel M Social Singapore (SG Clean, Staycation Approved)",8,0.369,0,0.631,0.6249
+233,32,Good,"Hotel M Social Singapore (SG Clean, Staycation Approved)",5,1,0,0,0.4404
+234,33,"Everything was horrible. Despite spending time filling up details fr online check in, the check in took forever ( there","Hotel M Social Singapore (SG Clean, Staycation Approved)",1,0,0.163,0.837,-0.5423
+235,34,Exceptional,"Hotel M Social Singapore (SG Clean, Staycation Approved)",10,0,0,1,0
+236,35,It was barely satisfying.,"Hotel M Social Singapore (SG Clean, Staycation Approved)",6,0.474,0,0.526,0.4033
+237,36,Great,"Hotel M Social Singapore (SG Clean, Staycation Approved)",8,1,0,0,0.6249
+238,37,Wonderful,"Hotel M Social Singapore (SG Clean, Staycation Approved)",9,1,0,0,0.5719
+239,38,Pleasant,"Hotel M Social Singapore (SG Clean, Staycation Approved)",6,1,0,0,0.5106
+240,39,Great place for a great price. Good location too.,"Hotel M Social Singapore (SG Clean, Staycation Approved)",9,0.689,0,0.311,0.9022
+241,40,Good,"Hotel M Social Singapore (SG Clean, Staycation Approved)",7,1,0,0,0.4404
+242,41,Pleasant,"Hotel M Social Singapore (SG Clean, Staycation Approved)",6,1,0,0,0.5106
+243,42,cosy room and nice location,"Hotel M Social Singapore (SG Clean, Staycation Approved)",8,0.412,0,0.588,0.4215
+244,43,"nice loft room with patio, not vegetarian friendly","Hotel M Social Singapore (SG Clean, Staycation Approved)",7,0.245,0.23,0.525,0.0444
+245,44,awesome place for a staycation,"Hotel M Social Singapore (SG Clean, Staycation Approved)",8,0.577,0,0.423,0.6249
+246,45,Very Good,"Hotel M Social Singapore (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+247,46,Wonderful,"Hotel M Social Singapore (SG Clean, Staycation Approved)",9,1,0,0,0.5719
+248,47,Fair,"Hotel M Social Singapore (SG Clean, Staycation Approved)",5,1,0,0,0.3182
+249,48,Pleasant,"Hotel M Social Singapore (SG Clean, Staycation Approved)",6,1,0,0,0.5106
+250,49,Exceptional,"Hotel M Social Singapore (SG Clean, Staycation Approved)",10,0,0,1,0
+251,50,Exceptional,"Hotel M Social Singapore (SG Clean, Staycation Approved)",10,0,0,1,0
+252,51,Disappointing.,"Hotel M Social Singapore (SG Clean, Staycation Approved)",4,0,1,0,-0.4939
+253,52,Fair,"Hotel M Social Singapore (SG Clean, Staycation Approved)",5,1,0,0,0.3182
+254,53,Exceptional,"Hotel M Social Singapore (SG Clean, Staycation Approved)",10,0,0,1,0
+255,54,Good,"Hotel M Social Singapore (SG Clean, Staycation Approved)",7,1,0,0,0.4404
+256,55,Very Good,"Hotel M Social Singapore (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+257,56,Thank you M social! You have never disappoint us!,"Hotel M Social Singapore (SG Clean, Staycation Approved)",10,0.471,0,0.529,0.6533
+258,57,i would to to get late check out again for my future stay. will recommend to friends and family thank you M social for l,"Hotel M Social Singapore (SG Clean, Staycation Approved)",10,0.299,0,0.701,0.7964
+259,58,Pleasant,"Hotel M Social Singapore (SG Clean, Staycation Approved)",6,1,0,0,0.5106
+260,59,Nice and cozy,"Hotel M Social Singapore (SG Clean, Staycation Approved)",7,0.583,0,0.417,0.4215
+261,60,Exceptional,"Hotel M Social Singapore (SG Clean, Staycation Approved)",10,0,0,1,0
+262,61,Unpleasant stay,"Hotel M Social Singapore (SG Clean, Staycation Approved)",1,0,0.756,0.244,-0.4767
+263,62,Good,"Hotel M Social Singapore (SG Clean, Staycation Approved)",7,1,0,0,0.4404
+264,63,Good,"Hotel M Social Singapore (SG Clean, Staycation Approved)",7,1,0,0,0.4404
+265,64,Exceptional,"Hotel M Social Singapore (SG Clean, Staycation Approved)",10,0,0,1,0
+266,65,Very Good,"Hotel M Social Singapore (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+267,66,Very Good,"Hotel M Social Singapore (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+268,67,it was ok,"Hotel M Social Singapore (SG Clean, Staycation Approved)",7,0.524,0,0.476,0.296
+269,68,won’t come back again.,"Hotel M Social Singapore (SG Clean, Staycation Approved)",5,0,0,1,0
+270,69,Bad,"Hotel M Social Singapore (SG Clean, Staycation Approved)",1,0,1,0,-0.5423
+271,70,Pleasant,"Hotel M Social Singapore (SG Clean, Staycation Approved)",6,1,0,0,0.5106
+272,71,Bad,"Hotel M Social Singapore (SG Clean, Staycation Approved)",1,0,1,0,-0.5423
+273,72,"Ok, staff were excellent but would not stay again as beds were so uncomfortable","Hotel M Social Singapore (SG Clean, Staycation Approved)",6,0.203,0.233,0.564,-0.3817
+274,73,Good,"Hotel M Social Singapore (SG Clean, Staycation Approved)",7,1,0,0,0.4404
+275,74,Very Good,"Hotel M Social Singapore (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+276,75,Wonderful,"Hotel M Social Singapore (SG Clean, Staycation Approved)",9,1,0,0,0.5719
+277,76,Good,"Hotel M Social Singapore (SG Clean, Staycation Approved)",7,1,0,0,0.4404
+278,77,Very Good,"Hotel M Social Singapore (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+279,78,Different than most hotel. Pleasant staff. Clean. Tiny room.,"Hotel M Social Singapore (SG Clean, Staycation Approved)",6,0.473,0,0.527,0.7414
+280,79,Excellent location,"Hotel M Social Singapore (SG Clean, Staycation Approved)",10,0.787,0,0.213,0.5719
+281,80,Very Good,"Hotel M Social Singapore (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+282,81,Good,"Hotel M Social Singapore (SG Clean, Staycation Approved)",7,1,0,0,0.4404
+283,82,Very Good,"Hotel M Social Singapore (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+284,83,Wonderful,"Hotel M Social Singapore (SG Clean, Staycation Approved)",9,1,0,0,0.5719
+285,84,Very Good,"Hotel M Social Singapore (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+286,85,Very Good,"Hotel M Social Singapore (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+287,86,Good,"Hotel M Social Singapore (SG Clean, Staycation Approved)",7,1,0,0,0.4404
+288,87,Exceptional,"Hotel M Social Singapore (SG Clean, Staycation Approved)",10,0,0,1,0
+289,88,Very Good,"Hotel M Social Singapore (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+290,89,Exceptional,"Hotel M Social Singapore (SG Clean, Staycation Approved)",10,0,0,1,0
+291,90,Very Good,"Hotel M Social Singapore (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+292,91,Good,"Hotel M Social Singapore (SG Clean, Staycation Approved)",7,1,0,0,0.4404
+293,92,Exceptional,"Hotel M Social Singapore (SG Clean, Staycation Approved)",10,0,0,1,0
+294,93,Good,"Hotel M Social Singapore (SG Clean, Staycation Approved)",8,1,0,0,0.4404
+295,94,Exceptional,"Hotel M Social Singapore (SG Clean, Staycation Approved)",10,0,0,1,0
+296,95,Exceptional,"Hotel M Social Singapore (SG Clean, Staycation Approved)",10,0,0,1,0
+297,96,Disappointing,"Hotel M Social Singapore (SG Clean, Staycation Approved)",2,0,1,0,-0.4939
+298,97,Exceptional,"Hotel M Social Singapore (SG Clean, Staycation Approved)",10,0,0,1,0
+299,98,Wonderful,"Hotel M Social Singapore (SG Clean, Staycation Approved)",9,1,0,0,0.5719
+300,99,Exceptional,"Hotel M Social Singapore (SG Clean, Staycation Approved)",10,0,0,1,0
+301,0,Wonderful,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),9,1,0,0,0.5719
+302,1,Thank you :),Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),10,0.846,0,0.154,0.6705
+303,2,Good,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),7,1,0,0,0.4404
+304,3,Excellent stay! Will definitely come back to this hotel.,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),8,0.489,0,0.511,0.7712
+305,4,Exceptional,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+306,5,Relaxing spot for Sentosa stay,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),8.8,0.444,0,0.556,0.4939
+307,6,Wonderful,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),9,1,0,0,0.5719
+308,7,Nice location and swimming pools,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),9,0.412,0,0.588,0.4215
+309,8,Exceptional,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+310,9,Exceptional,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+311,10,Will certainly visit this hotel again for its excellent location and service standards.,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),9,0.357,0,0.643,0.7269
+312,11,Wonderful,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),9,1,0,0,0.5719
+313,12,Exceptional,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+314,13,Bad,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),1,0,1,0,-0.5423
+315,14,Very Good,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),8,0.762,0,0.238,0.4927
+316,15,Awesome place for a staycay!,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),8,0.594,0,0.406,0.6588
+317,16,Great stay as the stuff were really helpful and polite!,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),9,0.483,0,0.517,0.8169
+318,17,Good,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),7,1,0,0,0.4404
+319,18,mediocre. at least the staff were pleasant and eager to please,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),6,0.503,0,0.497,0.7964
+320,19,The whole experience was great. Wonderful job by the hotel team!,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),9,0.473,0,0.527,0.8439
+321,20,Very Good,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),8,0.762,0,0.238,0.4927
+322,21,Exceptional,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+323,22,Exceptional resort hotel,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+324,23,Exceptional,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+325,24,Good,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),7,1,0,0,0.4404
+326,25,Exceptional,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+327,26,Wonderful,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),9,1,0,0,0.5719
+328,27,Fair,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),5,1,0,0,0.3182
+329,28,Boutique resort,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),8.8,0,0,1,0
+330,29,Fair,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),5.4,1,0,0,0.3182
+331,30,Exceptional,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+332,31,Wonderful,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),9,1,0,0,0.5719
+333,32,Wonderful,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),9.2,1,0,0,0.5719
+334,33,great,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),9,1,0,0,0.6249
+335,34,Very Good,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),8,0.762,0,0.238,0.4927
+336,35,it would be wise to visit the infinity pool after hours to avoid the big crowd and lil children,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),9,0.139,0.099,0.762,0.2263
+337,36,Exceptional,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+338,37,Exceptional,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+339,38,Exceptional,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+340,39,Excellent,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),8.8,1,0,0,0.5719
+341,40,Exceptional,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+342,41,Wonderful,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),9,1,0,0,0.5719
+343,42,Exceptional,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+344,43,"Fantastic hotel, will definitely visit again!",Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),10,0.622,0,0.378,0.7644
+345,44,Exceptional,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+346,45,Exceptional,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+347,46,Feeling in heaven,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),9,0.828,0,0.172,0.5859
+348,47,Gorgeous staycation in Sentosa,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),9.2,0.571,0,0.429,0.6124
+349,48,"New, fancy hotel, highly recomended",Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+350,49,Amazing stay,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),10,0.792,0,0.208,0.5859
+351,50,Exceptional,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),9.6,0,0,1,0
+352,51,Decent staycation choice,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),7,0,0,1,0
+353,52,Exceptional,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),9.6,0,0,1,0
+354,53,Fair,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),5,1,0,0,0.3182
+355,54,Wonderful,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),9,1,0,0,0.5719
+356,55,Luxury stay,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+357,56,Good,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),7.5,1,0,0,0.4404
+358,57,Good,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),7.9,1,0,0,0.4404
+359,58,Wonderful,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),9.2,1,0,0,0.5719
+360,59,Good,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),7.5,1,0,0,0.4404
+361,60,Exceptional,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+362,61,GREAT SERVICES !,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),10,0.815,0,0.185,0.6588
+363,62,Good,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),7.9,1,0,0,0.4404
+364,63,Value for Money getaway,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),8,0.444,0,0.556,0.34
+365,64,Exceptional,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+366,65,Exceptional,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),9.6,0,0,1,0
+367,66,Wonderful,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),9,1,0,0,0.5719
+368,67,Nice pool,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),7.1,0.737,0,0.263,0.4215
+369,68,Good,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),7.1,1,0,0,0.4404
+370,69,Exceptional,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+371,70,Very Good,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),8,0.762,0,0.238,0.4927
+372,71,Exceptional,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+373,72,This is a very nice n romantic hotel. But only not much restaurant. . Can’t get gd food around here.,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),8,0.212,0,0.788,0.4653
+374,73,nice boutique hotel,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),8,0.583,0,0.417,0.4215
+375,74,Exceptional,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+376,75,It wa,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),6,0,0,1,0
+377,76,"OK, but don't go there if you have other luggage in transit from or to another holiday.",Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),7,0.269,0,0.731,0.6722
+378,77,Exceptional,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+379,78,The stay was awesome,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),9,0.577,0,0.423,0.6249
+380,79,Exceptional,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+381,80,Excellent,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),8.8,1,0,0,0.5719
+382,81,Good,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),7.9,1,0,0,0.4404
+383,82,Exceptional,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),9.6,0,0,1,0
+384,83,"Very helpful staff, clean, tidy location.",Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),9,0.602,0,0.398,0.7233
+385,84,Great experience,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),9,0.804,0,0.196,0.6249
+386,85,Very Good,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),8,0.762,0,0.238,0.4927
+387,86,Very Good,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),8,0.762,0,0.238,0.4927
+388,87,Exceptional,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+389,88,Our stay at the hotel will be one of our best memories,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),10,0.276,0,0.724,0.6369
+390,89,Good,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),7.5,1,0,0,0.4404
+391,90,Excellent,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),8.8,1,0,0,0.5719
+392,91,Luxury stay in Singapore,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),9,0,0,1,0
+393,92,Exceptional,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+394,93,Excellent,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),8.8,1,0,0,0.5719
+395,94,"Great service, considered too high in price, good location",Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),5,0.5,0,0.5,0.7906
+396,95,Weekend Staycation,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),9.6,0,0,1,0
+397,96,Exceptional,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+398,97,Exceptional,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),10,0,0,1,0
+399,98,Amazing stay at Outpost,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),9.2,0.559,0,0.441,0.5859
+400,99,Overpriced,Hotel The Outpost Hotel Sentosa by Far East Hospitality (SG Clean),6,0,0,1,0
+401,0,Very Good,Condo Hotel Orchard Grand Court,8,0.762,0,0.238,0.4927
+402,1,Wonderful,Condo Hotel Orchard Grand Court,9,1,0,0,0.5719
+403,2,Exceptional,Condo Hotel Orchard Grand Court,10,0,0,1,0
+404,3,Wonderful,Condo Hotel Orchard Grand Court,9,1,0,0,0.5719
+405,4,Wedding anniversary holiday- great place to stay for all the central sites.,Condo Hotel Orchard Grand Court,10,0.405,0,0.595,0.7783
+406,5,Very Good,Condo Hotel Orchard Grand Court,8,0.762,0,0.238,0.4927
+407,6,Very Good,Condo Hotel Orchard Grand Court,8,0.762,0,0.238,0.4927
+408,7,Comfortable home away from home,Condo Hotel Orchard Grand Court,8,0.452,0,0.548,0.5106
+409,8,Wonderful,Condo Hotel Orchard Grand Court,9,1,0,0,0.5719
+410,9,Very Good,Condo Hotel Orchard Grand Court,8,0.762,0,0.238,0.4927
+411,10,Very Good,Condo Hotel Orchard Grand Court,8,0.762,0,0.238,0.4927
+412,11,Very pleasant stay and will definitely recommend to all and come againon my next SG visit!,Condo Hotel Orchard Grand Court,9,0.411,0,0.589,0.8436
+413,12,Good,Condo Hotel Orchard Grand Court,7,1,0,0,0.4404
+414,13,Amazing stay thank you so much 😀,Condo Hotel Orchard Grand Court,9,0.612,0,0.388,0.743
+415,14,Wonderful,Condo Hotel Orchard Grand Court,9,1,0,0,0.5719
+416,15,Very Good,Condo Hotel Orchard Grand Court,8,0.762,0,0.238,0.4927
+417,16,Good,Condo Hotel Orchard Grand Court,7,1,0,0,0.4404
+418,17,Fair value and good location,Condo Hotel Orchard Grand Court,6,0.792,0,0.208,0.765
+419,18,"Overall, a comfortable hotel",Condo Hotel Orchard Grand Court,8,0.623,0,0.377,0.5106
+420,19,"Spacious apartment with all the amenities you could want, in a fantastic location.",Condo Hotel Orchard Grand Court,9,0.329,0,0.671,0.5994
+421,20,Very Good,Condo Hotel Orchard Grand Court,8,0.762,0,0.238,0.4927
+422,21,Exceptional,Condo Hotel Orchard Grand Court,10,0,0,1,0
+423,22,"Staff were very helpful, nice, genuine and my stay was beyond my expectation!",Condo Hotel Orchard Grand Court,10,0.37,0,0.63,0.7553
+424,23,Wonderful,Condo Hotel Orchard Grand Court,9,1,0,0,0.5719
+425,24,Very satisfied.,Condo Hotel Orchard Grand Court,8,0.756,0,0.244,0.4754
+426,25,comfortable and great location.,Condo Hotel Orchard Grand Court,8,0.787,0,0.213,0.8126
+427,26,Overpriced Service apartment in decent location,Condo Hotel Orchard Grand Court,6,0,0,1,0
+428,27,Very Good,Condo Hotel Orchard Grand Court,8,0.762,0,0.238,0.4927
+429,28,Wonderful,Condo Hotel Orchard Grand Court,9,1,0,0,0.5719
+430,29,Have soft pillows and soft new towels and have room dust off before anyone comes to stay,Condo Hotel Orchard Grand Court,1,0,0,1,0
+431,30,Very Good,Condo Hotel Orchard Grand Court,8,0.762,0,0.238,0.4927
+432,31,Good,Condo Hotel Orchard Grand Court,7,1,0,0,0.4404
+433,32,Wonderful,Condo Hotel Orchard Grand Court,9,1,0,0,0.5719
+434,33,Wonderful,Condo Hotel Orchard Grand Court,9,1,0,0,0.5719
+435,34,Wonderful,Condo Hotel Orchard Grand Court,9,1,0,0,0.5719
+436,35,Very pleasant stay.,Condo Hotel Orchard Grand Court,9,0.642,0,0.358,0.5563
+437,36,Exceptional,Condo Hotel Orchard Grand Court,10,0,0,1,0
+438,37,Very nice apartment location excellent near to MRT and shops and restaurants,Condo Hotel Orchard Grand Court,9,0.405,0,0.595,0.7778
+439,38,would definitely stay there again if I visit Singapore again.,Condo Hotel Orchard Grand Court,8,0.252,0,0.748,0.4019
+440,39,Great location,Condo Hotel Orchard Grand Court,8,0.804,0,0.196,0.6249
+441,40,A great location,Condo Hotel Orchard Grand Court,8,0.804,0,0.196,0.6249
+442,41,Pleasant,Condo Hotel Orchard Grand Court,6,1,0,0,0.5106
+443,42,Poor,Condo Hotel Orchard Grand Court,3,0,1,0,-0.4767
+444,43,Old but accommodative,Condo Hotel Orchard Grand Court,8,0,0,1,0
+445,44,Wonderful,Condo Hotel Orchard Grand Court,9,1,0,0,0.5719
+446,45,Bad,Condo Hotel Orchard Grand Court,1,0,1,0,-0.5423
+447,46,Exceptional,Condo Hotel Orchard Grand Court,10,0,0,1,0
+448,47,Pleasant,Condo Hotel Orchard Grand Court,6,1,0,0,0.5106
+449,48,Good,Condo Hotel Orchard Grand Court,7,1,0,0,0.4404
+450,49,Very Good,Condo Hotel Orchard Grand Court,8,0.762,0,0.238,0.4927
+451,50,Value for money,Condo Hotel Orchard Grand Court,8,0.545,0,0.455,0.34
+452,51,Good,Condo Hotel Orchard Grand Court,7,1,0,0,0.4404
+453,52,Very Good,Condo Hotel Orchard Grand Court,8,0.762,0,0.238,0.4927
+454,53,Wonderful,Condo Hotel Orchard Grand Court,9,1,0,0,0.5719
+455,54,Very well situated serviced apartment. Would stay there again.,Condo Hotel Orchard Grand Court,10,0.23,0,0.77,0.3384
+456,55,Excellently located for exploring the sights,Condo Hotel Orchard Grand Court,8,0.451,0,0.549,0.6249
+457,56,Wonderful,Condo Hotel Orchard Grand Court,9,1,0,0,0.5719
+458,57,pleasant stay except for the mentioned annoyances,Condo Hotel Orchard Grand Court,7,0.297,0.252,0.45,0.128
+459,58,It was a good staycation,Condo Hotel Orchard Grand Court,7,0.492,0,0.508,0.4404
+460,59,Disappointing,Condo Hotel Orchard Grand Court,3,0,1,0,-0.4939
+461,60,Exceptional,Condo Hotel Orchard Grand Court,10,0,0,1,0
+462,61,Very Good,Condo Hotel Orchard Grand Court,8,0.762,0,0.238,0.4927
+463,62,Very Good,Condo Hotel Orchard Grand Court,8,0.762,0,0.238,0.4927
+464,63,Very Good,Condo Hotel Orchard Grand Court,8,0.762,0,0.238,0.4927
+465,64,Fair,Condo Hotel Orchard Grand Court,5,1,0,0,0.3182
+466,65,Wonderful,Condo Hotel Orchard Grand Court,9,1,0,0,0.5719
+467,66,"I stayed in the apartment most of time to avoid risk of infection, it is comfortable enough to do.",Condo Hotel Orchard Grand Court,8,0.146,0.19,0.664,0
+468,67,Wonderful,Condo Hotel Orchard Grand Court,9,1,0,0,0.5719
+469,68,Nice !,Condo Hotel Orchard Grand Court,8,1,0,0,0.4753
+470,69,Exceptional,Condo Hotel Orchard Grand Court,10,0,0,1,0
+471,70,Exceptional,Condo Hotel Orchard Grand Court,10,0,0,1,0
+472,71,Excellent services apts,Condo Hotel Orchard Grand Court,10,0.649,0,0.351,0.5719
+473,72,Exceptional,Condo Hotel Orchard Grand Court,10,0,0,1,0
+474,73,Very Good,Condo Hotel Orchard Grand Court,8,0.762,0,0.238,0.4927
+475,74,Fair,Condo Hotel Orchard Grand Court,5,1,0,0,0.3182
+476,75,Wonderful,Condo Hotel Orchard Grand Court,9,1,0,0,0.5719
+477,76,Very Good,Condo Hotel Orchard Grand Court,8,0.762,0,0.238,0.4927
+478,77,Good Hotel for good price,Condo Hotel Orchard Grand Court,8,0.659,0,0.341,0.7003
+479,78,Wonderful,Condo Hotel Orchard Grand Court,9,1,0,0,0.5719
+480,79,Good place to stay near Orchard area,Condo Hotel Orchard Grand Court,7,0.326,0,0.674,0.4404
+481,80,If you want a good location with kitchen facilities to cook your own meals then OGC will suit your n,Condo Hotel Orchard Grand Court,8,0.208,0,0.792,0.4939
+482,81,Very Good,Condo Hotel Orchard Grand Court,8,0.762,0,0.238,0.4927
+483,82,Very Good,Condo Hotel Orchard Grand Court,8,0.762,0,0.238,0.4927
+484,83,Good,Condo Hotel Orchard Grand Court,6,1,0,0,0.4404
+485,84,Very Good,Condo Hotel Orchard Grand Court,8.3,0.762,0,0.238,0.4927
+486,85,Loved the ambience of the place and would stay again.,Condo Hotel Orchard Grand Court,8,0.302,0,0.698,0.5994
+487,86,Very Good,Condo Hotel Orchard Grand Court,8,0.762,0,0.238,0.4927
+488,87,Hidden location, short walk to Orchard Rd.,Condo Hotel Orchard Grand Court,0,0,1,0
+489,88,Exceptional,Condo Hotel Orchard Grand Court,10,0,0,1,0
+490,89,Expensive/Safe/Comfortable/Central,Condo Hotel Orchard Grand Court,8,0,0,1,0
+491,90,Great value for money and a fabulous location on Killiney Road.,Condo Hotel Orchard Grand Court,8,0.586,0,0.414,0.872
+492,91,Good,Condo Hotel Orchard Grand Court,7,1,0,0,0.4404
+493,92,Wonderful,Condo Hotel Orchard Grand Court,9,1,0,0,0.5719
+494,93,Exceptional,Condo Hotel Orchard Grand Court,10,0,0,1,0
+495,94,Lovely unit. Highly recommend it,Condo Hotel Orchard Grand Court,10,0.687,0,0.313,0.7645
+496,95,Wonderful,Condo Hotel Orchard Grand Court,9,1,0,0,0.5719
+497,96,A comfortable, well located place for a couple for a holiday stay.,Condo Hotel Orchard Grand Court,0,0,1,0
+498,97,Very Good,Condo Hotel Orchard Grand Court,8.3,0.762,0,0.238,0.4927
+499,98,Exceptional,Condo Hotel Orchard Grand Court,10,0,0,1,0
+500,99,Very Good,Condo Hotel Orchard Grand Court,8,0.762,0,0.238,0.4927
+501,0,Bad,Hotel Hotel Supreme,1,0,1,0,-0.5423
+502,1,Very Good,Hotel Hotel Supreme,8,0.762,0,0.238,0.4927
+503,2,Very Good,Hotel Hotel Supreme,8,0.762,0,0.238,0.4927
+504,3,Fair,Hotel Hotel Supreme,5,1,0,0,0.3182
+505,4,Very Good,Hotel Hotel Supreme,8,0.762,0,0.238,0.4927
+506,5,Don’t even go to this place - waste of money and staff if extremely unhelpful,Hotel Hotel Supreme,1,0,0.177,0.823,-0.4215
+507,6,Good affordable stay,Hotel Hotel Supreme,7,0.592,0,0.408,0.4404
+508,7,Fair,Hotel Hotel Supreme,5,1,0,0,0.3182
+509,8,Exceptional,Hotel Hotel Supreme,10,0,0,1,0
+510,9,Bad,Hotel Hotel Supreme,1,0,1,0,-0.5423
+511,10,Bad,Hotel Hotel Supreme,1,0,1,0,-0.5423
+512,11,Budget,Hotel Hotel Supreme,7,0,0,1,0
+513,12,Good.,Hotel Hotel Supreme,7,1,0,0,0.4404
+514,13,Poor,Hotel Hotel Supreme,3,0,1,0,-0.4767
+515,14,Bad,Hotel Hotel Supreme,1,0,1,0,-0.5423
+516,15,Close proximity to shopping belt.,Hotel Hotel Supreme,7,0,0,1,0
+517,16,Fair,Hotel Hotel Supreme,5,1,0,0,0.3182
+518,17,"check out time done pre- booked confirm..,but counter ignore.",Hotel Hotel Supreme,2,0,0.238,0.762,-0.3612
+519,18,Very Basic. So get your own stuff.,Hotel Hotel Supreme,7,0,0,1,0
+520,19,Lift to small 2 pax + luggage very tight…. Overall okey…,Hotel Hotel Supreme,9,0,0,1,0
+521,20,Fair,Hotel Hotel Supreme,5,1,0,0,0.3182
+522,21,somewhat satisfied,Hotel Hotel Supreme,5,0.715,0,0.285,0.3626
+523,22,Exceptional,Hotel Hotel Supreme,10,0,0,1,0
+524,23,Good,Hotel Hotel Supreme,7,1,0,0,0.4404
+525,24,Fair,Hotel Hotel Supreme,5,1,0,0,0.3182
+526,25,Very Good,Hotel Hotel Supreme,8,0.762,0,0.238,0.4927
+527,26,Wonderful,Hotel Hotel Supreme,9,1,0,0,0.5719
+528,27,Comfortable,Hotel Hotel Supreme,10,1,0,0,0.5106
+529,28,Exceptional,Hotel Hotel Supreme,10,0,0,1,0
+530,29,Very Good,Hotel Hotel Supreme,8,0.762,0,0.238,0.4927
+531,30,Wonderful,Hotel Hotel Supreme,9,1,0,0,0.5719
+532,31,Good,Hotel Hotel Supreme,7,1,0,0,0.4404
+533,32,Very Poor,Hotel Hotel Supreme,2,0,0.772,0.228,-0.5256
+534,33,Fair,Hotel Hotel Supreme,5,1,0,0,0.3182
+535,34,Bad experiences,Hotel Hotel Supreme,1,0,0.778,0.222,-0.5423
+536,35,Very Good,Hotel Hotel Supreme,8,0.762,0,0.238,0.4927
+537,36,Good,Hotel Hotel Supreme,7,1,0,0,0.4404
+538,37,Not using it again.,Hotel Hotel Supreme,2,0,0,1,0
+539,38,A pleasant stay.,Hotel Hotel Supreme,6,0.767,0,0.233,0.5106
+540,39,Very Good,Hotel Hotel Supreme,8,0.762,0,0.238,0.4927
+541,40,Good,Hotel Hotel Supreme,7,1,0,0,0.4404
+542,41,Good,Hotel Hotel Supreme,7,1,0,0,0.4404
+543,42,Exceptional,Hotel Hotel Supreme,10,0,0,1,0
+544,43,Exceptional,Hotel Hotel Supreme,10,0,0,1,0
+545,44,Exceptional,Hotel Hotel Supreme,10,0,0,1,0
+546,45,Pleasant,Hotel Hotel Supreme,6,1,0,0,0.5106
+547,46,The room that they gave it to me to stay was next to the cleaning stuffs... Can’t sleep at night because of the cleaning,Hotel Hotel Supreme,2,0,0,1,0
+548,47,Exceptional,Hotel Hotel Supreme,10,0,0,1,0
+549,48,Reasonable ok,Hotel Hotel Supreme,8,0.688,0,0.312,0.296
+550,49,Good,Hotel Hotel Supreme,7,1,0,0,0.4404
+551,50,Exceptional,Hotel Hotel Supreme,10,0,0,1,0
+552,51,Pleasant,Hotel Hotel Supreme,6,1,0,0,0.5106
+553,52,Very Good,Hotel Hotel Supreme,8,0.762,0,0.238,0.4927
+554,53,Bad,Hotel Hotel Supreme,1,0,1,0,-0.5423
+555,54,Bad Communication Skills,Hotel Hotel Supreme,1,0,0.636,0.364,-0.5423
+556,55,Bad,Hotel Hotel Supreme,1,0,1,0,-0.5423
+557,56,Overall was pretty good.. Staff was friendly,Hotel Hotel Supreme,6,0.561,0,0.439,0.7506
+558,57,Good,Hotel Hotel Supreme,7,1,0,0,0.4404
+559,58,Worst!,Hotel Hotel Supreme,1,0,1,0,-0.6588
+560,59,Wonderful,Hotel Hotel Supreme,9,1,0,0,0.5719
+561,60,Very Good,Hotel Hotel Supreme,8,0.762,0,0.238,0.4927
+562,61,Very Good,Hotel Hotel Supreme,8,0.762,0,0.238,0.4927
+563,62,"Enjoyable, Satisfied ..",Hotel Hotel Supreme,8,0.851,0,0.149,0.6908
+564,63,Value for money,Hotel Hotel Supreme,7,0.545,0,0.455,0.34
+565,64,Very Good,Hotel Hotel Supreme,8,0.762,0,0.238,0.4927
+566,65,My stay was okay so far ..Will book again next time as its cheaper compare to other budget hotel,Hotel Hotel Supreme,5,0.095,0,0.905,0.2263
+567,66,Staff are friendly and flexible in checking in.,Hotel Hotel Supreme,8,0.459,0,0.541,0.6249
+568,67,Fair,Hotel Hotel Supreme,5,1,0,0,0.3182
+569,68,🙄,Hotel Hotel Supreme,6,0,0,0,0
+570,69,Good,Hotel Hotel Supreme,7,1,0,0,0.4404
+571,70,Exceptional,Hotel Hotel Supreme,10,0,0,1,0
+572,71,Good,Hotel Hotel Supreme,7,1,0,0,0.4404
+573,72,Fair,Hotel Hotel Supreme,5,1,0,0,0.3182
+574,73,Bad,Hotel Hotel Supreme,1,0,1,0,-0.5423
+575,74,Fair,Hotel Hotel Supreme,5,1,0,0,0.3182
+576,75,Poor,Hotel Hotel Supreme,3,0,1,0,-0.4767
+577,76,Pleasant,Hotel Hotel Supreme,6,1,0,0,0.5106
+578,77,Very Good,Hotel Hotel Supreme,8,0.762,0,0.238,0.4927
+579,78,Pleasant,Hotel Hotel Supreme,6,1,0,0,0.5106
+580,79,Good,Hotel Hotel Supreme,7,1,0,0,0.4404
+581,80,Exceptional,Hotel Hotel Supreme,10,0,0,1,0
+582,81,Bad,Hotel Hotel Supreme,1,0,1,0,-0.5423
+583,82,Bad,Hotel Hotel Supreme,1,0,1,0,-0.5423
+584,83,Poor,Hotel Hotel Supreme,3,0,1,0,-0.4767
+585,84,Exceptional,Hotel Hotel Supreme,10,0,0,1,0
+586,85,Nothing to comment or interesting.,Hotel Hotel Supreme,5,0.403,0,0.597,0.4019
+587,86,Exceptional,Hotel Hotel Supreme,10,0,0,1,0
+588,87,Exceptional,Hotel Hotel Supreme,10,0,0,1,0
+589,88,Good,Hotel Hotel Supreme,7,1,0,0,0.4404
+590,89,Good,Hotel Hotel Supreme,7,1,0,0,0.4404
+591,90,Exceptional,Hotel Hotel Supreme,10,0,0,1,0
+592,91,Bad,Hotel Hotel Supreme,1,0,1,0,-0.5423
+593,92,Bad,Hotel Hotel Supreme,1,0,1,0,-0.5423
+594,93,Poor,Hotel Hotel Supreme,3,0,1,0,-0.4767
+595,94,Exceptional,Hotel Hotel Supreme,10,0,0,1,0
+596,95,Nothing to comment or interesting.,Hotel Hotel Supreme,5,0.403,0,0.597,0.4019
+597,96,Exceptional,Hotel Hotel Supreme,10,0,0,1,0
+598,97,Exceptional,Hotel Hotel Supreme,10,0,0,1,0
+599,98,Good,Hotel Hotel Supreme,7,1,0,0,0.4404
+600,99,Good,Hotel Hotel Supreme,7,1,0,0,0.4404
+601,0,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+602,1,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+603,2,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+604,3,Get it booked if visiting Singapore!! 🇸🇬 😁 You will not be disappointed!!,Hotel Marina Bay Sands (SG Clean),10,0.253,0,0.747,0.575
+605,4,Amazing place with some flaws they could easily avoid if they wanted to,Hotel Marina Bay Sands (SG Clean),8,0.337,0.12,0.543,0.6124
+606,5,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+607,6,A must go but need to improve their breakfast logistics,Hotel Marina Bay Sands (SG Clean),8,0.325,0,0.675,0.5927
+608,7,Amazing stopover in Marina Bay Sands Hotel. This place is everything you've heard of and more.....,Hotel Marina Bay Sands (SG Clean),10,0.202,0,0.798,0.5859
+609,8,It is a must to stay here whilst in Singapore!,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+610,9,Very Good,Hotel Marina Bay Sands (SG Clean),8,0.762,0,0.238,0.4927
+611,10,Amazing service and incredible fresh room,Hotel Marina Bay Sands (SG Clean),10,0.604,0,0.396,0.7269
+612,11,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+613,12,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+614,13,excellent,Hotel Marina Bay Sands (SG Clean),10,1,0,0,0.5719
+615,14,everyone should come to visit Marina Bay Sand,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+616,15,Very Good,Hotel Marina Bay Sands (SG Clean),8,0.762,0,0.238,0.4927
+617,16,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+618,17,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+619,18,Awesome!,Hotel Marina Bay Sands (SG Clean),9,1,0,0,0.6588
+620,19,Disappointing,Hotel Marina Bay Sands (SG Clean),4,0,1,0,-0.4939
+621,20,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+622,21,Great place for business travel.,Hotel Marina Bay Sands (SG Clean),8,0.506,0,0.494,0.6249
+623,22,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+624,23,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+625,24,Amazing experience,Hotel Marina Bay Sands (SG Clean),10,0.792,0,0.208,0.5859
+626,25,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+627,26,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+628,27,excellent,Hotel Marina Bay Sands (SG Clean),10,1,0,0,0.5719
+629,28,Excellent!,Hotel Marina Bay Sands (SG Clean),10,1,0,0,0.6114
+630,29,Definitely a place to come back,Hotel Marina Bay Sands (SG Clean),10,0.403,0,0.597,0.4019
+631,30,Perfect in every way :-),Hotel Marina Bay Sands (SG Clean),10,0.667,0,0.333,0.7184
+632,31,loved it and would definitely come back to stay again!,Hotel Marina Bay Sands (SG Clean),10,0.463,0,0.537,0.784
+633,32,our spot !,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+634,33,Superb stay in top quality hotel. What an experience,Hotel Marina Bay Sands (SG Clean),9,0.457,0,0.543,0.7096
+635,34,awesome,Hotel Marina Bay Sands (SG Clean),9,1,0,0,0.6249
+636,35,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+637,36,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+638,37,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+639,38,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+640,39,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+641,40,Wonderful,Hotel Marina Bay Sands (SG Clean),9,1,0,0,0.5719
+642,41,awesome,Hotel Marina Bay Sands (SG Clean),9,1,0,0,0.6249
+643,42,"We love the whole experience at MBS. The Level 57 pool, bar and views were the highlight.",Hotel Marina Bay Sands (SG Clean),10,0.306,0,0.694,0.765
+644,43,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+645,44,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+646,45,Wonderful,Hotel Marina Bay Sands (SG Clean),9,1,0,0,0.5719
+647,46,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+648,47,perfect stay for a holiday with the family. loved it.,Hotel Marina Bay Sands (SG Clean),10,0.632,0,0.368,0.8834
+649,48,lovely,Hotel Marina Bay Sands (SG Clean),10,1,0,0,0.5859
+650,49,Wonderful,Hotel Marina Bay Sands (SG Clean),9,1,0,0,0.5719
+651,50,Comfortable and a great stay!,Hotel Marina Bay Sands (SG Clean),8,0.794,0,0.206,0.8268
+652,51,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+653,52,Wonderful,Hotel Marina Bay Sands (SG Clean),9,1,0,0,0.5719
+654,53,So many stuff but they don’t have a yeah on hotels information,Hotel Marina Bay Sands (SG Clean),8,0.219,0,0.781,0.4215
+655,54,Very Good,Hotel Marina Bay Sands (SG Clean),8,0.762,0,0.238,0.4927
+656,55,it was amazing. the hotel is fantastic and the staffs are lovely.,Hotel Marina Bay Sands (SG Clean),10,0.554,0,0.446,0.9042
+657,56,Best hotel ever,Hotel Marina Bay Sands (SG Clean),10,0.677,0,0.323,0.6369
+658,57,perfect couple gateaway,Hotel Marina Bay Sands (SG Clean),10,0.649,0,0.351,0.5719
+659,58,Very Good,Hotel Marina Bay Sands (SG Clean),8,0.762,0,0.238,0.4927
+660,59,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+661,60,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+662,61,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+663,62,This was our first staycation and our family enjoyed it.,Hotel Marina Bay Sands (SG Clean),8,0.268,0,0.732,0.5106
+664,63,Unforgettable experience in the heart of the city,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+665,64,Fair,Hotel Marina Bay Sands (SG Clean),5,1,0,0,0.3182
+666,65,Pleasant,Hotel Marina Bay Sands (SG Clean),6,1,0,0,0.5106
+667,66,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+668,67,I regret not booking for more days,Hotel Marina Bay Sands (SG Clean),9,0,0.359,0.641,-0.4215
+669,68,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+670,69,mbs is a nice spot but a terrible value if you don’t require a luxury hotel experience,Hotel Marina Bay Sands (SG Clean),4,0.248,0.206,0.546,-0.0387
+671,70,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+672,71,luxury,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+673,72,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+674,73,Most famous hotel in Singapore,Hotel Marina Bay Sands (SG Clean),8,0,0,1,0
+675,74,A stay to remember,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+676,75,Ultimate experience,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+677,76,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+678,77,An all rounder package,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+679,78,I would love to give 10 by 10 rates that they deserve especially 24/7 reception and infinity pool,Hotel Marina Bay Sands (SG Clean),10,0.208,0,0.792,0.6369
+680,79,amazing relaxing place,Hotel Marina Bay Sands (SG Clean),10,0.875,0,0.125,0.7906
+681,80,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+682,81,Wonderful,Hotel Marina Bay Sands (SG Clean),9,1,0,0,0.5719
+683,82,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+684,83,One of the most beautiful hotels in the world.,Hotel Marina Bay Sands (SG Clean),8,0.344,0,0.656,0.6361
+685,84,Wonderful,Hotel Marina Bay Sands (SG Clean),9,1,0,0,0.5719
+686,85,Was nice enough but not amazing,Hotel Marina Bay Sands (SG Clean),7,0.19,0.41,0.4,-0.4953
+687,86,Good,Hotel Marina Bay Sands (SG Clean),7,1,0,0,0.4404
+688,87,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+689,88,excellent,Hotel Marina Bay Sands (SG Clean),10,1,0,0,0.5719
+690,89,Very Good,Hotel Marina Bay Sands (SG Clean),8,0.762,0,0.238,0.4927
+691,90,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+692,91,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+693,92,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+694,93,"Wonderful, comfortable, luxurious stay, loved it.",Hotel Marina Bay Sands (SG Clean),9,0.784,0,0.216,0.8979
+695,94,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+696,95,Wonderful,Hotel Marina Bay Sands (SG Clean),9,1,0,0,0.5719
+697,96,"international standards , good vibe , excellent service",Hotel Marina Bay Sands (SG Clean),10,0.623,0,0.377,0.765
+698,97,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+699,98,Good,Hotel Marina Bay Sands (SG Clean),7,1,0,0,0.4404
+700,99,Exceptional,Hotel Marina Bay Sands (SG Clean),10,0,0,1,0
+701,0,Exceptional,Hotel Hotel Traveltine - SG Clean & Staycation Approved,10,0,0,1,0
+702,1,Wonderful,Hotel Hotel Traveltine - SG Clean & Staycation Approved,9,1,0,0,0.5719
+703,2,Very Good,Hotel Hotel Traveltine - SG Clean & Staycation Approved,8,0.762,0,0.238,0.4927
+704,3,Exceptional,Hotel Hotel Traveltine - SG Clean & Staycation Approved,10,0,0,1,0
+705,4,Good for a day or two stay,Hotel Hotel Traveltine - SG Clean & Staycation Approved,7,0.367,0,0.633,0.4404
+706,5,Fair,Hotel Hotel Traveltine - SG Clean & Staycation Approved,5,1,0,0,0.3182
+707,6,Decent hotel - great location,Hotel Hotel Traveltine - SG Clean & Staycation Approved,7,0.577,0,0.423,0.6249
+708,7,Wonderful,Hotel Hotel Traveltine - SG Clean & Staycation Approved,9,1,0,0,0.5719
+709,8,Very Good,Hotel Hotel Traveltine - SG Clean & Staycation Approved,8,0.762,0,0.238,0.4927
+710,9,perfect for a comfortable 1 or 2 day transit in Singapore without having to break the bank,Hotel Hotel Traveltine - SG Clean & Staycation Approved,8,0.368,0,0.632,0.7906
+711,10,Exceptional,Hotel Hotel Traveltine - SG Clean & Staycation Approved,10,0,0,1,0
+712,11,Good,Hotel Hotel Traveltine - SG Clean & Staycation Approved,7,1,0,0,0.4404
+713,12,Pleasant,Hotel Hotel Traveltine - SG Clean & Staycation Approved,6,1,0,0,0.5106
+714,13,great hotel,Hotel Hotel Traveltine - SG Clean & Staycation Approved,9,0.804,0,0.196,0.6249
+715,14,Fair,Hotel Hotel Traveltine - SG Clean & Staycation Approved,5,1,0,0,0.3182
+716,15,Excellent stay..,Hotel Hotel Traveltine - SG Clean & Staycation Approved,9,0.787,0,0.213,0.5719
+717,16,We used it as a one night stop over - lady at reception was very nice.,Hotel Hotel Traveltine - SG Clean & Staycation Approved,5,0.179,0.127,0.694,0.2247
+718,17,Exceptional,Hotel Hotel Traveltine - SG Clean & Staycation Approved,10,0,0,1,0
+719,18,"Nice staff and nice location, let down by some issues with the room and not the greatest wifi experience.",Hotel Hotel Traveltine - SG Clean & Staycation Approved,7,0.224,0.135,0.641,0.3031
+720,19,Ok,Hotel Hotel Traveltine - SG Clean & Staycation Approved,7,1,0,0,0.296
+721,20,Wonderful,Hotel Hotel Traveltine - SG Clean & Staycation Approved,9,1,0,0,0.5719
+722,21,Wonderful,Hotel Hotel Traveltine - SG Clean & Staycation Approved,9,1,0,0,0.5719
+723,22,Pleasant.,Hotel Hotel Traveltine - SG Clean & Staycation Approved,6,1,0,0,0.5106
+724,23,Overall stay not to bad.,Hotel Hotel Traveltine - SG Clean & Staycation Approved,7,0.416,0,0.584,0.431
+725,24,Exceptional,Hotel Hotel Traveltine - SG Clean & Staycation Approved,10,0,0,1,0
+726,25,Good,Hotel Hotel Traveltine - SG Clean & Staycation Approved,7,1,0,0,0.4404
+727,26,Value for money and good location,Hotel Hotel Traveltine - SG Clean & Staycation Approved,7,0.57,0,0.43,0.6486
+728,27,Very Good,Hotel Hotel Traveltine - SG Clean & Staycation Approved,8,0.762,0,0.238,0.4927
+729,28,Very Good,Hotel Hotel Traveltine - SG Clean & Staycation Approved,8,0.762,0,0.238,0.4927
+730,29,Exceptional,Hotel Hotel Traveltine - SG Clean & Staycation Approved,10,0,0,1,0
+731,30,Very Good,Hotel Hotel Traveltine - SG Clean & Staycation Approved,8,0.762,0,0.238,0.4927
+732,31,Very Good,Hotel Hotel Traveltine - SG Clean & Staycation Approved,8,0.762,0,0.238,0.4927
+733,32,Better than expected,Hotel Hotel Traveltine - SG Clean & Staycation Approved,8,0.592,0,0.408,0.4404
+734,33,Good,Hotel Hotel Traveltine - SG Clean & Staycation Approved,7,1,0,0,0.4404
+735,34,Good location,Hotel Hotel Traveltine - SG Clean & Staycation Approved,10,0.744,0,0.256,0.4404
+736,35,Very Good,Hotel Hotel Traveltine - SG Clean & Staycation Approved,8,0.762,0,0.238,0.4927
+737,36,Wonderful,Hotel Hotel Traveltine - SG Clean & Staycation Approved,9,1,0,0,0.5719
+738,37,Good place to stay.,Hotel Hotel Traveltine - SG Clean & Staycation Approved,9,0.492,0,0.508,0.4404
+739,38,Wonderful,Hotel Hotel Traveltine - SG Clean & Staycation Approved,9,1,0,0,0.5719
+740,39,Exceptional,Hotel Hotel Traveltine - SG Clean & Staycation Approved,10,0,0,1,0
+741,40,Friendly staffs and Hassle free check in and out,Hotel Hotel Traveltine - SG Clean & Staycation Approved,9,0.481,0,0.519,0.7579
+742,41,Good,Hotel Hotel Traveltine - SG Clean & Staycation Approved,7,1,0,0,0.4404
+743,42,Exceptional,Hotel Hotel Traveltine - SG Clean & Staycation Approved,10,0,0,1,0
+744,43,convenient and helpful staff,Hotel Hotel Traveltine - SG Clean & Staycation Approved,10,0.483,0,0.517,0.4215
+745,44,Exceptional,Hotel Hotel Traveltine - SG Clean & Staycation Approved,10,0,0,1,0
+746,45,Very Good,Hotel Hotel Traveltine - SG Clean & Staycation Approved,8,0.762,0,0.238,0.4927
+747,46,Pleasant,Hotel Hotel Traveltine - SG Clean & Staycation Approved,6,1,0,0,0.5106
+748,47,"Clean,",Hotel Hotel Traveltine - SG Clean & Staycation Approved,7,1,0,0,0.4019
+749,48,Exceptional,Hotel Hotel Traveltine - SG Clean & Staycation Approved,10,0,0,1,0
+750,49,Exceptional,Hotel Hotel Traveltine - SG Clean & Staycation Approved,10,0,0,1,0
+751,50,Wonderful,Hotel Hotel Traveltine - SG Clean & Staycation Approved,9,1,0,0,0.5719
+752,51,No comment,Hotel Hotel Traveltine - SG Clean & Staycation Approved,5,0,0.688,0.312,-0.296
+753,52,Exceptional,Hotel Hotel Traveltine - SG Clean & Staycation Approved,10,0,0,1,0
+754,53,Exceptional,Hotel Hotel Traveltine - SG Clean & Staycation Approved,10,0,0,1,0
+755,54,Good,Hotel Hotel Traveltine - SG Clean & Staycation Approved,7,1,0,0,0.4404
+756,55,amazing!,Hotel Hotel Traveltine - SG Clean & Staycation Approved,10,1,0,0,0.6239
+757,56,"i enjoyed my stay at traveltine, it works well around my requirements",Hotel Hotel Traveltine - SG Clean & Staycation Approved,7,0.375,0,0.625,0.6597
+758,57,Great reasonable priced clean hotel tucked in the corner of rustic charm city of Kampong Glam,Hotel Hotel Traveltine - SG Clean & Staycation Approved,9,0.422,0,0.578,0.8591
+759,58,"There is a long pause due to covid, but many things can be improved without adding cost.",Hotel Hotel Traveltine - SG Clean & Staycation Approved,6,0.217,0,0.783,0.631
+760,59,Wonderful,Hotel Hotel Traveltine - SG Clean & Staycation Approved,9,1,0,0,0.5719
+761,60,Very Good,Hotel Hotel Traveltine - SG Clean & Staycation Approved,8,0.762,0,0.238,0.4927
+762,61,"Would recommend only for short term stay and for a place to sleep, not so much to work in.",Hotel Hotel Traveltine - SG Clean & Staycation Approved,8,0.128,0,0.872,0.3612
+763,62,Great location for relaxation.,Hotel Hotel Traveltine - SG Clean & Staycation Approved,8,0.789,0,0.211,0.8176
+764,63,Good,Hotel Hotel Traveltine - SG Clean & Staycation Approved,7,1,0,0,0.4404
+765,64,Exceptional,Hotel Hotel Traveltine - SG Clean & Staycation Approved,10,0,0,1,0
+766,65,Very Good,Hotel Hotel Traveltine - SG Clean & Staycation Approved,8,0.762,0,0.238,0.4927
+767,66,Exceptional,Hotel Hotel Traveltine - SG Clean & Staycation Approved,10,0,0,1,0
+768,67,Wonderful,Hotel Hotel Traveltine - SG Clean & Staycation Approved,9,1,0,0,0.5719
+769,68,A no-frills hotel that seems new and in a good location,Hotel Hotel Traveltine - SG Clean & Staycation Approved,8,0.266,0,0.734,0.4404
+770,69,Wonderful,Hotel Hotel Traveltine - SG Clean & Staycation Approved,9,1,0,0,0.5719
+771,70,Great guest service officer two thumbs up feels welcoming and the bedroom definitely will sum up my stay for sure!,Hotel Hotel Traveltine - SG Clean & Staycation Approved,9,0.434,0,0.566,0.906
+772,71,"great location, friendly staff, free parking, lots of food/coffee around. decent value for money.",Hotel Hotel Traveltine - SG Clean & Staycation Approved,7,0.565,0,0.435,0.9186
+773,72,Good,Hotel Hotel Traveltine - SG Clean & Staycation Approved,7,1,0,0,0.4404
+774,73,Very Good,Hotel Hotel Traveltine - SG Clean & Staycation Approved,8,0.762,0,0.238,0.4927
+775,74,Pleasant,Hotel Hotel Traveltine - SG Clean & Staycation Approved,6,1,0,0,0.5106
+776,75,Exceptional,Hotel Hotel Traveltine - SG Clean & Staycation Approved,10,0,0,1,0
+777,76,Good location walking to Haji Lane and Arab Street.,Hotel Hotel Traveltine - SG Clean & Staycation Approved,9,0.266,0,0.734,0.4404
+778,77,Clean beddings and whitish towels,Hotel Hotel Traveltine - SG Clean & Staycation Approved,6,0.403,0,0.597,0.4019
+779,78,Exceptional,Hotel Hotel Traveltine - SG Clean & Staycation Approved,10,0,0,1,0
+780,79,Will come back again,Hotel Hotel Traveltine - SG Clean & Staycation Approved,8,0,0,1,0
+781,80,Good,Hotel Hotel Traveltine - SG Clean & Staycation Approved,7,1,0,0,0.4404
+782,81,Just great location.,Hotel Hotel Traveltine - SG Clean & Staycation Approved,9,0.672,0,0.328,0.6249
+783,82,Good,Hotel Hotel Traveltine - SG Clean & Staycation Approved,7,1,0,0,0.4404
+784,83,Exceptional,Hotel Hotel Traveltine - SG Clean & Staycation Approved,10,0,0,1,0
+785,84,Good,Hotel Hotel Traveltine - SG Clean & Staycation Approved,7,1,0,0,0.4404
+786,85,Brilliant hotel,Hotel Hotel Traveltine - SG Clean & Staycation Approved,9.6,0.792,0,0.208,0.5859
+787,86,Very Good,Hotel Hotel Traveltine - SG Clean & Staycation Approved,8,0.762,0,0.238,0.4927
+788,87,Very Good,Hotel Hotel Traveltine - SG Clean & Staycation Approved,8,0.762,0,0.238,0.4927
+789,88,Exceptional,Hotel Hotel Traveltine - SG Clean & Staycation Approved,10,0,0,1,0
+790,89,Everything you need for a quick visit in Singapore,Hotel Hotel Traveltine - SG Clean & Staycation Approved,9.2,0,0,1,0
+791,90,Great hotel. Quiet rooms and Ideal location.,Hotel Hotel Traveltine - SG Clean & Staycation Approved,9,0.6,0,0.4,0.8176
+792,91,Great value Basecamp from which to explore Singapore,Hotel Hotel Traveltine - SG Clean & Staycation Approved,8,0.52,0,0.48,0.7579
+793,92,Not what I expected from a 4*,Hotel Hotel Traveltine - SG Clean & Staycation Approved,5,0,0,1,0
+794,93,Wonderful,Hotel Hotel Traveltine - SG Clean & Staycation Approved,9,1,0,0,0.5719
+795,94,Exceptional,Hotel Hotel Traveltine - SG Clean & Staycation Approved,10,0,0,1,0
+796,95,Perfect hotel!,Hotel Hotel Traveltine - SG Clean & Staycation Approved,9,0.8,0,0.2,0.6114
+797,96,Fantastic Stay,Hotel Hotel Traveltine - SG Clean & Staycation Approved,10,0.783,0,0.217,0.5574
+798,97,Exceptional,Hotel Hotel Traveltine - SG Clean & Staycation Approved,10,0,0,1,0
+799,98,Pleasant,Hotel Hotel Traveltine - SG Clean & Staycation Approved,6,1,0,0,0.5106
+800,99,Very Good,Hotel Hotel Traveltine - SG Clean & Staycation Approved,8,0.762,0,0.238,0.4927
+801,0,Friendly staff won't ruin your holiday. Neat & clean. Close to transport. S$26 from A/P carsharing.,Hotel Hotel Grand Pacific (SG Clean),8,0.494,0.093,0.413,0.8662
+802,1,Good,Hotel Hotel Grand Pacific (SG Clean),7,1,0,0,0.4404
+803,2,Very Good,Hotel Hotel Grand Pacific (SG Clean),8,0.762,0,0.238,0.4927
+804,3,Disappointing,Hotel Hotel Grand Pacific (SG Clean),4,0,1,0,-0.4939
+805,4,Exceptional,Hotel Hotel Grand Pacific (SG Clean),10,0,0,1,0
+806,5,Fair,Hotel Hotel Grand Pacific (SG Clean),5,1,0,0,0.3182
+807,6,Overall is just an average stay and nothing to shout about.,Hotel Hotel Grand Pacific (SG Clean),4,0,0,1,0
+808,7,Wonderful,Hotel Hotel Grand Pacific (SG Clean),9,1,0,0,0.5719
+809,8,Very Good,Hotel Hotel Grand Pacific (SG Clean),8,0.762,0,0.238,0.4927
+810,9,Exceptional,Hotel Hotel Grand Pacific (SG Clean),10,0,0,1,0
+811,10,Fair,Hotel Hotel Grand Pacific (SG Clean),5,1,0,0,0.3182
+812,11,okay but can be improved,Hotel Hotel Grand Pacific (SG Clean),6,0.651,0,0.349,0.6808
+813,12,Wonderful,Hotel Hotel Grand Pacific (SG Clean),9,1,0,0,0.5719
+814,13,Disappointing,Hotel Hotel Grand Pacific (SG Clean),4,0,1,0,-0.4939
+815,14,Good,Hotel Hotel Grand Pacific (SG Clean),7,1,0,0,0.4404
+816,15,Great!,Hotel Hotel Grand Pacific (SG Clean),8,1,0,0,0.6588
+817,16,Was good,Hotel Hotel Grand Pacific (SG Clean),8,0.744,0,0.256,0.4404
+818,17,"Location is perfect. However, hotel needs renovation and better housekeeping.",Hotel Hotel Grand Pacific (SG Clean),5,0.452,0,0.548,0.765
+819,18,terrible.,Hotel Hotel Grand Pacific (SG Clean),1,0,1,0,-0.4767
+820,19,Very Good,Hotel Hotel Grand Pacific (SG Clean),8,0.762,0,0.238,0.4927
+821,20,I will stay this hotel again for next visiting Singapore.,Hotel Hotel Grand Pacific (SG Clean),8,0,0,1,0
+822,21,"nice reception, dirty room",Hotel Hotel Grand Pacific (SG Clean),1,0.364,0.377,0.26,-0.0258
+823,22,Exceptional,Hotel Hotel Grand Pacific (SG Clean),10,0,0,1,0
+824,23,Exceptional,Hotel Hotel Grand Pacific (SG Clean),10,0,0,1,0
+825,24,Good,Hotel Hotel Grand Pacific (SG Clean),7,1,0,0,0.4404
+826,25,Wonderful,Hotel Hotel Grand Pacific (SG Clean),9,1,0,0,0.5719
+827,26,Fair,Hotel Hotel Grand Pacific (SG Clean),5,1,0,0,0.3182
+828,27,Pleasant,Hotel Hotel Grand Pacific (SG Clean),6,1,0,0,0.5106
+829,28,Very Good,Hotel Hotel Grand Pacific (SG Clean),8,0.762,0,0.238,0.4927
+830,29,Exceptional,Hotel Hotel Grand Pacific (SG Clean),10,0,0,1,0
+831,30,everything was okay except facilities in room 911,Hotel Hotel Grand Pacific (SG Clean),7,0.213,0,0.787,0.2263
+832,31,Very Good,Hotel Hotel Grand Pacific (SG Clean),8,0.762,0,0.238,0.4927
+833,32,Very Poor,Hotel Hotel Grand Pacific (SG Clean),2,0,0.772,0.228,-0.5256
+834,33,Very Good,Hotel Hotel Grand Pacific (SG Clean),8,0.762,0,0.238,0.4927
+835,34,Very Good,Hotel Hotel Grand Pacific (SG Clean),8,0.762,0,0.238,0.4927
+836,35,Clean and good location,Hotel Hotel Grand Pacific (SG Clean),5,0.737,0,0.263,0.6808
+837,36,Good,Hotel Hotel Grand Pacific (SG Clean),7,1,0,0,0.4404
+838,37,Good,Hotel Hotel Grand Pacific (SG Clean),7,1,0,0,0.4404
+839,38,Exceptional,Hotel Hotel Grand Pacific (SG Clean),10,0,0,1,0
+840,39,Very Good,Hotel Hotel Grand Pacific (SG Clean),8,0.762,0,0.238,0.4927
+841,40,Very Good,Hotel Hotel Grand Pacific (SG Clean),8,0.762,0,0.238,0.4927
+842,41,no sun tv,Hotel Hotel Grand Pacific (SG Clean),6,0,0.524,0.476,-0.296
+843,42,Poor,Hotel Hotel Grand Pacific (SG Clean),3,0,1,0,-0.4767
+844,43,Fair,Hotel Hotel Grand Pacific (SG Clean),5,1,0,0,0.3182
+845,44,Wonderful,Hotel Hotel Grand Pacific (SG Clean),9,1,0,0,0.5719
+846,45,Good,Hotel Hotel Grand Pacific (SG Clean),7,1,0,0,0.4404
+847,46,Fair,Hotel Hotel Grand Pacific (SG Clean),5,1,0,0,0.3182
+848,47,Very Good,Hotel Hotel Grand Pacific (SG Clean),8,0.762,0,0.238,0.4927
+849,48,Wonderful,Hotel Hotel Grand Pacific (SG Clean),9,1,0,0,0.5719
+850,49,"Overall I would say it is a reasonably good stay. I like the close proximity to food venues, shopping areas and the easy",Hotel Hotel Grand Pacific (SG Clean),7,0.328,0,0.672,0.8074
+851,50,Exceptional,Hotel Hotel Grand Pacific (SG Clean),10,0,0,1,0
+852,51,Exceptional,Hotel Hotel Grand Pacific (SG Clean),10,0,0,1,0
+853,52,Exceptional,Hotel Hotel Grand Pacific (SG Clean),10,0,0,1,0
+854,53,Disappointing,Hotel Hotel Grand Pacific (SG Clean),4,0,1,0,-0.4939
+855,54,Very Good,Hotel Hotel Grand Pacific (SG Clean),8,0.762,0,0.238,0.4927
+856,55,the room was spacious and clean . front desk staffs were very helpful and friendly. worth the money,Hotel Hotel Grand Pacific (SG Clean),10,0.462,0,0.538,0.8795
+857,56,Nearby Bugis shopping center.,Hotel Hotel Grand Pacific (SG Clean),10,0,0,1,0
+858,57,Wonderful,Hotel Hotel Grand Pacific (SG Clean),9,1,0,0,0.5719
+859,58,Couldn't ask for more.,Hotel Hotel Grand Pacific (SG Clean),8,0,0,1,0
+860,59,Very Good,Hotel Hotel Grand Pacific (SG Clean),8,0.762,0,0.238,0.4927
+861,60,Very Good,Hotel Hotel Grand Pacific (SG Clean),8,0.762,0,0.238,0.4927
+862,61,out of 10 i will give it a 7,Hotel Hotel Grand Pacific (SG Clean),7,0,0,1,0
+863,62,Wonderful,Hotel Hotel Grand Pacific (SG Clean),9,1,0,0,0.5719
+864,63,Exceptional,Hotel Hotel Grand Pacific (SG Clean),10,0,0,1,0
+865,64,Returned tourists find this Hotel perfect for a city stay!,Hotel Hotel Grand Pacific (SG Clean),9,0.333,0,0.667,0.6114
+866,65,Wonderful,Hotel Hotel Grand Pacific (SG Clean),9,1,0,0,0.5719
+867,66,quite disappointed. room condition very old.,Hotel Hotel Grand Pacific (SG Clean),2,0,0.404,0.596,-0.5256
+868,67,My. It was easy to get around and the hotel staff were verd,Hotel Hotel Grand Pacific (SG Clean),8,0.195,0,0.805,0.4404
+869,68,Wonderful,Hotel Hotel Grand Pacific (SG Clean),9.2,1,0,0,0.5719
+870,69,Disappointed in Singapore,Hotel Hotel Grand Pacific (SG Clean),4.6,0,0.608,0.392,-0.4767
+871,70,Good,Hotel Hotel Grand Pacific (SG Clean),7.5,1,0,0,0.4404
+872,71,A perfect break from backpackers hostels,Hotel Hotel Grand Pacific (SG Clean),10,0.481,0,0.519,0.5719
+873,72,Good,Hotel Hotel Grand Pacific (SG Clean),7,1,0,0,0.4404
+874,73,Very Poor,Hotel Hotel Grand Pacific (SG Clean),2,0,0.772,0.228,-0.5256
+875,74,Fair,Hotel Hotel Grand Pacific (SG Clean),5,1,0,0,0.3182
+876,75,The value of room rate is so expensive and down grade hotel compare to other hotels.,Hotel Hotel Grand Pacific (SG Clean),4,0.138,0,0.862,0.34
+877,76,"Excellent location, comfortable room. Bad booking experience & housekeeping needs improving",Hotel Hotel Grand Pacific (SG Clean),7,0.508,0.181,0.311,0.743
+878,77,"Convenient location, modern hotel friendly staff, easy stay, relaxing.",Hotel Hotel Grand Pacific (SG Clean),9,0.608,0,0.392,0.8519
+879,78,Excellent,Hotel Hotel Grand Pacific (SG Clean),8.8,1,0,0,0.5719
+880,79,Good,Hotel Hotel Grand Pacific (SG Clean),7,1,0,0,0.4404
+881,80,Good,Hotel Hotel Grand Pacific (SG Clean),7,1,0,0,0.4404
+882,81,Very Good,Hotel Hotel Grand Pacific (SG Clean),8,0.762,0,0.238,0.4927
+883,82,Fair,Hotel Hotel Grand Pacific (SG Clean),5,1,0,0,0.3182
+884,83,Very Good,Hotel Hotel Grand Pacific (SG Clean),8,0.762,0,0.238,0.4927
+885,84,Exceptional,Hotel Hotel Grand Pacific (SG Clean),10,0,0,1,0
+886,85,...,Hotel Hotel Grand Pacific (SG Clean),10,0,0,1,0
+887,86,Fair,Hotel Hotel Grand Pacific (SG Clean),5,1,0,0,0.3182
+888,87,Pleasant,Hotel Hotel Grand Pacific (SG Clean),6,1,0,0,0.5106
+889,88,Exceptional,Hotel Hotel Grand Pacific (SG Clean),10,0,0,1,0
+890,89,Exceptional,Hotel Hotel Grand Pacific (SG Clean),10,0,0,1,0
+891,90,It still comfortable,Hotel Hotel Grand Pacific (SG Clean),6,0.623,0,0.377,0.5106
+892,91,Excellent except for hiccup with final bill,Hotel Hotel Grand Pacific (SG Clean),8,0.381,0,0.619,0.5719
+893,92,Very Good,Hotel Hotel Grand Pacific (SG Clean),8,0.762,0,0.238,0.4927
+894,93,Fair,Hotel Hotel Grand Pacific (SG Clean),5.4,1,0,0,0.3182
+895,94,Good,Hotel Hotel Grand Pacific (SG Clean),7.1,1,0,0,0.4404
+896,95,You do not get value for money from here.,Hotel Hotel Grand Pacific (SG Clean),3,0,0.203,0.797,-0.2584
+897,96,Good,Hotel Hotel Grand Pacific (SG Clean),7,1,0,0,0.4404
+898,97,Very Good,Hotel Hotel Grand Pacific (SG Clean),8,0.762,0,0.238,0.4927
+899,98,Wonderful,Hotel Hotel Grand Pacific (SG Clean),9,1,0,0,0.5719
+900,99,The room is spacious and clean.,Hotel Hotel Grand Pacific (SG Clean),8.3,0.351,0,0.649,0.4019
+901,0,Good,Hotel V Hotel Lavender - SG Clean,7,1,0,0,0.4404
+902,1,Pleasant,Hotel V Hotel Lavender - SG Clean,6,1,0,0,0.5106
+903,2,Very Good,Hotel V Hotel Lavender - SG Clean,8,0.762,0,0.238,0.4927
+904,3,Exceptional,Hotel V Hotel Lavender - SG Clean,10,0,0,1,0
+905,4,Pleasant,Hotel V Hotel Lavender - SG Clean,6,1,0,0,0.5106
+906,5,Good,Hotel V Hotel Lavender - SG Clean,7,1,0,0,0.4404
+907,6,Wonderful,Hotel V Hotel Lavender - SG Clean,9,1,0,0,0.5719
+908,7,perfect location!!!,Hotel V Hotel Lavender - SG Clean,10,0.821,0,0.179,0.6784
+909,8,Exceptional,Hotel V Hotel Lavender - SG Clean,10,0,0,1,0
+910,9,Very Good,Hotel V Hotel Lavender - SG Clean,8,0.762,0,0.238,0.4927
+911,10,Poor,Hotel V Hotel Lavender - SG Clean,3,0,1,0,-0.4767
+912,11,Exceptional,Hotel V Hotel Lavender - SG Clean,10,0,0,1,0
+913,12,"Nice, comfy and quiet",Hotel V Hotel Lavender - SG Clean,10,0.483,0,0.517,0.4215
+914,13,still as good as before,Hotel V Hotel Lavender - SG Clean,10,0.42,0,0.58,0.4404
+915,14,Very Good,Hotel V Hotel Lavender - SG Clean,8,0.762,0,0.238,0.4927
+916,15,Very Good,Hotel V Hotel Lavender - SG Clean,8,0.762,0,0.238,0.4927
+917,16,It was great time.,Hotel V Hotel Lavender - SG Clean,8,0.577,0,0.423,0.6249
+918,17,Wonderful,Hotel V Hotel Lavender - SG Clean,9,1,0,0,0.5719
+919,18,Disappointing,Hotel V Hotel Lavender - SG Clean,4,0,1,0,-0.4939
+920,19,Very Good,Hotel V Hotel Lavender - SG Clean,8,0.762,0,0.238,0.4927
+921,20,Wonderful,Hotel V Hotel Lavender - SG Clean,9,1,0,0,0.5719
+922,21,Pleasant,Hotel V Hotel Lavender - SG Clean,6,1,0,0,0.5106
+923,22,Poor,Hotel V Hotel Lavender - SG Clean,3,0,1,0,-0.4767
+924,23,Good,Hotel V Hotel Lavender - SG Clean,7,1,0,0,0.4404
+925,24,Worst experience with bad staff.,Hotel V Hotel Lavender - SG Clean,1,0,0.717,0.283,-0.8225
+926,25,Pleasant,Hotel V Hotel Lavender - SG Clean,6,1,0,0,0.5106
+927,26,Very Good,Hotel V Hotel Lavender - SG Clean,8,0.762,0,0.238,0.4927
+928,27,Good Hotel to stay,Hotel V Hotel Lavender - SG Clean,8,0.492,0,0.508,0.4404
+929,28,Exceptional,Hotel V Hotel Lavender - SG Clean,10,0,0,1,0
+930,29,Very Good,Hotel V Hotel Lavender - SG Clean,8,0.762,0,0.238,0.4927
+931,30,Wonderful,Hotel V Hotel Lavender - SG Clean,9,1,0,0,0.5719
+932,31,Wonderful,Hotel V Hotel Lavender - SG Clean,9,1,0,0,0.5719
+933,32,Fair,Hotel V Hotel Lavender - SG Clean,5,1,0,0,0.3182
+934,33,Fair,Hotel V Hotel Lavender - SG Clean,5,1,0,0,0.3182
+935,34,Exceptional,Hotel V Hotel Lavender - SG Clean,10,0,0,1,0
+936,35,Fair,Hotel V Hotel Lavender - SG Clean,5,1,0,0,0.3182
+937,36,Good,Hotel V Hotel Lavender - SG Clean,7,1,0,0,0.4404
+938,37,Very Good,Hotel V Hotel Lavender - SG Clean,8,0.762,0,0.238,0.4927
+939,38,good location but unclean,Hotel V Hotel Lavender - SG Clean,8,0.394,0,0.606,0.2382
+940,39,Very Good,Hotel V Hotel Lavender - SG Clean,8,0.762,0,0.238,0.4927
+941,40,Poor,Hotel V Hotel Lavender - SG Clean,3.8,0,1,0,-0.4767
+942,41,average,Hotel V Hotel Lavender - SG Clean,6,0,0,1,0
+943,42,Fair,Hotel V Hotel Lavender - SG Clean,5,1,0,0,0.3182
+944,43,Exceptional,Hotel V Hotel Lavender - SG Clean,10,0,0,1,0
+945,44,Exceptional,Hotel V Hotel Lavender - SG Clean,10,0,0,1,0
+946,45,Disappointing,Hotel V Hotel Lavender - SG Clean,4,0,1,0,-0.4939
+947,46,Exceptional,Hotel V Hotel Lavender - SG Clean,10,0,0,1,0
+948,47,Exceptional,Hotel V Hotel Lavender - SG Clean,10,0,0,1,0
+949,48,Wonderful,Hotel V Hotel Lavender - SG Clean,9,1,0,0,0.5719
+950,49,Very Good,Hotel V Hotel Lavender - SG Clean,8,0.762,0,0.238,0.4927
+951,50,Fair,Hotel V Hotel Lavender - SG Clean,5,1,0,0,0.3182
+952,51,Good,Hotel V Hotel Lavender - SG Clean,7,1,0,0,0.4404
+953,52,Good,Hotel V Hotel Lavender - SG Clean,7,1,0,0,0.4404
+954,53,Good,Hotel V Hotel Lavender - SG Clean,7,1,0,0,0.4404
+955,54,nice hotel with superb customer service!,Hotel V Hotel Lavender - SG Clean,10,0.643,0,0.357,0.8016
+956,55,Exceptional,Hotel V Hotel Lavender - SG Clean,10,0,0,1,0
+957,56,Fair,Hotel V Hotel Lavender - SG Clean,5,1,0,0,0.3182
+958,57,Very Good,Hotel V Hotel Lavender - SG Clean,8,0.762,0,0.238,0.4927
+959,58,Exceptional,Hotel V Hotel Lavender - SG Clean,10,0,0,1,0
+960,59,Exceptional,Hotel V Hotel Lavender - SG Clean,10,0,0,1,0
+961,60,"bathroom too small, bed too soft no support",Hotel V Hotel Lavender - SG Clean,5,0.248,0.202,0.55,0.128
+962,61,Very Good,Hotel V Hotel Lavender - SG Clean,8,0.762,0,0.238,0.4927
+963,62,Good,Hotel V Hotel Lavender - SG Clean,7,1,0,0,0.4404
+964,63,Good,Hotel V Hotel Lavender - SG Clean,7,1,0,0,0.4404
+965,64,"Small bathroom, bad hairdryer.",Hotel V Hotel Lavender - SG Clean,7,0,0.538,0.462,-0.5423
+966,65,Pleasant,Hotel V Hotel Lavender - SG Clean,6,1,0,0,0.5106
+967,66,Good location but not family oriented,Hotel V Hotel Lavender - SG Clean,5,0.281,0,0.719,0.2382
+968,67,Exceptional,Hotel V Hotel Lavender - SG Clean,10,0,0,1,0
+969,68,Fair,Hotel V Hotel Lavender - SG Clean,5,1,0,0,0.3182
+970,69,Exceptional,Hotel V Hotel Lavender - SG Clean,10,0,0,1,0
+971,70,"convenient, comfortable, good staff, great location",Hotel V Hotel Lavender - SG Clean,10,0.774,0,0.226,0.8834
+972,71,Wonderful,Hotel V Hotel Lavender - SG Clean,9,1,0,0,0.5719
+973,72,Wonderful,Hotel V Hotel Lavender - SG Clean,9,1,0,0,0.5719
+974,73,"comfortable and pleasant, convenient location",Hotel V Hotel Lavender - SG Clean,9,0.688,0,0.312,0.765
+975,74,Good,Hotel V Hotel Lavender - SG Clean,7,1,0,0,0.4404
+976,75,Exceptional,Hotel V Hotel Lavender - SG Clean,10,0,0,1,0
+977,76,Fair,Hotel V Hotel Lavender - SG Clean,5,1,0,0,0.3182
+978,77,Very Good,Hotel V Hotel Lavender - SG Clean,8,0.762,0,0.238,0.4927
+979,78,satisfied,Hotel V Hotel Lavender - SG Clean,9,1,0,0,0.4215
+980,79,Very Good,Hotel V Hotel Lavender - SG Clean,8,0.762,0,0.238,0.4927
+981,80,Good,Hotel V Hotel Lavender - SG Clean,7,1,0,0,0.4404
+982,81,Very Good,Hotel V Hotel Lavender - SG Clean,8,0.762,0,0.238,0.4927
+983,82,Wonderful,Hotel V Hotel Lavender - SG Clean,9,1,0,0,0.5719
+984,83,Wonderful,Hotel V Hotel Lavender - SG Clean,9,1,0,0,0.5719
+985,84,Pleasant,Hotel V Hotel Lavender - SG Clean,6,1,0,0,0.5106
+986,85,Exceptional,Hotel V Hotel Lavender - SG Clean,10,0,0,1,0
+987,86,Pleasant,Hotel V Hotel Lavender - SG Clean,6,1,0,0,0.5106
+988,87,Fair,Hotel V Hotel Lavender - SG Clean,5,1,0,0,0.3182
+989,88,Exceptional,Hotel V Hotel Lavender - SG Clean,10,0,0,1,0
+990,89,Very Good,Hotel V Hotel Lavender - SG Clean,8,0.762,0,0.238,0.4927
+991,90,Worth for a short stay.,Hotel V Hotel Lavender - SG Clean,8,0.388,0,0.612,0.2263
+992,91,Poor,Hotel V Hotel Lavender - SG Clean,3,0,1,0,-0.4767
+993,92,"if the smoke issue is handled well , my stay would be perfect. as my wife is very sensitive to smoke and dust.",Hotel V Hotel Lavender - SG Clean,8,0.225,0,0.775,0.7003
+994,93,Exceptional,Hotel V Hotel Lavender - SG Clean,10,0,0,1,0
+995,94,Very Good,Hotel V Hotel Lavender - SG Clean,8,0.762,0,0.238,0.4927
+996,95,Decent,Hotel V Hotel Lavender - SG Clean,7,0,0,1,0
+997,96,Exceptional,Hotel V Hotel Lavender - SG Clean,10,0,0,1,0
+998,97,Exceptional,Hotel V Hotel Lavender - SG Clean,10,0,0,1,0
+999,98,Good,Hotel V Hotel Lavender - SG Clean,7,1,0,0,0.4404
+1000,99,Pleasant,Hotel V Hotel Lavender - SG Clean,6,1,0,0,0.5106
+1001,0,It was good,Hotel Strand Hotel (SG Clean),8,0.592,0,0.408,0.4404
+1002,1,Wonderful,Hotel Strand Hotel (SG Clean),9,1,0,0,0.5719
+1003,2,Very Good,Hotel Strand Hotel (SG Clean),8,0.762,0,0.238,0.4927
+1004,3,Very Good,Hotel Strand Hotel (SG Clean),8,0.762,0,0.238,0.4927
+1005,4,Exceptional,Hotel Strand Hotel (SG Clean),10,0,0,1,0
+1006,5,It very convenient and value for money,Hotel Strand Hotel (SG Clean),8,0.307,0,0.693,0.3947
+1007,6,Very Good,Hotel Strand Hotel (SG Clean),8,0.762,0,0.238,0.4927
+1008,7,Exceptional,Hotel Strand Hotel (SG Clean),10,0,0,1,0
+1009,8,New Explorer,Hotel Strand Hotel (SG Clean),8,0,0,1,0
+1010,9,Very Good,Hotel Strand Hotel (SG Clean),8,0.762,0,0.238,0.4927
+1011,10,Fair,Hotel Strand Hotel (SG Clean),5,1,0,0,0.3182
+1012,11,Exceptional,Hotel Strand Hotel (SG Clean),10,0,0,1,0
+1013,12,Exceptional,Hotel Strand Hotel (SG Clean),10,0,0,1,0
+1014,13,Good,Hotel Strand Hotel (SG Clean),7,1,0,0,0.4404
+1015,14,Exceptional,Hotel Strand Hotel (SG Clean),10,0,0,1,0
+1016,15,Awesome,Hotel Strand Hotel (SG Clean),9,1,0,0,0.6249
+1017,16,Spacious Room,Hotel Strand Hotel (SG Clean),6,0,0,1,0
+1018,17,Good,Hotel Strand Hotel (SG Clean),7,1,0,0,0.4404
+1019,18,Very Good,Hotel Strand Hotel (SG Clean),8,0.762,0,0.238,0.4927
+1020,19,Wonderful,Hotel Strand Hotel (SG Clean),9,1,0,0,0.5719
+1021,20,Excellent location,Hotel Strand Hotel (SG Clean),6,0.787,0,0.213,0.5719
+1022,21,Exceptional,Hotel Strand Hotel (SG Clean),10,0,0,1,0
+1023,22,Good,Hotel Strand Hotel (SG Clean),7,1,0,0,0.4404
+1024,23,Good,Hotel Strand Hotel (SG Clean),7,1,0,0,0.4404
+1025,24,Good,Hotel Strand Hotel (SG Clean),7,1,0,0,0.4404
+1026,25,Good,Hotel Strand Hotel (SG Clean),7,1,0,0,0.4404
+1027,26,Wonderful,Hotel Strand Hotel (SG Clean),9,1,0,0,0.5719
+1028,27,Exceptional,Hotel Strand Hotel (SG Clean),10,0,0,1,0
+1029,28,It was a nightmare,Hotel Strand Hotel (SG Clean),3,0,0,1,0
+1030,29,Good,Hotel Strand Hotel (SG Clean),7,1,0,0,0.4404
+1031,30,overall good stay,Hotel Strand Hotel (SG Clean),8,0.592,0,0.408,0.4404
+1032,31,Very Good,Hotel Strand Hotel (SG Clean),8,0.762,0,0.238,0.4927
+1033,32,Very Good,Hotel Strand Hotel (SG Clean),8,0.762,0,0.238,0.4927
+1034,33,Very Good,Hotel Strand Hotel (SG Clean),8,0.762,0,0.238,0.4927
+1035,34,Work From Hotel👌🏻,Hotel Strand Hotel (SG Clean),10,0,0,1,0
+1036,35,Good,Hotel Strand Hotel (SG Clean),7,1,0,0,0.4404
+1037,36,Very Good,Hotel Strand Hotel (SG Clean),8,0.762,0,0.238,0.4927
+1038,37,Wonderful,Hotel Strand Hotel (SG Clean),9,1,0,0,0.5719
+1039,38,Pleasant,Hotel Strand Hotel (SG Clean),6,1,0,0,0.5106
+1040,39,Very Good,Hotel Strand Hotel (SG Clean),8,0.762,0,0.238,0.4927
+1041,40,Pleasant,Hotel Strand Hotel (SG Clean),6,1,0,0,0.5106
+1042,41,Very Good,Hotel Strand Hotel (SG Clean),8,0.762,0,0.238,0.4927
+1043,42,Good,Hotel Strand Hotel (SG Clean),7,1,0,0,0.4404
+1044,43,Very Good,Hotel Strand Hotel (SG Clean),8,0.762,0,0.238,0.4927
+1045,44,Bad,Hotel Strand Hotel (SG Clean),1,0,1,0,-0.5423
+1046,45,I paid extra to sleep there.,Hotel Strand Hotel (SG Clean),2,0,0,1,0
+1047,46,Exceptional,Hotel Strand Hotel (SG Clean),10,0,0,1,0
+1048,47,Very Good,Hotel Strand Hotel (SG Clean),8,0.762,0,0.238,0.4927
+1049,48,Wonderful,Hotel Strand Hotel (SG Clean),9,1,0,0,0.5719
+1050,49,Very Good,Hotel Strand Hotel (SG Clean),8,0.762,0,0.238,0.4927
+1051,50,Exceptional,Hotel Strand Hotel (SG Clean),10,0,0,1,0
+1052,51,Very Good,Hotel Strand Hotel (SG Clean),8,0.762,0,0.238,0.4927
+1053,52,Wonderful,Hotel Strand Hotel (SG Clean),9,1,0,0,0.5719
+1054,53,Very Good,Hotel Strand Hotel (SG Clean),8,0.762,0,0.238,0.4927
+1055,54,Wonderful,Hotel Strand Hotel (SG Clean),9,1,0,0,0.5719
+1056,55,Good,Hotel Strand Hotel (SG Clean),7,1,0,0,0.4404
+1057,56,Wonderful,Hotel Strand Hotel (SG Clean),9,1,0,0,0.5719
+1058,57,Exceptional,Hotel Strand Hotel (SG Clean),10,0,0,1,0
+1059,58,Very Good,Hotel Strand Hotel (SG Clean),8,0.762,0,0.238,0.4927
+1060,59,Wonderful,Hotel Strand Hotel (SG Clean),9,1,0,0,0.5719
+1061,60,Happy 😊,Hotel Strand Hotel (SG Clean),10,1,0,0,0.5719
+1062,61,Very Good,Hotel Strand Hotel (SG Clean),8,0.762,0,0.238,0.4927
+1063,62,Wonderful,Hotel Strand Hotel (SG Clean),9,1,0,0,0.5719
+1064,63,Very Good,Hotel Strand Hotel (SG Clean),8,0.762,0,0.238,0.4927
+1065,64,Exceptional,Hotel Strand Hotel (SG Clean),10,0,0,1,0
+1066,65,Exceptional,Hotel Strand Hotel (SG Clean),10,0,0,1,0
+1067,66,Very Good,Hotel Strand Hotel (SG Clean),8,0.762,0,0.238,0.4927
+1068,67,Very Good,Hotel Strand Hotel (SG Clean),8,0.762,0,0.238,0.4927
+1069,68,Exceptional,Hotel Strand Hotel (SG Clean),10,0,0,1,0
+1070,69,Exceptional,Hotel Strand Hotel (SG Clean),10,0,0,1,0
+1071,70,Very Good,Hotel Strand Hotel (SG Clean),8,0.762,0,0.238,0.4927
+1072,71,Exceptional,Hotel Strand Hotel (SG Clean),10,0,0,1,0
+1073,72,Bathroom need some privacy...no need glass window,Hotel Strand Hotel (SG Clean),9,0,0,1,0
+1074,73,"We memorable stay, and will continue with the booking if the price is right.",Hotel Strand Hotel (SG Clean),10,0,0,1,0
+1075,74,Pleasant,Hotel Strand Hotel (SG Clean),6,1,0,0,0.5106
+1076,75,Exceptional,Hotel Strand Hotel (SG Clean),10,0,0,1,0
+1077,76,Very Good,Hotel Strand Hotel (SG Clean),8,0.762,0,0.238,0.4927
+1078,77,Very Good,Hotel Strand Hotel (SG Clean),8,0.762,0,0.238,0.4927
+1079,78,Very Good,Hotel Strand Hotel (SG Clean),8,0.762,0,0.238,0.4927
+1080,79,Very Good,Hotel Strand Hotel (SG Clean),8,0.762,0,0.238,0.4927
+1081,80,Pleasant stay,Hotel Strand Hotel (SG Clean),8,0.767,0,0.233,0.5106
+1082,81,Exceptional,Hotel Strand Hotel (SG Clean),10,0,0,1,0
+1083,82,Good place,Hotel Strand Hotel (SG Clean),10,0.744,0,0.256,0.4404
+1084,83,Pleasant,Hotel Strand Hotel (SG Clean),6,1,0,0,0.5106
+1085,84,Exceptional,Hotel Strand Hotel (SG Clean),10,0,0,1,0
+1086,85,Fair,Hotel Strand Hotel (SG Clean),5,1,0,0,0.3182
+1087,86,Good,Hotel Strand Hotel (SG Clean),7,1,0,0,0.4404
+1088,87,Exceptional,Hotel Strand Hotel (SG Clean),10,0,0,1,0
+1089,88,Exceptional,Hotel Strand Hotel (SG Clean),10,0,0,1,0
+1090,89,Good,Hotel Strand Hotel (SG Clean),7,1,0,0,0.4404
+1091,90,Pleasant,Hotel Strand Hotel (SG Clean),6,1,0,0,0.5106
+1092,91,Pleasant,Hotel Strand Hotel (SG Clean),6,1,0,0,0.5106
+1093,92,Great place to stay,Hotel Strand Hotel (SG Clean),8,0.577,0,0.423,0.6249
+1094,93,Good,Hotel Strand Hotel (SG Clean),7,1,0,0,0.4404
+1095,94,Exceptional,Hotel Strand Hotel (SG Clean),10,0,0,1,0
+1096,95,Very Good,Hotel Strand Hotel (SG Clean),8,0.762,0,0.238,0.4927
+1097,96,No much to say as I only stayed for less then 12 hrs,Hotel Strand Hotel (SG Clean),4,0,0.167,0.833,-0.296
+1098,97,very nice service & and they allow us to check out 12.30pm instead of 12pm 😊,Hotel Strand Hotel (SG Clean),10,0.294,0,0.706,0.6115
+1099,98,Exceptional,Hotel Strand Hotel (SG Clean),10,0,0,1,0
+1100,99,Wonderful,Hotel Strand Hotel (SG Clean),9,1,0,0,0.5719
+1101,0,Very enjoyable.,Condo Hotel Treetops Executive Residences (SG Clean),8,0.762,0,0.238,0.4927
+1102,1,"lovely family stay, good location",Condo Hotel Treetops Executive Residences (SG Clean),10,0.691,0,0.309,0.7717
+1103,2,TV program was not preferable.,Condo Hotel Treetops Executive Residences (SG Clean),5,0,0,1,0
+1104,3,Very Good,Condo Hotel Treetops Executive Residences (SG Clean),8,0.762,0,0.238,0.4927
+1105,4,"Friendly, helpful service and convenient, stylish accomodation.",Condo Hotel Treetops Executive Residences (SG Clean),10,0.545,0,0.455,0.7184
+1106,5,Thoroughly enjoyable,Condo Hotel Treetops Executive Residences (SG Clean),9,0.762,0,0.238,0.4927
+1107,6,Exceptional,Condo Hotel Treetops Executive Residences (SG Clean),10,0,0,1,0
+1108,7,It felt like a home away from home. Would definitely come back/recommend,Condo Hotel Treetops Executive Residences (SG Clean),10,0.366,0,0.634,0.6369
+1109,8,Exceptional,Condo Hotel Treetops Executive Residences (SG Clean),10,0,0,1,0
+1110,9,Great place - Feels secluded but in the heart of Orchard.,Condo Hotel Treetops Executive Residences (SG Clean),8,0.221,0,0.779,0.3716
+1111,10,Bad,Condo Hotel Treetops Executive Residences (SG Clean),1,0,1,0,-0.5423
+1112,11,Wonderful,Condo Hotel Treetops Executive Residences (SG Clean),9,1,0,0,0.5719
+1113,12,Exceptional,Condo Hotel Treetops Executive Residences (SG Clean),10,0,0,1,0
+1114,13,Wonderful,Condo Hotel Treetops Executive Residences (SG Clean),9,1,0,0,0.5719
+1115,14,would come back,Condo Hotel Treetops Executive Residences (SG Clean),8,0,0,1,0
+1116,15,had a great time will be back,Condo Hotel Treetops Executive Residences (SG Clean),10,0.451,0,0.549,0.6249
+1117,16,Wonderful,Condo Hotel Treetops Executive Residences (SG Clean),9,1,0,0,0.5719
+1118,17,"It's a pleasant stay, love the swimming pool.",Condo Hotel Treetops Executive Residences (SG Clean),8,0.6,0,0.4,0.8176
+1119,18,Very Good,Condo Hotel Treetops Executive Residences (SG Clean),8,0.762,0,0.238,0.4927
+1120,19,Exceptional,Condo Hotel Treetops Executive Residences (SG Clean),10,0,0,1,0
+1121,20,Absolutely lovely - we loved the place and plan to come back.,Condo Hotel Treetops Executive Residences (SG Clean),10,0.478,0,0.522,0.8503
+1122,21,Exceptional,Condo Hotel Treetops Executive Residences (SG Clean),10,0,0,1,0
+1123,22,Exceptional,Condo Hotel Treetops Executive Residences (SG Clean),10,0,0,1,0
+1124,23,cosy apartment .well maintained . nice pool near orchard road,Condo Hotel Treetops Executive Residences (SG Clean),9,0.412,0,0.588,0.5994
+1125,24,Good,Condo Hotel Treetops Executive Residences (SG Clean),7,1,0,0,0.4404
+1126,25,Wonderful,Condo Hotel Treetops Executive Residences (SG Clean),9,1,0,0,0.5719
+1127,26,Good,Condo Hotel Treetops Executive Residences (SG Clean),7,1,0,0,0.4404
+1128,27,Wonderful,Condo Hotel Treetops Executive Residences (SG Clean),9,1,0,0,0.5719
+1129,28,A wonderful getaway from home & would love to visit again.,Condo Hotel Treetops Executive Residences (SG Clean),9,0.53,0,0.47,0.836
+1130,29,Relaxing apartment. The pool was beautiful with jacuzzis set in a well laid out tropical garden.,Condo Hotel Treetops Executive Residences (SG Clean),10,0.434,0,0.566,0.8481
+1131,30,Comfortable but fell short on quality expected,Condo Hotel Treetops Executive Residences (SG Clean),6,0.264,0,0.736,0.2846
+1132,31,Exceptional,Condo Hotel Treetops Executive Residences (SG Clean),10,0,0,1,0
+1133,32,Good,Condo Hotel Treetops Executive Residences (SG Clean),7,1,0,0,0.4404
+1134,33,Wonderful,Condo Hotel Treetops Executive Residences (SG Clean),9,1,0,0,0.5719
+1135,34,Very Good,Condo Hotel Treetops Executive Residences (SG Clean),8,0.762,0,0.238,0.4927
+1136,35,Wish we could have stayed longer!,Condo Hotel Treetops Executive Residences (SG Clean),9,0.374,0,0.626,0.4574
+1137,36,Exceptional,Condo Hotel Treetops Executive Residences (SG Clean),10,0,0,1,0
+1138,37,Wonderful,Condo Hotel Treetops Executive Residences (SG Clean),9,1,0,0,0.5719
+1139,38,Home away from home,Condo Hotel Treetops Executive Residences (SG Clean),10,0,0,1,0
+1140,39,Exceptional,Condo Hotel Treetops Executive Residences (SG Clean),10,0,0,1,0
+1141,40,Very Good,Condo Hotel Treetops Executive Residences (SG Clean),8,0.762,0,0.238,0.4927
+1142,41,Wonderful,Condo Hotel Treetops Executive Residences (SG Clean),9,1,0,0,0.5719
+1143,42,Exceptional,Condo Hotel Treetops Executive Residences (SG Clean),10,0,0,1,0
+1144,43,Wonderful,Condo Hotel Treetops Executive Residences (SG Clean),9,1,0,0,0.5719
+1145,44,Good,Condo Hotel Treetops Executive Residences (SG Clean),7,1,0,0,0.4404
+1146,45,Wish to return but next time will request for a room facing the pool & with washer/dryer &,Condo Hotel Treetops Executive Residences (SG Clean),9,0.117,0,0.883,0.2144
+1147,46,Very Good,Condo Hotel Treetops Executive Residences (SG Clean),8,0.762,0,0.238,0.4927
+1148,47,10 day family Staycation,Condo Hotel Treetops Executive Residences (SG Clean),10,0,0,1,0
+1149,48,Wonderful,Condo Hotel Treetops Executive Residences (SG Clean),9,1,0,0,0.5719
+1150,49,Exceptional,Condo Hotel Treetops Executive Residences (SG Clean),10,0,0,1,0
+1151,50,It was enjoyable. Unfortunately due to covid. Did not get to enjoy the facilities,Condo Hotel Treetops Executive Residences (SG Clean),10,0.153,0.266,0.581,-0.2796
+1152,51,Wonderful,Condo Hotel Treetops Executive Residences (SG Clean),9,1,0,0,0.5719
+1153,52,We shall return,Condo Hotel Treetops Executive Residences (SG Clean),9,0,0,1,0
+1154,53,Excellent place for long stay especially if you had to deal with renovations at home.,Condo Hotel Treetops Executive Residences (SG Clean),10,0.209,0,0.791,0.5719
+1155,54,Wonderful,Condo Hotel Treetops Executive Residences (SG Clean),9,1,0,0,0.5719
+1156,55,Wonderful,Condo Hotel Treetops Executive Residences (SG Clean),9,1,0,0,0.5719
+1157,56,Very Good,Condo Hotel Treetops Executive Residences (SG Clean),8,0.762,0,0.238,0.4927
+1158,57,Exceptional,Condo Hotel Treetops Executive Residences (SG Clean),10,0,0,1,0
+1159,58,Exceptional,Condo Hotel Treetops Executive Residences (SG Clean),10,0,0,1,0
+1160,59,Excellent!,Condo Hotel Treetops Executive Residences (SG Clean),9,1,0,0,0.6114
+1161,60,Comfortable family friendly place near to town,Condo Hotel Treetops Executive Residences (SG Clean),10,0.565,0,0.435,0.7579
+1162,61,Loved it. Would stay again.,Condo Hotel Treetops Executive Residences (SG Clean),9,0.494,0,0.506,0.5994
+1163,62,Wonderful,Condo Hotel Treetops Executive Residences (SG Clean),9,1,0,0,0.5719
+1164,63,The place is excellent except the sink n kitchen and masterbedroom toilet is always choking even though I ask for help t,Condo HotelTreetops Executive Residences (SG Clean),7,0.252,0.118,0.63,0.5267
+1165,64,Good,Condo Hotel Treetops Executive Residences (SG Clean),7,1,0,0,0.4404
+1166,65,Great StayCay at Treetops!,Condo Hotel Treetops Executive Residences (SG Clean),9,0.594,0,0.406,0.6588
+1167,66,Very Good,Condo Hotel Treetops Executive Residences (SG Clean),8,0.762,0,0.238,0.4927
+1168,67,Wonderful,Condo Hotel Treetops Executive Residences (SG Clean),9,1,0,0,0.5719
+1169,68,Exceptional,Condo Hotel Treetops Executive Residences (SG Clean),10,0,0,1,0
+1170,69,Relaxing stay,Condo Hotel Treetops Executive Residences (SG Clean),9,0.762,0,0.238,0.4939
+1171,70,Great,Condo Hotel Treetops Executive Residences (SG Clean),9,1,0,0,0.6249
+1172,71,6 Days 5 Night Staycation,Condo Hotel Treetops Executive Residences (SG Clean),9,0,0,1,0
+1173,72,Wonderful,Condo Hotel Treetops Executive Residences (SG Clean),9,1,0,0,0.5719
+1174,73,Wonderful,Condo Hotel Treetops Executive Residences (SG Clean),9,1,0,0,0.5719
+1175,74,Very omfortable stay.,Condo Hotel Treetops Executive Residences (SG Clean),8,0,0,1,0
+1176,75,Poor,Condo Hotel Treetops Executive Residences (SG Clean),3,0,1,0,-0.4767
+1177,76,"Thoroughly comfortable and enjoyable - a home away from home, very nice and well maintained property",Condo Hotel Treetops Executive Residences (SG Clean),8,0.55,0,0.45,0.9045
+1178,77,Lovely family friendly place.,Condo Hotel Treetops Executive Residences (SG Clean),10,0.778,0,0.222,0.7906
+1179,78,Very Good,Condo Hotel Treetops Executive Residences (SG Clean),8,0.762,0,0.238,0.4927
+1180,79,"Good location, spacious room, nice discount.",Condo Hotel Treetops Executive Residences (SG Clean),9,0.588,0,0.412,0.6908
+1181,80,Wonderful,Condo Hotel Treetops Executive Residences (SG Clean),9,1,0,0,0.5719
+1182,81,Exceptional,Condo Hotel Treetops Executive Residences (SG Clean),10,0,0,1,0
+1183,82,Exceptional,Condo Hotel Treetops Executive Residences (SG Clean),10,0,0,1,0
+1184,83,Great!,Condo Hotel Treetops Executive Residences (SG Clean),9,1,0,0,0.6588
+1185,84,Bad,Condo Hotel Treetops Executive Residences (SG Clean),1,0,1,0,-0.5423
+1186,85,Very Good,Condo Hotel Treetops Executive Residences (SG Clean),8,0.762,0,0.238,0.4927
+1187,86,Wonderful,Condo Hotel Treetops Executive Residences (SG Clean),9,1,0,0,0.5719
+1188,87,Exceptional,Condo Hotel Treetops Executive Residences (SG Clean),10,0,0,1,0
+1189,88,Very Good,Condo Hotel Treetops Executive Residences (SG Clean),8,0.762,0,0.238,0.4927
+1190,89,A week at Treetops,Condo Hotel Treetops Executive Residences (SG Clean),10,0,0,1,0
+1191,90,Exceptional,Condo Hotel Treetops Executive Residences (SG Clean),10,0,0,1,0
+1192,91,Exceptional,Condo Hotel Treetops Executive Residences (SG Clean),10,0,0,1,0
+1193,92,A perfect stay with the family.,Condo Hotel Treetops Executive Residences (SG Clean),9,0.481,0,0.519,0.5719
+1194,93,Very Good,Condo Hotel Treetops Executive Residences (SG Clean),8.3,0.762,0,0.238,0.4927
+1195,94,Exceptional,Condo Hotel Treetops Executive Residences (SG Clean),10,0,0,1,0
+1196,95,Exceptional,Condo Hotel Treetops Executive Residences (SG Clean),10,0,0,1,0
+1197,96,great hotel for a large family,Condo Hotel Treetops Executive Residences (SG Clean),10,0.506,0,0.494,0.6249
+1198,97,Exceptional,Condo Hotel Treetops Executive Residences (SG Clean),10,0,0,1,0
+1199,98,Wonderful,Condo Hotel Treetops Executive Residences (SG Clean),10,1,0,0,0.5719
+1200,99,Very Good,Condo Hotel Treetops Executive Residences (SG Clean),8,0.762,0,0.238,0.4927
+1201,0,"slightly priced higher than similar properties. nice location, clean rooms.",Condo Hotel Park Avenue Clemenceau (SG Clean),8,0.407,0,0.593,0.6705
+1202,1,OK.,Condo Hotel Park Avenue Clemenceau (SG Clean),5,1,0,0,0.296
+1203,2,A pleasant stay in a well placed hotel with easy access to all Singapore has to offer.,Condo Hotel Park Avenue Clemenceau (SG Clean),5,0.409,0,0.591,0.8074
+1204,3,Wonderful,Condo Hotel Park Avenue Clemenceau (SG Clean),9,1,0,0,0.5719
+1205,4,Wonderful,Condo Hotel Park Avenue Clemenceau (SG Clean),9,1,0,0,0.5719
+1206,5,I had been a most enjoyable stay for my husband and I.,Condo Hotel Park Avenue Clemenceau (SG Clean),10,0.262,0,0.738,0.4927
+1207,6,Good place in a great location.,Condo Hotel Park Avenue Clemenceau (SG Clean),9,0.7,0,0.3,0.7906
+1208,7,Overall ok but definitely room for improvement,Condo Hotel Park Avenue Clemenceau (SG Clean),7,0.696,0,0.304,0.8462
+1209,8,Wonderful,Condo Hotel Park Avenue Clemenceau (SG Clean),9,1,0,0,0.5719
+1210,9,"Perfect for a place to stay after moving out of our apartment, before leaving Singapore.",Condo Hotel Park Avenue Clemenceau (SG Clean),10,0.222,0,0.778,0.5719
+1211,10,"Great stay, nice view",Condo Hotel Park Avenue Clemenceau (SG Clean),10,0.775,0,0.225,0.7845
+1212,11,Very Good,Condo Hotel Park Avenue Clemenceau (SG Clean),8,0.762,0,0.238,0.4927
+1213,12,Great location and staff made for a comfortable and convenient stay,Condo Hotel Park Avenue Clemenceau (SG Clean),9,0.481,0,0.519,0.8126
+1214,13,"Great price, location, apartments and excellent staff.",Condo Hotel Park Avenue Clemenceau (SG Clean),9,0.609,0,0.391,0.8316
+1215,14,Wonderful,Condo Hotel Park Avenue Clemenceau (SG Clean),9,1,0,0,0.5719
+1216,15,Apartment in central location,Condo Hotel Park Avenue Clemenceau (SG Clean),8,0,0,1,0
+1217,16,would definitely recommend Park Avenue if you are looking for a service apartment near Robertson or Clark Quay,Condo Hotel Park Avenue Clemenceau (SG Clean),9,0.257,0,0.743,0.6369
+1218,17,"Good location, reasonable value for money, welcoming staff.",Condo Hotel Park Avenue Clemenceau (SG Clean),7,0.621,0,0.379,0.802
+1219,18,Exceptional,Condo Hotel Park Avenue Clemenceau (SG Clean),10,0,0,1,0
+1220,19,Very Good,Condo Hotel Park Avenue Clemenceau (SG Clean),8,0.762,0,0.238,0.4927
+1221,20,Very Good,Condo Hotel Park Avenue Clemenceau (SG Clean),8,0.762,0,0.238,0.4927
+1222,21,Exceptional,Condo Hotel Park Avenue Clemenceau (SG Clean),10,0,0,1,0
+1223,22,Very Good,Condo Hotel Park Avenue Clemenceau (SG Clean),8,0.762,0,0.238,0.4927
+1224,23,Pleasant,Condo Hotel Park Avenue Clemenceau (SG Clean),6,1,0,0,0.5106
+1225,24,Very Good,Condo Hotel Park Avenue Clemenceau (SG Clean),8,0.762,0,0.238,0.4927
+1226,25,"comfortable, kind of feels like home away from home",Condo Hotel Park Avenue Clemenceau (SG Clean),8,0.453,0,0.547,0.7003
+1227,26,Exceptional,Condo Hotel Park Avenue Clemenceau (SG Clean),10,0,0,1,0
+1228,27,Stayed for over a month and had everything I needed to be comfortable and the staff were very helpful whenever I had a q,Condo Hotel Park Avenue Clemenceau (SG Clean),10,0.273,0,0.727,0.7501
+1229,28,Exceptional,Condo Hotel Park Avenue Clemenceau (SG Clean),10,0,0,1,0
+1230,29,Great place with lots of privacy,Condo Hotel Park Avenue Clemenceau (SG Clean),8,0.451,0,0.549,0.6249
+1231,30,Good stay,Condo Hotel Park Avenue Clemenceau (SG Clean),8,0.744,0,0.256,0.4404
+1232,31,Exceptional,Condo Hotel Park Avenue Clemenceau (SG Clean),10,0,0,1,0
+1233,32,Very Good,Condo Hotel Park Avenue Clemenceau (SG Clean),8,0.762,0,0.238,0.4927
+1234,33,"This is a perfect place for work , leisure or family",Condo Hotel Park Avenue Clemenceau (SG Clean),10,0.316,0,0.684,0.5719
+1235,34,Good,Condo Hotel Park Avenue Clemenceau (SG Clean),7,1,0,0,0.4404
+1236,35,Wonderful,Condo Hotel Park Avenue Clemenceau (SG Clean),9,1,0,0,0.5719
+1237,36,"Gym is bad , old machines. Worse part is no window , air is bad.",Condo Hotel Park Avenue Clemenceau (SG Clean),6,0,0.577,0.423,-0.9062
+1238,37,Very Good,Condo Hotel Park Avenue Clemenceau (SG Clean),8,0.762,0,0.238,0.4927
+1239,38,Great location and pleasant stay,Condo Hotel Park Avenue Clemenceau (SG Clean),8,0.712,0,0.288,0.8126
+1240,39,Generally an ok stay. The one bedroom apartment has good space.,Condo Hotel Park Avenue Clemenceau (SG Clean),6,0.362,0,0.638,0.6249
+1241,40,Very Good,Condo Hotel Park Avenue Clemenceau (SG Clean),8,0.762,0,0.238,0.4927
+1242,41,Exceptional,Condo Hotel Park Avenue Clemenceau (SG Clean),10,0,0,1,0
+1243,42,Wonderful,Condo Hotel Park Avenue Clemenceau (SG Clean),9,1,0,0,0.5719
+1244,43,Very Good,Condo Hotel Park Avenue Clemenceau (SG Clean),8,0.762,0,0.238,0.4927
+1245,44,was a bit noisy in the room especially during at night can hear stumping from the room above and banging of doors,Condo Hotel Park Avenue Clemenceau (SG Clean),6,0,0.078,0.922,-0.1779
+1246,45,Very Good,Condo Hotel Park Avenue Clemenceau (SG Clean),8,0.762,0,0.238,0.4927
+1247,46,Very Good,Condo Hotel Park Avenue Clemenceau (SG Clean),8,0.762,0,0.238,0.4927
+1248,47,Too old & smelly,Condo Hotel Park Avenue Clemenceau (SG Clean),3,0,0,1,0
+1249,48,Very Good,Condo Hotel Park Avenue Clemenceau (SG Clean),8,0.762,0,0.238,0.4927
+1250,49,Very Good,Condo Hotel Park Avenue Clemenceau (SG Clean),8,0.762,0,0.238,0.4927
+1251,50,Good,Condo Hotel Park Avenue Clemenceau (SG Clean),7,1,0,0,0.4404
+1252,51,Very Good,Condo Hotel Park Avenue Clemenceau (SG Clean),8,0.762,0,0.238,0.4927
+1253,52,Exceptional,Condo Hotel Park Avenue Clemenceau (SG Clean),10,0,0,1,0
+1254,53,I would definitely return here,Condo Hotel Park Avenue Clemenceau (SG Clean),10,0.474,0,0.526,0.4019
+1255,54,Exceptional,Condo Hotel Park Avenue Clemenceau (SG Clean),10,0,0,1,0
+1256,55,Good,Condo Hotel Park Avenue Clemenceau (SG Clean),7,1,0,0,0.4404
+1257,56,Exceptional,Condo Hotel Park Avenue Clemenceau (SG Clean),10,0,0,1,0
+1258,57,Poor,Condo Hotel Park Avenue Clemenceau (SG Clean),3.8,0,1,0,-0.4767
+1259,58,Nice location.,Condo Hotel Park Avenue Clemenceau (SG Clean),8,0.737,0,0.263,0.4215
+1260,59,overall nice stay & highly recommended,Condo Hotel Park Avenue Clemenceau (SG Clean),8,0.62,0,0.38,0.5984
+1261,60,Exceptional,Condo Hotel Park Avenue Clemenceau (SG Clean),10,0,0,1,0
+1262,61,Ideal location for exploring Singapore.,Condo Hotel Park Avenue Clemenceau (SG Clean),10,0.459,0,0.541,0.5267
+1263,62,Would stay there again.,Condo Hotel Park Avenue Clemenceau (SG Clean),9,0,0,1,0
+1264,63,Comfortable,Condo Hotel Park Avenue Clemenceau (SG Clean),7,1,0,0,0.5106
+1265,64,Wonderful,Condo Hotel Park Avenue Clemenceau (SG Clean),9.2,1,0,0,0.5719
+1266,65,Very Good,Condo Hotel Park Avenue Clemenceau (SG Clean),8,0.762,0,0.238,0.4927
+1267,66,Wonderful,Condo Hotel Park Avenue Clemenceau (SG Clean),9,1,0,0,0.5719
+1268,67,"Great room, good location",Condo Hotel Park Avenue Clemenceau (SG Clean),8,0.778,0,0.222,0.7906
+1269,68,Great value.,Condo Hotel Park Avenue Clemenceau (SG Clean),7,1,0,0,0.7579
+1270,69,Great OK,Condo Hotel Park Avenue Clemenceau (SG Clean),9,1,0,0,0.7925
+1271,70,Excellent location,Condo Hotel Park Avenue Clemenceau (SG Clean),9.2,0.787,0,0.213,0.5719
+1272,71,Very Good,Condo Hotel Park Avenue Clemenceau (SG Clean),8,0.762,0,0.238,0.4927
+1273,72,All round great place to stay. Very convenient.,Condo Hotel Park Avenue Clemenceau (SG Clean),8,0.369,0,0.631,0.6249
+1274,73,Awesome,Condo Hotel Park Avenue Clemenceau (SG Clean),9.2,1,0,0,0.6249
+1275,74,Excellent,Condo Hotel Park Avenue Clemenceau (SG Clean),10,1,0,0,0.5719
+1276,75,Exceptional,Condo Hotel Park Avenue Clemenceau (SG Clean),10,0,0,1,0
+1277,76,"A well equipped, and very conveniently located apartment. Clean and comfortable.",Condo Hotel Park Avenue Clemenceau (SG Clean),10,0.536,0,0.464,0.7964
+1278,77,Very Good,Condo Hotel Park Avenue Clemenceau (SG Clean),8,0.762,0,0.238,0.4927
+1279,78,Wonderful,Condo Hotel Park Avenue Clemenceau (SG Clean),9,1,0,0,0.5719
+1280,79,Good,Condo Hotel Park Avenue Clemenceau (SG Clean),7,1,0,0,0.4404
+1281,80,Spacious and comfortable two bedroom apartment in an excellent location. Would definitely stay again,Condo Hotel Park Avenue Clemenceau (SG Clean),9,0.469,0,0.531,0.8658
+1282,81,Exceptional,Condo Hotel Park Avenue Clemenceau (SG Clean),10,0,0,1,0
+1283,82,Pleasant,Condo Hotel Park Avenue Clemenceau (SG Clean),6,1,0,0,0.5106
+1284,83,Good,Condo Hotel Park Avenue Clemenceau (SG Clean),7,1,0,0,0.4404
+1285,84,Okay,Condo Hotel Park Avenue Clemenceau (SG Clean),5.8,1,0,0,0.2263
+1286,85,Good short term family stay in great location.,Condo Hotel Park Avenue Clemenceau (SG Clean),7,0.538,0,0.462,0.7906
+1287,86,Pleasant,Condo Hotel Park Avenue Clemenceau (SG Clean),6.7,1,0,0,0.5106
+1288,87,Wonderful,Condo Hotel Park Avenue Clemenceau (SG Clean),9.2,1,0,0,0.5719
+1289,88,"Great location, clean and spacious appartment, clise to mrt and getting around made so easy.",Condo Hotel Park Avenue Clemenceau (SG Clean),10,0.468,0,0.532,0.8895
+1290,89,Very Good,Condo Hotel Park Avenue Clemenceau (SG Clean),8,0.762,0,0.238,0.4927
+1291,90,Very Good,Condo Hotel Park Avenue Clemenceau (SG Clean),8.3,0.762,0,0.238,0.4927
+1292,91,Great place!,Condo Hotel Park Avenue Clemenceau (SG Clean),9.6,0.815,0,0.185,0.6588
+1293,92,Very Good,Condo Hotel Park Avenue Clemenceau (SG Clean),8,0.762,0,0.238,0.4927
+1294,93,"I would definitely stay here again, staff were very friendly and the location was great",Condo Hotel Park Avenue Clemenceau (SG Clean),9,0.483,0,0.517,0.8832
+1295,94,Wonderful,Condo Hotel Park Avenue Clemenceau (SG Clean),9,1,0,0,0.5719
+1296,95,Excellent,Condo Hotel Park Avenue Clemenceau (SG Clean),8.8,1,0,0,0.5719
+1297,96,Pleasant,Condo Hotel Park Avenue Clemenceau (SG Clean),6,1,0,0,0.5106
+1298,97,Exceptional,Condo Hotel Park Avenue Clemenceau (SG Clean),9.6,0,0,1,0
+1299,98,Exceptional,Condo Hotel Park Avenue Clemenceau (SG Clean),10,0,0,1,0
+1300,99,Great holiday in Singapore.,Condo Hotel Park Avenue Clemenceau (SG Clean),8,0.773,0,0.227,0.7783
+1301,0,Exceptional,Hostel The Bohemian,10,0,0,1,0
+1302,1,Well located hostel with very nice comforts.,Hostel The Bohemian,10,0.682,0,0.318,0.8211
+1303,2,Exceptional,Hostel The Bohemian,10,0,0,1,0
+1304,3,Pleasant,Hostel The Bohemian,6,1,0,0,0.5106
+1305,4,Wonderful,Hostel The Bohemian,9,1,0,0,0.5719
+1306,5,Wonderful,Hostel The Bohemian,9.2,1,0,0,0.5719
+1307,6,Good,Hostel The Bohemian,7,1,0,0,0.4404
+1308,7,Wonderful,Hostel The Bohemian,9.2,1,0,0,0.5719
+1309,8,Exceptional,Hostel The Bohemian,9.6,0,0,1,0
+1310,9,Very Good,Hostel The Bohemian,8,0.762,0,0.238,0.4927
+1311,10,Wonderful,Hostel The Bohemian,9,1,0,0,0.5719
+1312,11,Exceptional,Hostel The Bohemian,10,0,0,1,0
+1313,12,Fair,Hostel The Bohemian,5,1,0,0,0.3182
+1314,13,Very Good,Hostel The Bohemian,8.3,0.762,0,0.238,0.4927
+1315,14,Wonderful,Hostel The Bohemian,9,1,0,0,0.5719
+1316,15,Wonderful,Hostel The Bohemian,9.2,1,0,0,0.5719
+1317,16,Very Good,Hostel The Bohemian,8.3,0.762,0,0.238,0.4927
+1318,17,Overall a nice hostel in a good location!,Hostel The Bohemian,8,0.6,0,0.4,0.7177
+1319,18,Cozy,Hostel The Bohemian,9,0,0,1,0
+1320,19,Exceptional,Hostel The Bohemian,10,0,0,1,0
+1321,20,Wonderful,Hostel The Bohemian,9,1,0,0,0.5719
+1322,21,Exceptional,Hostel The Bohemian,10,0,0,1,0
+1323,22,met 1 crockroach at last night and changed beds then. others are pretty good. we are welcomed during our stay,Hostel The Bohemian,7.9,0.347,0,0.653,0.8176
+1324,23,Exceptional,Hostel The Bohemian,10,0,0,1,0
+1325,24,Not so well but ok. Bohemian and Chic hostels are the sister businesses owned by one family.,Hostel The Bohemian,5,0.274,0.071,0.655,0.652
+1326,25,Wonderful,Hostel The Bohemian,9.2,1,0,0,0.5719
+1327,26,Very Good,Hostel The Bohemian,8,0.762,0,0.238,0.4927
+1328,27,Exceptional,Hostel The Bohemian,10,0,0,1,0
+1329,28,Decent hostel in excellent location with friendly staff,Hostel The Bohemian,10,0.535,0,0.465,0.7845
+1330,29,Short stay,Hostel The Bohemian,7.5,0,0,1,0
+1331,30,Very Good,Hostel The Bohemian,8.3,0.762,0,0.238,0.4927
+1332,31,Lovely.,Hostel The Bohemian,8,1,0,0,0.5859
+1333,32,Exceptional,Hostel The Bohemian,9.6,0,0,1,0
+1334,33,Get what you pay for,Hostel The Bohemian,6.7,0,0.259,0.741,-0.1027
+1335,34,Exceptional,Hostel The Bohemian,10,0,0,1,0
+1336,35,Nice stay !,Hostel The Bohemian,8,0.756,0,0.244,0.4753
+1337,36,Exceptional,Hostel The Bohemian,10,0,0,1,0
+1338,37,Wonderful,Hostel The Bohemian,9,1,0,0,0.5719
+1339,38,Exceptional,Hostel The Bohemian,10,0,0,1,0
+1340,39,Great Hostel and Staff,Hostel The Bohemian,10,0.577,0,0.423,0.6249
+1341,40,Old and trashy,Hostel The Bohemian,4.6,0,0,1,0
+1342,41,Exceptional,Hostel The Bohemian,10,0,0,1,0
+1343,42,Highly recommended,Hostel The Bohemian,10,0.677,0,0.323,0.2716
+1344,43,Exceptional,Hostel The Bohemian,10,0,0,1,0
+1345,44,Pleasant,Hostel The Bohemian,6,1,0,0,0.5106
+1346,45,Beside what I didn't like it is still worth it,Hostel The Bohemian,8,0.173,0.192,0.636,-0.0541
+1347,46,Awesome hostel!,Hostel The Bohemian,10,0.815,0,0.185,0.6588
+1348,47,Very Good,Hostel The Bohemian,8,0.762,0,0.238,0.4927
+1349,48,Very Good,Hostel The Bohemian,8,0.762,0,0.238,0.4927
+1350,49,Excellent,Hostel The Bohemian,8.8,1,0,0,0.5719
+1351,50,Good,Hostel The Bohemian,7,1,0,0,0.4404
+1352,51,Excellent,Hostel The Bohemian,8.8,1,0,0,0.5719
+1353,52,Recommend Hostel in Chinatown Singapore,Hostel The Bohemian,9.6,0.385,0,0.615,0.3612
+1354,53,Fair,Hostel The Bohemian,5,1,0,0,0.3182
+1355,54,Great location and hostel,Hostel The Bohemian,10,0.577,0,0.423,0.6249
+1356,55,16 beds room in different hostel instead of booked 4 beds room with the same price,Hostel The Bohemian,5.4,0,0,1,0
+1357,56,Okay,Hostel The Bohemian,5.8,1,0,0,0.2263
+1358,57,Wonderful,Hostel The Bohemian,9.2,1,0,0,0.5719
+1359,58,Exceptional,Hostel The Bohemian,10,0,0,1,0
+1360,59,Solo travel through Singapore,Hostel The Bohemian,7,0,0,1,0
+1361,60,Wonderful,Hostel The Bohemian,9,1,0,0,0.5719
+1362,61,Location and service in Chinatown - MRT Exit E,Hostel The Bohemian,8,0,0,1,0
+1363,62,Exceptional,Hostel The Bohemian,10,0,0,1,0
+1364,63,Very Good,Hostel The Bohemian,8,0.762,0,0.238,0.4927
+1365,64,Exceptional,Hostel The Bohemian,10,0,0,1,0
+1366,65,Exceptional,Hostel The Bohemian,9.6,0,0,1,0
+1367,66,I will back soon,Hostel The Bohemian,8.3,0,0,1,0
+1368,67,Good,Hostel The Bohemian,7.5,1,0,0,0.4404
+1369,68,Exceptional,Hostel The Bohemian,10,0,0,1,0
+1370,69,Exceptional,Hostel The Bohemian,10,0,0,1,0
+1371,70,Good,Hostel The Bohemian,7.1,1,0,0,0.4404
+1372,71,Good,Hostel The Bohemian,7.9,1,0,0,0.4404
+1373,72,Very Good,Hostel The Bohemian,8.3,0.762,0,0.238,0.4927
+1374,73,the bohemian experience,Hostel The Bohemian,10,0,0,1,0
+1375,74,Wonderful,Hostel The Bohemian,9,1,0,0,0.5719
+1376,75,Good,Hostel The Bohemian,7.9,1,0,0,0.4404
+1377,76,Good,Hostel The Bohemian,7.1,1,0,0,0.4404
+1378,77,Wonderful,Hostel The Bohemian,9.2,1,0,0,0.5719
+1379,78,Wonderful,Hostel The Bohemian,9,1,0,0,0.5719
+1380,79,good value for money,Hostel The Bohemian,7,0.726,0,0.274,0.6486
+1381,80,Good,Hostel The Bohemian,7.5,1,0,0,0.4404
+1382,81,Disappointing,Hostel The Bohemian,4,0,1,0,-0.4939
+1383,82,"Brilliant location, amazing facilities",Hostel The Bohemian,9.6,0.792,0,0.208,0.8225
+1384,83,Good,Hostel The Bohemian,7.5,1,0,0,0.4404
+1385,84,Excellent,Hostel The Bohemian,8.8,1,0,0,0.5719
+1386,85,Inadequate bathroom/shower facilities,Hostel The Bohemian,4.2,0,0.574,0.426,-0.4019
+1387,86,Great location and the staff was very polite and helpful. Rooms were good and clean. They also provide free shuttle for,Hostel The Bohemian,8.8,0.501,0,0.499,0.9438
+1388,87,Wonderful,Hostel The Bohemian,9.2,1,0,0,0.5719
+1389,88,Exceptional,Hostel The Bohemian,10,0,0,1,0
+1390,89,Wonderful,Hostel The Bohemian,9.2,1,0,0,0.5719
+1391,90,Good,Hostel The Bohemian,7.1,1,0,0,0.4404
+1392,91,Exceptional,Hostel The Bohemian,10,0,0,1,0
+1393,92,Centered,Hostel The Bohemian,10,0,0,1,0
+1394,93,Very Good,Hostel The Bohemian,8.3,0.762,0,0.238,0.4927
+1395,94,Staff was great,Hostel The Bohemian,7.1,0.672,0,0.328,0.6249
+1396,95,Good,Hostel The Bohemian,7.9,1,0,0,0.4404
+1397,96,The stay was great. Value for money.,Hostel The Bohemian,8.3,0.565,0,0.435,0.7579
+1398,97,would do it again,Hostel The Bohemian,8.3,0,0,1,0
+1399,98,Exceptional,Hostel The Bohemian,10,0,0,1,0
+1400,99,It was an excellent stay.,Hostel The Bohemian,9.6,0.481,0,0.519,0.5719
+1401,0,Exceptional,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,10,0,0,1,0
+1402,1,fabulous hotel,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,9,0.773,0,0.227,0.5267
+1403,2,Pleasant,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,6,1,0,0,0.5106
+1404,3,Exceptional,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,10,0,0,1,0
+1405,4,Exceptional,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,10,0,0,1,0
+1406,5,Wonderful,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,9,1,0,0,0.5719
+1407,6,Exceptional,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,10,0,0,1,0
+1408,7,Pleasant,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,6,1,0,0,0.5106
+1409,8,Great stay. But was a little upset as there’s no complimentary cake served as promised. Was celebrating my bf’s birthday,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,8,0.439,0.172,0.389,0.8732
+1410,9,"Great location, great service, need better bed",Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,8,0.735,0,0.265,0.9022
+1411,10,Great stay & great location.,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,10,0.804,0,0.196,0.8481
+1412,11,Very Good,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,8,0.762,0,0.238,0.4927
+1413,12,"perfect location, efficient and friendly staff and beautiful rooftop terrace and pool",Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,8,0.63,0,0.37,0.9274
+1414,13,First stay and received great hospitality,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,9,0.451,0,0.549,0.6249
+1415,14,Very Good,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,8,0.762,0,0.238,0.4927
+1416,15,Superb stay,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,10,0.804,0,0.196,0.6249
+1417,16,"For a weekend stay a great hotel, close to the most of the attractions in Singapore",Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,9,0.374,0,0.626,0.8
+1418,17,Good,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,7,1,0,0,0.4404
+1419,18,Good,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,7,1,0,0,0.4404
+1420,19,great vacation - setting the standards in hospitality,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,8,0.406,0,0.594,0.6249
+1421,20,"Great pool, good location caters to both business and holiday traveller",Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,9,0.548,0,0.452,0.8658
+1422,21,Very convenient location with all the comforts of home.,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,10,0.279,0,0.721,0.4767
+1423,22,hotel is average for the price it charges,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,6,0,0.231,0.769,-0.2732
+1424,23,Very Good,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,8,0.762,0,0.238,0.4927
+1425,24,Very Good,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,8,0.762,0,0.238,0.4927
+1426,25,Exceptional,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,10,0,0,1,0
+1427,26,Wonderful,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,9,1,0,0,0.5719
+1428,27,Good,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,7,1,0,0,0.4404
+1429,28,Very Good,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,8,0.762,0,0.238,0.4927
+1430,29,Superb quality. Great price. Central location,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,9,0.672,0,0.328,0.8481
+1431,30,Disappointing,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,4,0,1,0,-0.4939
+1432,31,Very Good,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,8,0.762,0,0.238,0.4927
+1433,32,Very Good,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,8,0.762,0,0.238,0.4927
+1434,33,Wonderful,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,9,1,0,0,0.5719
+1435,34,hotel management and room not adequate.,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,7,0,0.25,0.75,-0.1695
+1436,35,You won't find anything as convenient as this.,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,8,0,0,1,0
+1437,36,"Good value, good location?.Great rooftop pool.",Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,9,0.732,0,0.268,0.802
+1438,37,Exceptional,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,10,0,0,1,0
+1439,38,highly recommended,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,10,0.677,0,0.323,0.2716
+1440,39,Wonderful,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,9,1,0,0,0.5719
+1441,40,Absolutely spectacular from top to bottom. Must stay in Singapore!,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,10,0.207,0,0.793,0.3304
+1442,41,Exceptional,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,10,0,0,1,0
+1443,42,Wonderful,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,9,1,0,0,0.5719
+1444,43,Very Good,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,8,0.762,0,0.238,0.4927
+1445,44,convenient and central,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,10,0,0,1,0
+1446,45,Wonderful,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,9,1,0,0,0.5719
+1447,46,Wonderful,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,9,1,0,0,0.5719
+1448,47,Exceptional,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,10,0,0,1,0
+1449,48,Wonderful,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,9,1,0,0,0.5719
+1450,49,Good,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,7,1,0,0,0.4404
+1451,50,Enjoyed our stay,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,9,0.623,0,0.377,0.5106
+1452,51,The stay was astounding and the food is scrumptious!,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,10,0.469,0,0.531,0.7345
+1453,52,Very Good,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,8,0.762,0,0.238,0.4927
+1454,53,I won’t stay at this property again with family,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,5,0,0,1,0
+1455,54,Very Good,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,8,0.762,0,0.238,0.4927
+1456,55,Not recommend for families and long term stays.,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,2,0,0.232,0.768,-0.2755
+1457,56,Great hotel,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,10,0.804,0,0.196,0.6249
+1458,57,Wonderful,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,9,1,0,0,0.5719
+1459,58,Really nice hotel that was reasonably priced,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,10,0.34,0,0.66,0.4754
+1460,59,Very Good,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,8,0.762,0,0.238,0.4927
+1461,60,Very Good,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,8,0.762,0,0.238,0.4927
+1462,61,"the checking in your two hours late, the receptionist told us I cannot give you a timing when the room will be ready. an",Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,6,0.106,0,0.894,0.3612
+1463,62,Exceptional,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,10,0,0,1,0
+1464,63,Bad,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,1,0,1,0,-0.5423
+1465,64,Wonderful,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,9,1,0,0,0.5719
+1466,65,Very Good,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,8,0.762,0,0.238,0.4927
+1467,66,Staff are so helpful. if you need anything the hotel staff will try to accommodate your requests including heating up yo,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,9,0.153,0,0.847,0.5598
+1468,67,Short staycay with friends,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,9,0.508,0,0.492,0.4767
+1469,68,"Thoroughly enjoyed stay, food and courteous staff",Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,10,0.58,0,0.42,0.7841
+1470,69,Very Good,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,8,0.762,0,0.238,0.4927
+1471,70,Very Good,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,8,0.762,0,0.238,0.4927
+1472,71,Exceptional,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,10,0,0,1,0
+1473,72,ok,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,7,1,0,0,0.296
+1474,73,Exceptional,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,10,0,0,1,0
+1475,74,Excellent,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,9,1,0,0,0.5719
+1476,75,Very Good,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,8,0.762,0,0.238,0.4927
+1477,76,Value for Money,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,9,0.545,0,0.455,0.34
+1478,77,Great location with excellent hospitality to make your want to stay for as long as possible!,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,9,0.419,0,0.581,0.8553
+1479,78,Wonderful,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,9,1,0,0,0.5719
+1480,79,Very Good,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,8,0.762,0,0.238,0.4927
+1481,80,Overall recommend it. Very pleasant stay and wonderful pool.,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,8,0.62,0,0.38,0.8687
+1482,81,Good,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,7,1,0,0,0.4404
+1483,82,Exceptional,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,10,0,0,1,0
+1484,83,Exceptional,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,10,0,0,1,0
+1485,84,A little disappointed from Shangri-la group.,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,6,0,0.412,0.588,-0.4228
+1486,85,it was exceptional and we really enjoyed our stay.,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,10,0.31,0,0.69,0.5563
+1487,86,Very Good,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,8,0.762,0,0.238,0.4927
+1488,87,Wonderful,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,9,1,0,0,0.5719
+1489,88,Wonderful,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,9,1,0,0,0.5719
+1490,89,A convenient location for food and shopping. Staff is friendly and helpful.,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,9,0.4,0,0.6,0.7184
+1491,90,Pleasant,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,6,1,0,0,0.5106
+1492,91,Exceptional,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,10,0,0,1,0
+1493,92,It was a very nice stay at Jen orchard gateway. my birthday surprise made so well and to the staff thank u so much they,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,10,0.347,0,0.653,0.8437
+1494,93,Very Poor,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,2,0,0.772,0.228,-0.5256
+1495,94,Overall is good,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,10,0.592,0,0.408,0.4404
+1496,95,Very Good,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,8,0.762,0,0.238,0.4927
+1497,96,Wonderful,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,9,1,0,0,0.5719
+1498,97,Awesome. Must try Jeno robot server.,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,10,0.451,0,0.549,0.6249
+1499,98,Wonderful,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,9,1,0,0,0.5719
+1500,99,It was good,Hotel JEN Singapore Orchardgateway by Shangri-La - SG Clean,9,0.592,0,0.408,0.4404
+1501,0,Disappointing,"Hotel Aerotel Transit Hotel, Terminal 1",4,0,1,0,-0.4939
+1502,1,Very Good,"Hotel Aerotel Transit Hotel, Terminal 1",8,0.762,0,0.238,0.4927
+1503,2,A great place to relax and recharge between long haul flights.,"Hotel Aerotel Transit Hotel, Terminal 1",9,0.467,0,0.533,0.7906
+1504,3,Bitterly disappointed at being treated so rudely and with such contempt in our beloved Singapore!,"Hotel Aerotel Transit Hotel, Terminal 1",3,0.12,0.518,0.362,-0.9002
+1505,4,Bad,"Hotel Aerotel Transit Hotel, Terminal 1",1,0,1,0,-0.5423
+1506,5,Very Good,"Hotel Aerotel Transit Hotel, Terminal 1",8,0.762,0,0.238,0.4927
+1507,6,Great stop when you have a long layover.,"Hotel Aerotel Transit Hotel, Terminal 1",10,0.363,0.195,0.442,0.4404
+1508,7,Wonderful,"Hotel Aerotel Transit Hotel, Terminal 1",9,1,0,0,0.5719
+1509,8,"Comfortable beds, recommend if you are transiting for more than 6 hours. Staff service has scope to improve.","Hotel Aerotel Transit Hotel, Terminal 1",6,0.383,0,0.617,0.8271
+1510,9,"Clean, comfortable, convenient. Just a little pricey.","Hotel Aerotel Transit Hotel, Terminal 1",8,0.6,0,0.4,0.7184
+1511,10,highly recommend,"Hotel Aerotel Transit Hotel, Terminal 1",10,0.736,0,0.264,0.4201
+1512,11,Exceptional,"Hotel Aerotel Transit Hotel, Terminal 1",10,0,0,1,0
+1513,12,Very Good,"Hotel Aerotel Transit Hotel, Terminal 1",8,0.762,0,0.238,0.4927
+1514,13,Expensive,"Hotel Aerotel Transit Hotel, Terminal 1",5,0,0,1,0
+1515,14,Exceptional,"Hotel Aerotel Transit Hotel, Terminal 1",10,0,0,1,0
+1516,15,a great place for a layover with overnight flight,"Hotel Aerotel Transit Hotel, Terminal 1",8,0.406,0,0.594,0.6249
+1517,16,Very Good,"Hotel Aerotel Transit Hotel, Terminal 1",8,0.762,0,0.238,0.4927
+1518,17,Very Good,"Hotel Aerotel Transit Hotel, Terminal 1",8,0.762,0,0.238,0.4927
+1519,18,horrible,"Hotel Aerotel Transit Hotel, Terminal 1",1,0,1,0,-0.5423
+1520,19,Exceptional,"Hotel Aerotel Transit Hotel, Terminal 1",10,0,0,1,0
+1521,20,Exceptional,"Hotel Aerotel Transit Hotel, Terminal 1",10,0,0,1,0
+1522,21,I had to sleep on a 27 hr layover; tight budget. This worked okay,"Hotel Aerotel Transit Hotel, Terminal 1",8,0.147,0,0.853,0.2263
+1523,22,Good,"Hotel Aerotel Transit Hotel, Terminal 1",7,1,0,0,0.4404
+1524,23,Wonderful,"Hotel Aerotel Transit Hotel, Terminal 1",9,1,0,0,0.5719
+1525,24,Good,"Hotel Aerotel Transit Hotel, Terminal 1",7,1,0,0,0.4404
+1526,25,Good,"Hotel Aerotel Transit Hotel, Terminal 1",7,1,0,0,0.4404
+1527,26,Very Good,"Hotel Aerotel Transit Hotel, Terminal 1",8,0.762,0,0.238,0.4927
+1528,27,Exceptional,"Hotel Aerotel Transit Hotel, Terminal 1",10,0,0,1,0
+1529,28,Wonderful,"Hotel Aerotel Transit Hotel, Terminal 1",9,1,0,0,0.5719
+1530,29,Very Good,"Hotel Aerotel Transit Hotel, Terminal 1",8,0.762,0,0.238,0.4927
+1531,30,Disappointing,"Hotel Aerotel Transit Hotel, Terminal 1",4,0,1,0,-0.4939
+1532,31,Very Good,"Hotel Aerotel Transit Hotel, Terminal 1",8,0.762,0,0.238,0.4927
+1533,32,Wonderful,"Hotel Aerotel Transit Hotel, Terminal 1",9,1,0,0,0.5719
+1534,33,Fair,"Hotel Aerotel Transit Hotel, Terminal 1",5,1,0,0,0.3182
+1535,34,"Great place to have a swim, unwind and rest between flights. Great staff!","Hotel Aerotel Transit Hotel, Terminal 1",10,0.459,0,0.541,0.8588
+1536,35,I enjoyed my stay very much and it made the 14 hour layover really easy,"Hotel Aerotel Transit Hotel, Terminal 1",10,0.351,0,0.649,0.7574
+1537,36,Exceptional,"Hotel Aerotel Transit Hotel, Terminal 1",10,0,0,1,0
+1538,37,Not worth it…,"Hotel Aerotel Transit Hotel, Terminal 1",5,0,0.454,0.546,-0.1695
+1539,38,Exceptional,"Hotel Aerotel Transit Hotel, Terminal 1",9.6,0,0,1,0
+1540,39,Fair,"Hotel Aerotel Transit Hotel, Terminal 1",5,1,0,0,0.3182
+1541,40,Overpriced for a 13hr stay,"Hotel Aerotel Transit Hotel, Terminal 1",5,0,0,1,0
+1542,41,"the rooms were very clean and comfortable, excellent amenities and food choices and the staff were very accommodating. A","Hotel Aerotel Transit Hotel, Terminal 1",9,0.406,0,0.594,0.8822
+1543,42,"Our had a safe stay. We enjoyed the breakfast most, it was healthy and delicious.","Hotel Aerotel Transit Hotel, Terminal 1",9,0.563,0,0.437,0.9163
+1544,43,Very Good,"Hotel Aerotel Transit Hotel, Terminal 1",8,0.762,0,0.238,0.4927
+1545,44,Exceptional,"Hotel Aerotel Transit Hotel, Terminal 1",10,0,0,1,0
+1546,45,I like Aerotel hotel because it's quiet.,"Hotel Aerotel Transit Hotel, Terminal 1",9,0.333,0,0.667,0.3612
+1547,46,A luxurious place for rest after a long flight.,"Hotel Aerotel Transit Hotel, Terminal 1",8,0,0,1,0
+1548,47,Very Good,"Hotel Aerotel Transit Hotel, Terminal 1",8,0.762,0,0.238,0.4927
+1549,48,Wonderful,"Hotel Aerotel Transit Hotel, Terminal 1",9,1,0,0,0.5719
+1550,49,Pleasant,"Hotel Aerotel Transit Hotel, Terminal 1",6,1,0,0,0.5106
+1551,50,Pleasant,"Hotel Aerotel Transit Hotel, Terminal 1",6,1,0,0,0.5106
+1552,51,Very Good,"Hotel Aerotel Transit Hotel, Terminal 1",8,0.762,0,0.238,0.4927
+1553,52,Very Good,"Hotel Aerotel Transit Hotel, Terminal 1",8,0.762,0,0.238,0.4927
+1554,53,great transit hotel and clean. 👍🏻,"Hotel Aerotel Transit Hotel, Terminal 1",9,0.63,0,0.37,0.7783
+1555,54,Exceptional,"Hotel Aerotel Transit Hotel, Terminal 1",10,0,0,1,0
+1556,55,Very Good,"Hotel Aerotel Transit Hotel, Terminal 1",8,0.762,0,0.238,0.4927
+1557,56,Very Good,"Hotel Aerotel Transit Hotel, Terminal 1",8,0.762,0,0.238,0.4927
+1558,57,Exceptional,"Hotel Aerotel Transit Hotel, Terminal 1",10,0,0,1,0
+1559,58,Very Good,"Hotel Aerotel Transit Hotel, Terminal 1",8,0.762,0,0.238,0.4927
+1560,59,Very Good,"Hotel Aerotel Transit Hotel, Terminal 1",8,0.762,0,0.238,0.4927
+1561,60,Wonderful,"Hotel Aerotel Transit Hotel, Terminal 1",9,1,0,0,0.5719
+1562,61,best rest after a very long flight!,"Hotel Aerotel Transit Hotel, Terminal 1",10,0.473,0,0.527,0.6696
+1563,62,Extremely disappointing.,"Hotel Aerotel Transit Hotel, Terminal 1",1,0,0.777,0.223,-0.5413
+1564,63,For the price it was ordinary,"Hotel Aerotel Transit Hotel, Terminal 1",5,0,0,1,0
+1565,64,Exceptional,"Hotel Aerotel Transit Hotel, Terminal 1",10,0,0,1,0
+1566,65,Good,"Hotel Aerotel Transit Hotel, Terminal 1",7,1,0,0,0.4404
+1567,66,Very Good,"Hotel Aerotel Transit Hotel, Terminal 1",8,0.762,0,0.238,0.4927
+1568,67,last choice if no other’s available,"Hotel Aerotel Transit Hotel, Terminal 1",3,0,0.306,0.694,-0.296
+1569,68,Exceptional,"Hotel Aerotel Transit Hotel, Terminal 1",10,0,0,1,0
+1570,69,Very Good,"Hotel Aerotel Transit Hotel, Terminal 1",8,0.762,0,0.238,0.4927
+1571,70,Very Good,"Hotel Aerotel Transit Hotel, Terminal 1",8,0.762,0,0.238,0.4927
+1572,71,Very Good,"Hotel Aerotel Transit Hotel, Terminal 1",8,0.762,0,0.238,0.4927
+1573,72,"Very expensive for 6 hour stay, but we knew what it would cost and decided to go for it anyway.","Hotel Aerotel Transit Hotel, Terminal 1",7,0,0,1,0
+1574,73,Wonderful,"Hotel Aerotel Transit Hotel, Terminal 1",9,1,0,0,0.5719
+1575,74,Fair,"Hotel Aerotel Transit Hotel, Terminal 1",5,1,0,0,0.3182
+1576,75,Good place to get some rest between flights!,"Hotel Aerotel Transit Hotel, Terminal 1",8,0.313,0,0.687,0.4926
+1577,76,Exceptional,"Hotel Aerotel Transit Hotel, Terminal 1",10,0,0,1,0
+1578,77,Wonderful,"Hotel Aerotel Transit Hotel, Terminal 1",9,1,0,0,0.5719
+1579,78,Good,"Hotel Aerotel Transit Hotel, Terminal 1",7,1,0,0,0.4404
+1580,79,Happy that the room is pleasant and clean.,"Hotel Aerotel Transit Hotel, Terminal 1",9,0.66,0,0.34,0.8658
+1581,80,Wonderful,"Hotel Aerotel Transit Hotel, Terminal 1",9,1,0,0,0.5719
+1582,81,Very Good,"Hotel Aerotel Transit Hotel, Terminal 1",8,0.762,0,0.238,0.4927
+1583,82,Very Good,"Hotel Aerotel Transit Hotel, Terminal 1",8,0.762,0,0.238,0.4927
+1584,83,Wonderful,"Hotel Aerotel Transit Hotel, Terminal 1",9,1,0,0,0.5719
+1585,84,excellent for sleep and rest,"Hotel Aerotel Transit Hotel, Terminal 1",8,0.481,0,0.519,0.5719
+1586,85,Wonderful,"Hotel Aerotel Transit Hotel, Terminal 1",9,1,0,0,0.5719
+1587,86,Very Good,"Hotel Aerotel Transit Hotel, Terminal 1",8,0.762,0,0.238,0.4927
+1588,87,Poor,"Hotel Aerotel Transit Hotel, Terminal 1",3,0,1,0,-0.4767
+1589,88,comfortable and convenient,"Hotel Aerotel Transit Hotel, Terminal 1",10,0.623,0,0.377,0.5106
+1590,89,Pleasant,"Hotel Aerotel Transit Hotel, Terminal 1",6,1,0,0,0.5106
+1591,90,costly but convenient,"Hotel Aerotel Transit Hotel, Terminal 1",9,0,0.375,0.625,-0.0516
+1592,91,Very Good,"Hotel Aerotel Transit Hotel, Terminal 1",8,0.762,0,0.238,0.4927
+1593,92,Very Good,"Hotel Aerotel Transit Hotel, Terminal 1",8,0.762,0,0.238,0.4927
+1594,93,Good,"Hotel Aerotel Transit Hotel, Terminal 1",7,1,0,0,0.4404
+1595,94,Exceptional,"Hotel Aerotel Transit Hotel, Terminal 1",10,0,0,1,0
+1596,95,Exceptional,"Hotel Aerotel Transit Hotel, Terminal 1",10,0,0,1,0
+1597,96,Fair,"Hotel Aerotel Transit Hotel, Terminal 1",5,1,0,0,0.3182
+1598,97,Disappointing,"Hotel Aerotel Transit Hotel, Terminal 1",4,0,1,0,-0.4939
+1599,98,Disappointing,"Hotel Aerotel Transit Hotel, Terminal 1",4,0,1,0,-0.4939
+1600,99,Very Good,"Hotel Aerotel Transit Hotel, Terminal 1",8,0.762,0,0.238,0.4927
+1601,0,Disappointing staycation,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),5,0,0.762,0.238,-0.4939
+1602,1,Very Good,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),8,0.762,0,0.238,0.4927
+1603,2,Fair,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),5,1,0,0,0.3182
+1604,3,Wonderful,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),9,1,0,0,0.5719
+1605,4,Bad,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),1,0,1,0,-0.5423
+1606,5,Exceptional,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),10,0,0,1,0
+1607,6,Excellent location for both couples and families.,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),8,0.381,0,0.619,0.5719
+1608,7,Enjoy n funfilling,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),8,0.762,0,0.238,0.4939
+1609,8,nice,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),7,1,0,0,0.4215
+1610,9,Very Good,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),8,0.762,0,0.238,0.4927
+1611,10,No value for money,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),5,0.364,0.333,0.303,0.0516
+1612,11,"Taking too long to check in.Check in at 4.30pm, only get the room at 6pm.",Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),5,0,0,1,0
+1613,12,Overall I happy with the stay although it costs much more.,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),7,0.291,0,0.709,0.5719
+1614,13,Rooms a little dated,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),7,0,0,1,0
+1615,14,Front Desk Staff Need More Training,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),6,0,0,1,0
+1616,15,Wonderful,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),9,1,0,0,0.5719
+1617,16,Bad,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),1,0,1,0,-0.5423
+1618,17,Splendid,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),8,1,0,0,0.5859
+1619,18,Doesn't meet my expectation,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),6,0,0,1,0
+1620,19,Very Good,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),8,0.762,0,0.238,0.4927
+1621,20,Pleasant,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),6,1,0,0,0.5106
+1622,21,Good,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),7,1,0,0,0.4404
+1623,22,Exceptional,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),9.6,0,0,1,0
+1624,23,Exceptional,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),9.6,0,0,1,0
+1625,24,Very disappointing,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),1,0,0.777,0.223,-0.5413
+1626,25,Exceptional,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),10,0,0,1,0
+1627,26,Exceptional,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),10,0,0,1,0
+1628,27,Wonderful,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),9,1,0,0,0.5719
+1629,28,Very Good,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),8,0.762,0,0.238,0.4927
+1630,29,Excellent,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),8.8,1,0,0,0.5719
+1631,30,"Excellent location, staff were friendly and nothing was too much effort for them.",Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),10,0.385,0,0.615,0.7845
+1632,31,Wonderful,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),9,1,0,0,0.5719
+1633,32,Exceptional,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),10,0,0,1,0
+1634,33,Great family vacation.,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),9.2,0.672,0,0.328,0.6249
+1635,34,Good,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),7,1,0,0,0.4404
+1636,35,Wonderful,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),9.2,1,0,0,0.5719
+1637,36,Okay,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),5.8,1,0,0,0.2263
+1638,37,Good location,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),7,0.744,0,0.256,0.4404
+1639,38,Not worth,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),5,0,0.625,0.375,-0.1695
+1640,39,Good location but stingy,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),5.8,0.265,0.463,0.272,-0.3506
+1641,40,Good,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),7,1,0,0,0.4404
+1642,41,Super Stay,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),10,0.796,0,0.204,0.5994
+1643,42,Disappointing,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),4.2,0,1,0,-0.4939
+1644,43,Do not recommend,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),3,0,0.513,0.487,-0.2755
+1645,44,Average experience,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),8,0,0,1,0
+1646,45,Wonderful staycation experience,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),10,0.649,0,0.351,0.5719
+1647,46,Good,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),7.1,1,0,0,0.4404
+1648,47,The plates were dirty with food scraps underneath,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),7.5,0,0.293,0.707,-0.4404
+1649,48,Good,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),7,1,0,0,0.4404
+1650,49,Disappointing,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),4.2,0,1,0,-0.4939
+1651,50,Very Good,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),8,0.762,0,0.238,0.4927
+1652,51,Not worth the end cost,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),8,0,0.294,0.706,-0.1695
+1653,52,Wonderful,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),9.2,1,0,0,0.5719
+1654,53,Very enjoyable,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),8,0.762,0,0.238,0.4927
+1655,54,Not a 5 star. Lacks the elements of a five star,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),3.3,0,0,1,0
+1656,55,Wonderful,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),9.2,1,0,0,0.5719
+1657,56,Wonderful,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),9,1,0,0,0.5719
+1658,57,Fair,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),5,1,0,0,0.3182
+1659,58,Good,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),7.5,1,0,0,0.4404
+1660,59,Excellent,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),8.8,1,0,0,0.5719
+1661,60,Fair,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),5,1,0,0,0.3182
+1662,61,Very Good,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),8.3,0.762,0,0.238,0.4927
+1663,62,Exceptional,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),10,0,0,1,0
+1664,63,Poor,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),3,0,1,0,-0.4767
+1665,64,Not worth to stay with an expensive rate. The room just a simple space as a local hotel outside.,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),5,0,0.094,0.906,-0.1695
+1666,65,Exceptional,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),10,0,0,1,0
+1667,66,Exceptional,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),10,0,0,1,0
+1668,67,Pleasant,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),6.7,1,0,0,0.5106
+1669,68,Pleasant,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),6.2,1,0,0,0.5106
+1670,69,Good,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),7,1,0,0,0.4404
+1671,70,Pleasant,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),6.2,1,0,0,0.5106
+1672,71,Exceptional,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),10,0,0,1,0
+1673,72,Exceptional,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),9.6,0,0,1,0
+1674,73,Bad,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),1,0,1,0,-0.5423
+1675,74,Fair,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),5,1,0,0,0.3182
+1676,75,Exceptional,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),10,0,0,1,0
+1677,76,Nice holiday to start a new year,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),9,0.579,0,0.421,0.6705
+1678,77,Excellent,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),8.8,1,0,0,0.5719
+1679,78,Excellent,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),8.8,1,0,0,0.5719
+1680,79,Would stay again,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),8,0,0,1,0
+1681,80,Very Good,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),8.3,0.762,0,0.238,0.4927
+1682,81,Good,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),7,1,0,0,0.4404
+1683,82,Good,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),7.5,1,0,0,0.4404
+1684,83,Exceptional,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),10,0,0,1,0
+1685,84,Exceptional,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),10,0,0,1,0
+1686,85,Excellent,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),8.8,1,0,0,0.5719
+1687,86,Good,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),7.5,1,0,0,0.4404
+1688,87,Good,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),7.9,1,0,0,0.4404
+1689,88,Good,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),7.1,1,0,0,0.4404
+1690,89,Very Good,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),8.3,0.762,0,0.238,0.4927
+1691,90,Upgrade,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),4.2,0,0,1,0
+1692,91,A bit disappointed with the stay.,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),6,0,0.437,0.563,-0.4767
+1693,92,Good,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),7.9,1,0,0,0.4404
+1694,93,Pleasant,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),6.7,1,0,0,0.5106
+1695,94,Very Good,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),8,0.762,0,0.238,0.4927
+1696,95,Fair,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),5,1,0,0,0.3182
+1697,96,Worth every penny you pay,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),9,0.302,0.222,0.476,0.128
+1698,97,Wonderful,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),9.2,1,0,0,0.5719
+1699,98,"Clean, comfortable and well located close to key attractions on Sentosa Island.",Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),7,0.577,0,0.423,0.872
+1700,99,Wonderful,Resort Resorts World Sentosa - Hard Rock Hotel (SG Clean),9,1,0,0,0.5719
+1701,0,excellent stay with 5 star services,Hotel Carlton City Hotel Singapore (SG Clean),9,0.481,0,0.519,0.5719
+1702,1,Wonderful,Hotel Carlton City Hotel Singapore (SG Clean),9,1,0,0,0.5719
+1703,2,Great location for Singapore sights,Hotel Carlton City Hotel Singapore (SG Clean),9,0.506,0,0.494,0.6249
+1704,3,The hotel staff were exceptionally polite and helpful. I ordered food delivery in the middle of the night and without an,Hotel Carlton City Hotel Singapore (SG Clean),9,0.139,0,0.861,0.4703
+1705,4,Very Good,Hotel Carlton City Hotel Singapore (SG Clean),8,0.762,0,0.238,0.4927
+1706,5,Wonderful,Hotel Carlton City Hotel Singapore (SG Clean),9,1,0,0,0.5719
+1707,6,Perfectly Awesome,Hotel Carlton City Hotel Singapore (SG Clean),10,1,0,0,0.8519
+1708,7,Wonderful,Hotel Carlton City Hotel Singapore (SG Clean),9,1,0,0,0.5719
+1709,8,Exceptional,Hotel Carlton City Hotel Singapore (SG Clean),10,0,0,1,0
+1710,9,A good short stay cay,Hotel Carlton City Hotel Singapore (SG Clean),8,0.492,0,0.508,0.4404
+1711,10,very good for business and couples,Hotel Carlton City Hotel Singapore (SG Clean),8,0.39,0,0.61,0.4927
+1712,11,Pleasant,Hotel Carlton City Hotel Singapore (SG Clean),6,1,0,0,0.5106
+1713,12,Very Good,Hotel Carlton City Hotel Singapore (SG Clean),8,0.762,0,0.238,0.4927
+1714,13,Exceptional,Hotel Carlton City Hotel Singapore (SG Clean),10,0,0,1,0
+1715,14,Exceptional,Hotel Carlton City Hotel Singapore (SG Clean),9.6,0,0,1,0
+1716,15,Exceptional,Hotel Carlton City Hotel Singapore (SG Clean),10,0,0,1,0
+1717,16,Good staycation!,Hotel Carlton City Hotel Singapore (SG Clean),10,0.761,0,0.239,0.4926
+1718,17,Good,Hotel Carlton City Hotel Singapore (SG Clean),7.9,1,0,0,0.4404
+1719,18,Wonderful,Hotel Carlton City Hotel Singapore (SG Clean),9,1,0,0,0.5719
+1720,19,Wonderful,Hotel Carlton City Hotel Singapore (SG Clean),9,1,0,0,0.5719
+1721,20,"Great location, great staff, great amenities. Bit pricey and okay food. Would recommend it.",Hotel Carlton City Hotel Singapore (SG Clean),9,0.65,0,0.35,0.9493
+1722,21,It was a great stay.. excellent location and service,Hotel Carlton City Hotel Singapore (SG Clean),8,0.565,0,0.435,0.8316
+1723,22,Carton City is the best!,Hotel Carlton City Hotel Singapore (SG Clean),9,0.529,0,0.471,0.6696
+1724,23,Good,Hotel Carlton City Hotel Singapore (SG Clean),7.9,1,0,0,0.4404
+1725,24,Wonderful,Hotel Carlton City Hotel Singapore (SG Clean),9,1,0,0,0.5719
+1726,25,Good,Hotel Carlton City Hotel Singapore (SG Clean),7,1,0,0,0.4404
+1727,26,Very Good,Hotel Carlton City Hotel Singapore (SG Clean),8,0.762,0,0.238,0.4927
+1728,27,Very Good,Hotel Carlton City Hotel Singapore (SG Clean),8,0.762,0,0.238,0.4927
+1729,28,Nice room - comfy stay,Hotel Carlton City Hotel Singapore (SG Clean),8,0.483,0,0.517,0.4215
+1730,29,Really enjoyable stay with great facilities and excellent staff.,Hotel Carlton City Hotel Singapore (SG Clean),9,0.647,0,0.353,0.8999
+1731,30,Excellent,Hotel Carlton City Hotel Singapore (SG Clean),8.8,1,0,0,0.5719
+1732,31,Exceptional,Hotel Carlton City Hotel Singapore (SG Clean),9.6,0,0,1,0
+1733,32,Wonderful,Hotel Carlton City Hotel Singapore (SG Clean),9,1,0,0,0.5719
+1734,33,Excellent,Hotel Carlton City Hotel Singapore (SG Clean),10,1,0,0,0.5719
+1735,34,Exceptional,Hotel Carlton City Hotel Singapore (SG Clean),10,0,0,1,0
+1736,35,Perfect.,Hotel Carlton City Hotel Singapore (SG Clean),10,1,0,0,0.5719
+1737,36,Very Good,Hotel Carlton City Hotel Singapore (SG Clean),8,0.762,0,0.238,0.4927
+1738,37,Exceptional,Hotel Carlton City Hotel Singapore (SG Clean),9.6,0,0,1,0
+1739,38,Situated at the heart of Singapore,Hotel Carlton City Hotel Singapore (SG Clean),9.2,0,0,1,0
+1740,39,Exceptional,Hotel Carlton City Hotel Singapore (SG Clean),10,0,0,1,0
+1741,40,Good,Hotel Carlton City Hotel Singapore (SG Clean),7,1,0,0,0.4404
+1742,41,Exceptional,Hotel Carlton City Hotel Singapore (SG Clean),10,0,0,1,0
+1743,42,Good,Hotel Carlton City Hotel Singapore (SG Clean),7,1,0,0,0.4404
+1744,43,Exceptional,Hotel Carlton City Hotel Singapore (SG Clean),10,0,0,1,0
+1745,44,Exceptional,Hotel Carlton City Hotel Singapore (SG Clean),10,0,0,1,0
+1746,45,Exceptional,Hotel Carlton City Hotel Singapore (SG Clean),10,0,0,1,0
+1747,46,Great stay,Hotel Carlton City Hotel Singapore (SG Clean),9,0.804,0,0.196,0.6249
+1748,47,"Great location, quiet, very clean and comfortable",Hotel Carlton City Hotel Singapore (SG Clean),10,0.727,0,0.273,0.8923
+1749,48,Exceptional,Hotel Carlton City Hotel Singapore (SG Clean),10,0,0,1,0
+1750,49,Excellent value,Hotel Carlton City Hotel Singapore (SG Clean),10,1,0,0,0.7269
+1751,50,Exceptional,Hotel Carlton City Hotel Singapore (SG Clean),10,0,0,1,0
+1752,51,Visit Singapore regularly and have tried many hotels. Will definately stay here again.,Hotel Carlton City Hotel Singapore (SG Clean),8,0,0,1,0
+1753,52,"Good hotel for business, Downtown",Hotel Carlton City Hotel Singapore (SG Clean),8.3,0.42,0,0.58,0.4404
+1754,53,Visiting Singapore a Third Time,Hotel Carlton City Hotel Singapore (SG Clean),9.2,0,0,1,0
+1755,54,Exceptional,Hotel Carlton City Hotel Singapore (SG Clean),10,0,0,1,0
+1756,55,Exceptional,Hotel Carlton City Hotel Singapore (SG Clean),10,0,0,1,0
+1757,56,Wonderful,Hotel Carlton City Hotel Singapore (SG Clean),9.2,1,0,0,0.5719
+1758,57,Exceptional,Hotel Carlton City Hotel Singapore (SG Clean),10,0,0,1,0
+1759,58,Wonderful,Hotel Carlton City Hotel Singapore (SG Clean),9.2,1,0,0,0.5719
+1760,59,Great location,Hotel Carlton City Hotel Singapore (SG Clean),9.6,0.804,0,0.196,0.6249
+1761,60,Good,Hotel Carlton City Hotel Singapore (SG Clean),7.5,1,0,0,0.4404
+1762,61,"Comfortable, Central and efficient",Hotel Carlton City Hotel Singapore (SG Clean),9,0.753,0,0.247,0.7269
+1763,62,Very Good,Hotel Carlton City Hotel Singapore (SG Clean),8.3,0.762,0,0.238,0.4927
+1764,63,Exceptional,Hotel Carlton City Hotel Singapore (SG Clean),10,0,0,1,0
+1765,64,Very Good,Hotel Carlton City Hotel Singapore (SG Clean),8.3,0.762,0,0.238,0.4927
+1766,65,Exceptional,Hotel Carlton City Hotel Singapore (SG Clean),10,0,0,1,0
+1767,66,Very Good,Hotel Carlton City Hotel Singapore (SG Clean),8,0.762,0,0.238,0.4927
+1768,67,Exceptional,Hotel Carlton City Hotel Singapore (SG Clean),10,0,0,1,0
+1769,68,Very Good,Hotel Carlton City Hotel Singapore (SG Clean),8,0.762,0,0.238,0.4927
+1770,69,Good,Hotel Carlton City Hotel Singapore (SG Clean),7.5,1,0,0,0.4404
+1771,70,Exceptional,Hotel Carlton City Hotel Singapore (SG Clean),10,0,0,1,0
+1772,71,Wonderful,Hotel Carlton City Hotel Singapore (SG Clean),9,1,0,0,0.5719
+1773,72,Exceptional,Hotel Carlton City Hotel Singapore (SG Clean),10,0,0,1,0
+1774,73,Wonderful,Hotel Carlton City Hotel Singapore (SG Clean),9,1,0,0,0.5719
+1775,74,Good,Hotel Carlton City Hotel Singapore (SG Clean),7,1,0,0,0.4404
+1776,75,Wonderful,Hotel Carlton City Hotel Singapore (SG Clean),9.2,1,0,0,0.5719
+1777,76,Exceptional,Hotel Carlton City Hotel Singapore (SG Clean),10,0,0,1,0
+1778,77,Exceptional,Hotel Carlton City Hotel Singapore (SG Clean),9.6,0,0,1,0
+1779,78,Wonderful,Hotel Carlton City Hotel Singapore (SG Clean),9,1,0,0,0.5719
+1780,79,Awesome,Hotel Carlton City Hotel Singapore (SG Clean),10,1,0,0,0.6249
+1781,80,Great,Hotel Carlton City Hotel Singapore (SG Clean),10,1,0,0,0.6249
+1782,81,Loved it!,Hotel Carlton City Hotel Singapore (SG Clean),10,0.807,0,0.193,0.636
+1783,82,"Amazing stuff made my trip happier than ever, thank you.",Hotel Carlton City Hotel Singapore (SG Clean),10,0.581,0,0.419,0.8658
+1784,83,Exceptional,Hotel Carlton City Hotel Singapore (SG Clean),10,0,0,1,0
+1785,84,Terrible!,Hotel Carlton City Hotel Singapore (SG Clean),1,0,1,0,-0.5255
+1786,85,Exceptional,Hotel Carlton City Hotel Singapore (SG Clean),10,0,0,1,0
+1787,86,Wonderful,Hotel Carlton City Hotel Singapore (SG Clean),9,1,0,0,0.5719
+1788,87,Perfect!!,Hotel Carlton City Hotel Singapore (SG Clean),10,1,0,0,0.6467
+1789,88,We had a great time at Carlton and definitely stay here again!,Hotel Carlton City Hotel Singapore (SG Clean),10,0.441,0,0.559,0.7959
+1790,89,Wonderful stay but disappointed at the end.,Hotel Carlton City Hotel Singapore (SG Clean),9,0.204,0.361,0.435,-0.4215
+1791,90,Exceptional,Hotel Carlton City Hotel Singapore (SG Clean),10,0,0,1,0
+1792,91,Excellent,Hotel Carlton City Hotel Singapore (SG Clean),8.8,1,0,0,0.5719
+1793,92,Very Good,Hotel Carlton City Hotel Singapore (SG Clean),8.3,0.762,0,0.238,0.4927
+1794,93,Exceptional,Hotel Carlton City Hotel Singapore (SG Clean),10,0,0,1,0
+1795,94,Exceptional,Hotel Carlton City Hotel Singapore (SG Clean),10,0,0,1,0
+1796,95,Superb!,Hotel Carlton City Hotel Singapore (SG Clean),9,1,0,0,0.6588
+1797,96,Wonderful,Hotel Carlton City Hotel Singapore (SG Clean),9.2,1,0,0,0.5719
+1798,97,Exceptional,Hotel Carlton City Hotel Singapore (SG Clean),10,0,0,1,0
+1799,98,Exceptional,Hotel Carlton City Hotel Singapore (SG Clean),10,0,0,1,0
+1800,99,Wonderful,Hotel Carlton City Hotel Singapore (SG Clean),9,1,0,0,0.5719
+1801,0,Exceptional,Hotel Ibis Budget Singapore Ruby - SG Clean,10,0,0,1,0
+1802,1,Exceptional,Hotel Ibis Budget Singapore Ruby - SG Clean,10,0,0,1,0
+1803,2,Pleasant,Hotel Ibis Budget Singapore Ruby - SG Clean,6,1,0,0,0.5106
+1804,3,bad,Hotel Ibis Budget Singapore Ruby - SG Clean,1,0,1,0,-0.5423
+1805,4,Wonderful,Hotel Ibis Budget Singapore Ruby - SG Clean,9,1,0,0,0.5719
+1806,5,Exceptional,Hotel Ibis Budget Singapore Ruby - SG Clean,10,0,0,1,0
+1807,6,Fair,Hotel Ibis Budget Singapore Ruby - SG Clean,5,1,0,0,0.3182
+1808,7,Wonderful,Hotel Ibis Budget Singapore Ruby - SG Clean,9,1,0,0,0.5719
+1809,8,Very Good,Hotel Ibis Budget Singapore Ruby - SG Clean,8,0.762,0,0.238,0.4927
+1810,9,Exceptional,Hotel Ibis Budget Singapore Ruby - SG Clean,10,0,0,1,0
+1811,10,Exceptional,Hotel Ibis Budget Singapore Ruby - SG Clean,10,0,0,1,0
+1812,11,Fair,Hotel Ibis Budget Singapore Ruby - SG Clean,5,1,0,0,0.3182
+1813,12,Very Good,Hotel Ibis Budget Singapore Ruby - SG Clean,8,0.762,0,0.238,0.4927
+1814,13,Wonderful,Hotel Ibis Budget Singapore Ruby - SG Clean,9,1,0,0,0.5719
+1815,14,Exceptional,Hotel Ibis Budget Singapore Ruby - SG Clean,10,0,0,1,0
+1816,15,Exceptional,Hotel Ibis Budget Singapore Ruby - SG Clean,10,0,0,1,0
+1817,16,Exceptional,Hotel Ibis Budget Singapore Ruby - SG Clean,10,0,0,1,0
+1818,17,One word will do. Excellent.,Hotel Ibis Budget Singapore Ruby - SG Clean,9,0.481,0,0.519,0.5719
+1819,18,Poor,Hotel Ibis Budget Singapore Ruby - SG Clean,3,0,1,0,-0.4767
+1820,19,Exceptional,Hotel Ibis Budget Singapore Ruby - SG Clean,10,0,0,1,0
+1821,20,Very Good,Hotel Ibis Budget Singapore Ruby - SG Clean,8,0.762,0,0.238,0.4927
+1822,21,Exceptional,Hotel Ibis Budget Singapore Ruby - SG Clean,10,0,0,1,0
+1823,22,Exceptional,Hotel Ibis Budget Singapore Ruby - SG Clean,10,0,0,1,0
+1824,23,Very Good,Hotel Ibis Budget Singapore Ruby - SG Clean,8,0.762,0,0.238,0.4927
+1825,24,Pleasant and simple stay,Hotel Ibis Budget Singapore Ruby - SG Clean,6,0.524,0,0.476,0.5106
+1826,25,Fair,Hotel Ibis Budget Singapore Ruby - SG Clean,5,1,0,0,0.3182
+1827,26,Good,Hotel Ibis Budget Singapore Ruby - SG Clean,7,1,0,0,0.4404
+1828,27,Pleasant,Hotel Ibis Budget Singapore Ruby - SG Clean,6,1,0,0,0.5106
+1829,28,Good,Hotel Ibis Budget Singapore Ruby - SG Clean,7,1,0,0,0.4404
+1830,29,Exceptional,Hotel Ibis Budget Singapore Ruby - SG Clean,10,0,0,1,0
+1831,30,Good,Hotel Ibis Budget Singapore Ruby - SG Clean,7,1,0,0,0.4404
+1832,31,Fair,Hotel Ibis Budget Singapore Ruby - SG Clean,5,1,0,0,0.3182
+1833,32,We expect the safety thats why we choose to stay inside than staying outside.,Hotel Ibis Budget Singapore Ruby - SG Clean,3,0.177,0,0.823,0.4215
+1834,33,Exceptional,Hotel Ibis Budget Singapore Ruby - SG Clean,10,0,0,1,0
+1835,34,Very Poor,Hotel Ibis Budget Singapore Ruby - SG Clean,2,0,0.772,0.228,-0.5256
+1836,35,Very Good,Hotel Ibis Budget Singapore Ruby - SG Clean,8,0.762,0,0.238,0.4927
+1837,36,Very Good,Hotel Ibis Budget Singapore Ruby - SG Clean,8,0.762,0,0.238,0.4927
+1838,37,Pleasant,Hotel Ibis Budget Singapore Ruby - SG Clean,6,1,0,0,0.5106
+1839,38,Nice,Hotel Ibis Budget Singapore Ruby - SG Clean,9,1,0,0,0.4215
+1840,39,It was nice,Hotel Ibis Budget Singapore Ruby - SG Clean,9,0.583,0,0.417,0.4215
+1841,40,Very Good,Hotel Ibis Budget Singapore Ruby - SG Clean,8,0.762,0,0.238,0.4927
+1842,41,"OK,but a bit pricey for the size of the rooms. Great location near MRT and eating places.",Hotel Ibis Budget Singapore Ruby - SG Clean,6,0.215,0,0.785,0.6249
+1843,42,Happy to see,Hotel Ibis Budget Singapore Ruby - SG Clean,9,0.649,0,0.351,0.5719
+1844,43,Very Good,Hotel Ibis Budget Singapore Ruby - SG Clean,8,0.762,0,0.238,0.4927
+1845,44,Fair,Hotel Ibis Budget Singapore Ruby - SG Clean,5,1,0,0,0.3182
+1846,45,Wonderful,Hotel Ibis Budget Singapore Ruby - SG Clean,9,1,0,0,0.5719
+1847,46,Wonderful,Hotel Ibis Budget Singapore Ruby - SG Clean,9,1,0,0,0.5719
+1848,47,Great! but....,Hotel Ibis Budget Singapore Ruby - SG Clean,7.5,0.815,0,0.185,0.6588
+1849,48,Exceptional,Hotel Ibis Budget Singapore Ruby - SG Clean,10,0,0,1,0
+1850,49,Fair,Hotel Ibis Budget Singapore Ruby - SG Clean,5,1,0,0,0.3182
+1851,50,Good choice for budget travelers in Singapore,Hotel Ibis Budget Singapore Ruby - SG Clean,8,0.326,0,0.674,0.4404
+1852,51,Wonderful,Hotel Ibis Budget Singapore Ruby - SG Clean,9,1,0,0,0.5719
+1853,52,cheapest hotel in singapure,Hotel Ibis Budget Singapore Ruby - SG Clean,8,0,0,1,0
+1854,53,Excellent,Hotel Ibis Budget Singapore Ruby - SG Clean,8.8,1,0,0,0.5719
+1855,54,Very Good,Hotel Ibis Budget Singapore Ruby - SG Clean,8,0.762,0,0.238,0.4927
+1856,55,Fair,Hotel Ibis Budget Singapore Ruby - SG Clean,5,1,0,0,0.3182
+1857,56,Good for short stay,Hotel Ibis Budget Singapore Ruby - SG Clean,7.1,0.492,0,0.508,0.4404
+1858,57,Very Poor,Hotel Ibis Budget Singapore Ruby - SG Clean,2.5,0,0.772,0.228,-0.5256
+1859,58,Poor,Hotel Ibis Budget Singapore Ruby - SG Clean,3,0,1,0,-0.4767
+1860,59,Very Good,Hotel Ibis Budget Singapore Ruby - SG Clean,8,0.762,0,0.238,0.4927
+1861,60,"Not worth the Money, book something else",Hotel Ibis Budget Singapore Ruby - SG Clean,2,0,0.217,0.783,-0.1695
+1862,61,Exceptional,Hotel Ibis Budget Singapore Ruby - SG Clean,10,0,0,1,0
+1863,62,Worth the money paid.,Hotel Ibis Budget Singapore Ruby - SG Clean,8,0.388,0,0.612,0.2263
+1864,63,Crampy stay at a good location,Hotel Ibis Budget Singapore Ruby - SG Clean,6,0.42,0,0.58,0.4404
+1865,64,Pleasant,Hotel Ibis Budget Singapore Ruby - SG Clean,6.7,1,0,0,0.5106
+1866,65,Good,Hotel Ibis Budget Singapore Ruby - SG Clean,7.9,1,0,0,0.4404
+1867,66,Wonderful,Hotel Ibis Budget Singapore Ruby - SG Clean,9,1,0,0,0.5719
+1868,67,It's near my conference place and that's all I need.,Hotel Ibis Budget Singapore Ruby - SG Clean,8,0,0,1,0
+1869,68,Pleasant,Hotel Ibis Budget Singapore Ruby - SG Clean,6.2,1,0,0,0.5106
+1870,69,Exceptional,Hotel Ibis Budget Singapore Ruby - SG Clean,10,0,0,1,0
+1871,70,Pleasant,Hotel Ibis Budget Singapore Ruby - SG Clean,6,1,0,0,0.5106
+1872,71,Good,Hotel Ibis Budget Singapore Ruby - SG Clean,7.5,1,0,0,0.4404
+1873,72,Pleasant,Hotel Ibis Budget Singapore Ruby - SG Clean,6,1,0,0,0.5106
+1874,73,Overall is satisfy for the 2 night stay,Hotel Ibis Budget Singapore Ruby - SG Clean,7,0.333,0,0.667,0.4588
+1875,74,Lack of hospitality.,Hotel Ibis Budget Singapore Ruby - SG Clean,8,0,0.535,0.465,-0.3182
+1876,75,Very Good,Hotel Ibis Budget Singapore Ruby - SG Clean,8,0.762,0,0.238,0.4927
+1877,76,There are better hotels within this Chain....,Hotel Ibis Budget Singapore Ruby - SG Clean,7,0.326,0,0.674,0.4404
+1878,77,Very Good,Hotel Ibis Budget Singapore Ruby - SG Clean,8,0.762,0,0.238,0.4927
+1879,78,Good value for money. Would recommend if travelling on a budget.,Hotel Ibis Budget Singapore Ruby - SG Clean,7,0.527,0,0.473,0.7783
+1880,79,Wonderful,Hotel Ibis Budget Singapore Ruby - SG Clean,9,1,0,0,0.5719
+1881,80,Wonderful,Hotel Ibis Budget Singapore Ruby - SG Clean,9,1,0,0,0.5719
+1882,81,Very Good,Hotel Ibis Budget Singapore Ruby - SG Clean,8,0.762,0,0.238,0.4927
+1883,82,"Excellent, well staffed, bed was a lil uncomfortable and small, in the middle of the Red Light area",Hotel Ibis Budget Singapore Ruby - SG Clean,9,0.259,0.116,0.625,0.4939
+1884,83,Wouldn't go back,Hotel Ibis Budget Singapore Ruby - SG Clean,5.8,0,0,1,0
+1885,84,Exceptional,Hotel Ibis Budget Singapore Ruby - SG Clean,10,0,0,1,0
+1886,85,Good,Hotel Ibis Budget Singapore Ruby - SG Clean,7.5,1,0,0,0.4404
+1887,86,We could not sleep at night because the aircon blew directly into our face and body despite adjusting all levels of temp,Hotel Ibis Budget Singapore Ruby - SG Clean,5.8,0,0,1,0
+1888,87,Very Good,Hotel Ibis Budget Singapore Ruby - SG Clean,8,0.762,0,0.238,0.4927
+1889,88,Exceptional,Hotel Ibis Budget Singapore Ruby - SG Clean,10,0,0,1,0
+1890,89,Exceptional,Hotel Ibis Budget Singapore Ruby - SG Clean,10,0,0,1,0
+1891,90,Exceptional,Hotel Ibis Budget Singapore Ruby - SG Clean,10,0,0,1,0
+1892,91,Exceptional,Hotel Ibis Budget Singapore Ruby - SG Clean,10,0,0,1,0
+1893,92,Exceptional,Hotel Ibis Budget Singapore Ruby - SG Clean,10,0,0,1,0
+1894,93,Pleasant,Hotel Ibis Budget Singapore Ruby - SG Clean,6,1,0,0,0.5106
+1895,94,Wonderful,Hotel Ibis Budget Singapore Ruby - SG Clean,9,1,0,0,0.5719
+1896,95,Wonderful,Hotel Ibis Budget Singapore Ruby - SG Clean,9,1,0,0,0.5719
+1897,96,Staff is not welcoming...,Hotel Ibis Budget Singapore Ruby - SG Clean,4.6,0,0,1,0
+1898,97,Very Good,Hotel Ibis Budget Singapore Ruby - SG Clean,8,0.762,0,0.238,0.4927
+1899,98,Very Good,Hotel Ibis Budget Singapore Ruby - SG Clean,8.3,0.762,0,0.238,0.4927
+1900,99,Good,Hotel Ibis Budget Singapore Ruby - SG Clean,7,1,0,0,0.4404
+1901,0,Wonderful,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",9,1,0,0,0.5719
+1902,1,Poor,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",3,0,1,0,-0.4767
+1903,2,Quite dissapointing,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",3,0,0,1,0
+1904,3,Very Good,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+1905,4,Fair,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",5,1,0,0,0.3182
+1906,5,Fair,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",5,1,0,0,0.3182
+1907,6,"Good enough for a short stay, and quite cheap. You get what you pay for.","Hotel The Quay Hotel (SG Clean, Staycation Approved)",7,0.178,0.086,0.736,0.3612
+1908,7,Exceptional,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",10,0,0,1,0
+1909,8,Very Good,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+1910,9,Exceptional,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",10,0,0,1,0
+1911,10,Was good,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",8,0.744,0,0.256,0.4404
+1912,11,Exceptional,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",10,0,0,1,0
+1913,12,"Location is nice ! Easy access to many tourist spot like clarke quay, merlion, chinatown.","Hotel The Quay Hotel (SG Clean, Staycation Approved)",10,0.436,0,0.564,0.8172
+1914,13,Disappointing,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",4,0,1,0,-0.4939
+1915,14,Disappointing,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",4,0,1,0,-0.4939
+1916,15,Very Good,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+1917,16,Excellent,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",8.8,1,0,0,0.5719
+1918,17,Fair,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",5,1,0,0,0.3182
+1919,18,Amazing weekend stay for couples!,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",9,0.506,0,0.494,0.6239
+1920,19,No windows,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",1,0,0.688,0.312,-0.296
+1921,20,Not a good night sleep.,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",5,0,0.445,0.555,-0.3412
+1922,21,Good,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",7,1,0,0,0.4404
+1923,22,Very Good,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+1924,23,Very Good,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+1925,24,Exceptional,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",10,0,0,1,0
+1926,25,Exceptional,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",10,0,0,1,0
+1927,26,Pleasant,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",6,1,0,0,0.5106
+1928,27,"Good value for money, excellent location for sightseeing.","Hotel The Quay Hotel (SG Clean, Staycation Approved)",6,0.643,0,0.357,0.8402
+1929,28,Very Good,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+1930,29,good staff service,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",8,0.592,0,0.408,0.4404
+1931,30,Good,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",7,1,0,0,0.4404
+1932,31,Good,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",7,1,0,0,0.4404
+1933,32,Very Good,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+1934,33,Wonderful,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",9,1,0,0,0.5719
+1935,34,Disappointing,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",4,0,1,0,-0.4939
+1936,35,Very Good,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+1937,36,Wonderful,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",9,1,0,0,0.5719
+1938,37,Exceptional,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",10,0,0,1,0
+1939,38,Exceptional,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",10,0,0,1,0
+1940,39,Exceptional,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",10,0,0,1,0
+1941,40,Very Good,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+1942,41,Wonderful,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",9,1,0,0,0.5719
+1943,42,Disappointing,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",4,0,1,0,-0.4939
+1944,43,Great location with great bed,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",8,0.732,0,0.268,0.8481
+1945,44,Pleasant,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",6,1,0,0,0.5106
+1946,45,Pleasant,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",6,1,0,0,0.5106
+1947,46,Wonderful,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",9,1,0,0,0.5719
+1948,47,Good,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",7,1,0,0,0.4404
+1949,48,Very Good,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+1950,49,Disappointing,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",6,0,1,0,-0.4939
+1951,50,"Good rooms, good location, just dont get the room facing the road.","Hotel The Quay Hotel (SG Clean, Staycation Approved)",6,0.367,0,0.633,0.7003
+1952,51,Very Good,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+1953,52,Pleasant,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",6,1,0,0,0.5106
+1954,53,"overall experience is OK, but had trouble requesting for invoice","Hotel The Quay Hotel (SG Clean, Staycation Approved)",5,0.145,0.263,0.592,-0.3784
+1955,54,Pleasant,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",6,1,0,0,0.5106
+1956,55,Good,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",7,1,0,0,0.4404
+1957,56,Wonderful,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",9,1,0,0,0.5719
+1958,57,Pleasant,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",6,1,0,0,0.5106
+1959,58,Very Good,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+1960,59,Wonderful,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",9,1,0,0,0.5719
+1961,60,"Bedsheets were a little stained, and the tables were a bit dusty and had food stains on it. Customer","Hotel The Quay Hotel (SG Clean, Staycation Approved)",6,0,0,1,0
+1962,61,Wonderful,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",9,1,0,0,0.5719
+1963,62,Not much channels,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",9,0,0,1,0
+1964,63,Fun and wonderful...,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",7,0.623,0,0.377,0.5106
+1965,64,Very Good,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+1966,65,Good view comfy stay,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",8,0.492,0,0.508,0.4404
+1967,66,value for money,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",9,0.545,0,0.455,0.34
+1968,67,Exceptional,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",10,0,0,1,0
+1969,68,Pleasant,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",6,1,0,0,0.5106
+1970,69,Pleasant,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",6,1,0,0,0.5106
+1971,70,Perfect hotel in the town area. Great stay if you want a hotel near the town.,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",10,0.431,0,0.569,0.8442
+1972,71,Exceptional,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",10,0,0,1,0
+1973,72,Wonderful stay,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",10,0.787,0,0.213,0.5719
+1974,73,Wonderful,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",9,1,0,0,0.5719
+1975,74,Very Good,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+1976,75,Wonderful,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",9,1,0,0,0.5719
+1977,76,Very Good,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+1978,77,Exceptional,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",10,0,0,1,0
+1979,78,Very Good,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+1980,79,Very Poor,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",2,0,0.772,0.228,-0.5256
+1981,80,Wonderful,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",9,1,0,0,0.5719
+1982,81,Good,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",7,1,0,0,0.4404
+1983,82,Exceptional,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",10,0,0,1,0
+1984,83,Exceptional,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",10,0,0,1,0
+1985,84,Very Good,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+1986,85,Pleasant,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",6,1,0,0,0.5106
+1987,86,Exceptional,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",10,0,0,1,0
+1988,87,Exceptional,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",10,0,0,1,0
+1989,88,Exceptional,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",10,0,0,1,0
+1990,89,Exceptional,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",10,0,0,1,0
+1991,90,Exceptional,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",10,0,0,1,0
+1992,91,Nice stay,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",6,0.737,0,0.263,0.4215
+1993,92,I asked for 2 more pillows and the staff told me there are no more pillows. Unacceptable. Otherwise the property is clea,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",8,0,0.233,0.767,-0.6682
+1994,93,Exceptional,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",10,0,0,1,0
+1995,94,Exceptional,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",10,0,0,1,0
+1996,95,Beautiful staycation,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",10,0.796,0,0.204,0.5994
+1997,96,Very Good,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",8,0.762,0,0.238,0.4927
+1998,97,Great Choice!,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",10,0.815,0,0.185,0.6588
+1999,98,Great Choice!,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",10,0.815,0,0.185,0.6588
+2000,99,can be better,"Hotel The Quay Hotel (SG Clean, Staycation Approved)",8,0.592,0,0.408,0.4404

@@ -1,0 +1,2001 @@
+Number of Hotels,Index_of_Mining,Comment_Text,Name,Rating,Positive Polarity Scores,Negative Polarity Scores,Neutral Polarity Scores,CompoundPolarityScores
+1,0,Exceptional,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+2,1,Exceptional,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+3,2,Very Good,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,8,0.762,0,0.238,0.4927
+4,3,"Basic Hotel, no frills",Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,5,0,0.423,0.577,-0.296
+5,4,Very Good,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,8,0.762,0,0.238,0.4927
+6,5,Nice place,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0.737,0,0.263,0.4215
+7,6,Exceptional,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+8,7,"The best, you must stay here.",Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0.457,0,0.543,0.6369
+9,8,Good,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,2,1,0,0,0.4404
+10,9,Exceptional,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+11,10,overall the hotel was very good,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,8,0.39,0,0.61,0.4927
+12,11,Very Good,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,8,0.762,0,0.238,0.4927
+13,12,Fair,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,5,1,0,0,0.3182
+14,13,Very nice hotel great location. expensive for laundry services. Food expensive. Staff friendly and.,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,9,0.492,0,0.508,0.8923
+15,14,Very Good,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,8,0.762,0,0.238,0.4927
+16,15,Very Good,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,8,0.762,0,0.238,0.4927
+17,16,Very Good,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,8,0.762,0,0.238,0.4927
+18,17,Exceptional,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+19,18,Exceptional,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+20,19,Exceptional,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+21,20,Wonderful,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,9,1,0,0,0.5719
+22,21,Wonderful,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,9,1,0,0,0.5719
+23,22,Exceptional,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+24,23,excellent !,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,1,0,0,0.6114
+25,24,Exceptional,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+26,25,Exceptional,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+27,26,Very Poor,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,2,0,0.772,0.228,-0.5256
+28,27,We really enjoyed our stay at the Avani Hotel,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,8,0.31,0,0.69,0.5563
+29,28,Great place for business trips to Thailand with great service and value for money,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,9,0.491,0,0.509,0.891
+30,29,Exceptional,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+31,30,Pleasant,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,6,1,0,0,0.5106
+32,31,Brilliant stay,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,9,0.792,0,0.208,0.5859
+33,32,definitely would stay again. really was a great hotel,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,8,0.541,0,0.459,0.7951
+34,33,Fair,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,5,1,0,0,0.3182
+35,34,Very Good,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,8,0.762,0,0.238,0.4927
+36,35,Will not go there again,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,5,0,0,1,0
+37,36,Exceptional,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+38,37,Was absolutely okay but nothing special,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,7,0.188,0.34,0.472,-0.3161
+39,38,Good,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,7,1,0,0,0.4404
+40,39,Good value for money,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,9,0.726,0,0.274,0.6486
+41,40,Good,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,7,1,0,0,0.4404
+42,41,Very Good,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,8,0.762,0,0.238,0.4927
+43,42,Very Good,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,8,0.762,0,0.238,0.4927
+44,43,Exceptional,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+45,44,great,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,9,1,0,0,0.6249
+46,45,Fantastic hotel and service,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0.545,0,0.455,0.5574
+47,46,Pleasant,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,6,1,0,0,0.5106
+48,47,Very Good,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,8,0.762,0,0.238,0.4927
+49,48,Exceptional,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+50,49,Very Good,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,8,0.762,0,0.238,0.4927
+51,50,Good,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,7,1,0,0,0.4404
+52,51,Average property and even though on Sukhumvit it is not in the best of areas for a tourist,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,5,0,0.174,0.826,-0.5216
+53,52,Exceptional,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+54,53,Exceptional,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+55,54,Exceptional,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+56,55,Really good,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,9,0.762,0,0.238,0.4927
+57,56,Great place to stay in Bangkok!,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,9,0.468,0,0.532,0.6588
+58,57,Wonderful,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,9,1,0,0,0.5719
+59,58,Exceptional,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+60,59,Exceptional,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+61,60,Wonderful,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,9,1,0,0,0.5719
+62,61,Room and view is great. Bed is comfy. Service is little slow. Breakfast not good. All over Good.,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,7,0.287,0.099,0.615,0.6802
+63,62,Pleasant,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,8,1,0,0,0.5106
+64,63,SUPERB venue and staff.,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0.617,0,0.383,0.7034
+65,64,Very Good,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,8,0.762,0,0.238,0.4927
+66,65,Exceptional,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+67,66,"Rooms are clean and cozy. Pool, Gym, Breakfast Facilities are awful. Great stay for 1 or 2 night.",Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,6,0.298,0.132,0.57,0.5859
+68,67,Exceptional,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+69,68,Good location and value,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0.726,0,0.274,0.6486
+70,69,Exceptional,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+71,70,Exceptional,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+72,71,Wonderful,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,9,1,0,0,0.5719
+73,72,"extremely comfortable hotel , friendly staffs . they are totally really for tourists to come back",Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,9,0.37,0,0.63,0.7939
+74,73,Exceptional,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+75,74,Exceptional,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+76,75,"Good service , friendly staff",Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0.753,0,0.247,0.7269
+77,76,Exceptional,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+78,77,Excellent hotel,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0.787,0,0.213,0.5719
+79,78,Exceptional,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+80,79,Exceptional,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+81,80,Good choice for this location,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,8,0.42,0,0.58,0.4404
+82,81,Exceptional,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+83,82,Wow,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,6,1,0,0,0.5859
+84,83,Exceptional,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+85,84,Exceptional,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+86,85,Very Good,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,8,0.762,0,0.238,0.4927
+87,86,Very good,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0.762,0,0.238,0.4927
+88,87,Wonderful,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,9,1,0,0,0.5719
+89,88,No deposit room to credit card. Be careful.,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,3,0.368,0.193,0.439,0.25
+90,89,Wonderful,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,9,1,0,0,0.5719
+91,90,"I love everything here, the view, the room, cleanliness, location and staff. I’ll be back definitely",Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0.347,0,0.653,0.7845
+92,91,Very Good,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,8,0.762,0,0.238,0.4927
+93,92,Very Good,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,8,0.762,0,0.238,0.4927
+94,93,Enjoyable despite virus shutdown all round,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,9,0.367,0,0.633,0.4404
+95,94,Wonderful,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,9,1,0,0,0.5719
+96,95,Very Good,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,8,0.762,0,0.238,0.4927
+97,96,Exceptional,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+98,97,Overall is good!,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,7,0.615,0,0.385,0.4926
+99,98,Very Good,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,8,0.762,0,0.238,0.4927
+100,99,Very Good,Hotel Avani Sukhumvit Bangkok - SHA Extra Plus Certified,8.3,0.762,0,0.238,0.4927
+101,0,Exceptional,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,10,0,0,1,0
+102,1,Poor,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,3,0,1,0,-0.4767
+103,2,They over charged. They charged me $150usd for a Covid test. Other places charge $7.,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,2,0,0.231,0.769,-0.3818
+104,3,Good,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,7,1,0,0,0.4404
+105,4,Exceptional,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,10,0,0,1,0
+106,5,Very Good,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,8,0.762,0,0.238,0.4927
+107,6,"A very enjoyable two days, will be coming again on 11may for another two days",Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,9,0.197,0,0.803,0.4927
+108,7,"average city hotel, good location, good breakfast, but fails so many details",Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,7,0.235,0.223,0.542,-0.2023
+109,8,"Well placed hotel with good city views, hospitality and facilities.",Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,9,0.385,0,0.615,0.6124
+110,9,A little dispointed with 5star hotel in booking .com,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,6,0,0,1,0
+111,10,Great hotel,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,10,0.804,0,0.196,0.6249
+112,11,Very Good,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,8,0.762,0,0.238,0.4927
+113,12,good hotel great location and friendly staff,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,8,0.718,0,0.282,0.8807
+114,13,Great staff and a pleasant stay,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,7,0.712,0,0.288,0.8126
+115,14,Very Good,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,8,0.762,0,0.238,0.4927
+116,15,Comfortable but not with best value.,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,7,0.175,0.58,0.245,-0.7146
+117,16,Pleasant,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,6,1,0,0,0.5106
+118,17,"Everything is good, but the room is not soundproofing.",Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,7,0.196,0,0.804,0.2382
+119,18,the check in and out was smooth our 2day stay was extremely good,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,10,0.21,0,0.79,0.4927
+120,19,Exceptional,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,10,0,0,1,0
+121,20,Pleasant,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,6,1,0,0,0.5106
+122,21,Fair,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,5,1,0,0,0.3182
+123,22,Good,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,7,1,0,0,0.4404
+124,23,Fair,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,5,1,0,0,0.3182
+125,24,"Wonderful staff, comfortable rooms, and great location.",Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,9,0.735,0,0.265,0.9022
+126,25,Wonderful,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,9,1,0,0,0.5719
+127,26,good central location and good value for money. staff lovely.,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,4,0.667,0,0.333,0.9001
+128,27,Exceptional,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,10,0,0,1,0
+129,28,Exceptional,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,10,0,0,1,0
+130,29,Swimming Pool not operational. Try other options,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,6,0,0,1,0
+131,30,Exceptional,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,10,0,0,1,0
+132,31,Good,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,7,1,0,0,0.4404
+133,32,Wonderful,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,9,1,0,0,0.5719
+134,33,Exceptional,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,10,0,0,1,0
+135,34,Exceptional,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,10,0,0,1,0
+136,35,"Superb location , easily accessible by BTS and MRT. Clean and Quiet.",Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,10,0.535,0,0.465,0.8481
+137,36,Exceptional,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,10,0,0,1,0
+138,37,Very Good,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,8,0.762,0,0.238,0.4927
+139,38,"Around by cities, love it",Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,8,0.512,0,0.488,0.6369
+140,39,"Just ""fine"" if you know what your money gets you. Probably will not stay there again.",Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,6,0.107,0,0.893,0.2023
+141,40,Exceptional,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,10,0,0,1,0
+142,41,"Excellent hotel, no regrets",Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,9,0.394,0.5,0.106,0
+143,42,the staff were all very accommodating and nice.,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,8,0.304,0,0.696,0.4703
+144,43,Wonderful,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,9,1,0,0,0.5719
+145,44,Formerly very great,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,4,0.687,0,0.313,0.659
+146,45,Wonderful,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,9,1,0,0,0.5719
+147,46,Not bad ! But would not stay again,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,5,0.27,0,0.73,0.2998
+148,47,Good,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,7,1,0,0,0.4404
+149,48,good location,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,7,0.744,0,0.256,0.4404
+150,49,Exceptional,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,10,0,0,1,0
+151,50,Very Poor,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,2,0,0.772,0.228,-0.5256
+152,51,Far from 5 stars quality,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,3,0,0,1,0
+153,52,Convenient stay,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,8,0,0,1,0
+154,53,I was disappointed with the room.,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,7,0,0.437,0.563,-0.4767
+155,54,Exceptional,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,10,0,0,1,0
+156,55,Good,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,7,1,0,0,0.4404
+157,56,Exceptional,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,10,0,0,1,0
+158,57,Good,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,7,1,0,0,0.4404
+159,58,Wonderful,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,9,1,0,0,0.5719
+160,59,Wrong information,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,8,0,0.756,0.244,-0.4767
+161,60,Wonderful,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,9,1,0,0,0.5719
+162,61,"Great location, staff, and service!",Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,10,0.523,0,0.477,0.6588
+163,62,Very Good,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,8,0.762,0,0.238,0.4927
+164,63,Exceptional,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,10,0,0,1,0
+165,64,Disappointing,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,4,0,1,0,-0.4939
+166,65,Fair,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,5,1,0,0,0.3182
+167,66,Good,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,7,1,0,0,0.4404
+168,67,Very Good,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,8,0.762,0,0.238,0.4927
+169,68,Wonderful,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,9,1,0,0,0.5719
+170,69,Very Good,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,8,0.762,0,0.238,0.4927
+171,70,Exceptional,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,10,0,0,1,0
+172,71,A good building called hotel lacking the hospitality element in business.,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,3,0.244,0,0.756,0.4404
+173,72,Exceptional,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,10,0,0,1,0
+174,73,Very Good,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,8,0.762,0,0.238,0.4927
+175,74,very nice stay,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,10,0.607,0,0.393,0.4754
+176,75,Good,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,7,1,0,0,0.4404
+177,76,Excellent,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,10,1,0,0,0.5719
+178,77,Very Good,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,8,0.762,0,0.238,0.4927
+179,78,Disappointing,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,4,0,1,0,-0.4939
+180,79,Fair,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,5,1,0,0,0.3182
+181,80,"Big hopes and excitement, even bigger disappointment",Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,4,0.451,0.248,0.301,0.4019
+182,81,Exceptional,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,10,0,0,1,0
+183,82,Wonderful,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,9,1,0,0,0.5719
+184,83,Great place to stay 😊,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,8,0.577,0,0.423,0.6249
+185,84,Very Good,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,8,0.762,0,0.238,0.4927
+186,85,Very Good,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,8,0.762,0,0.238,0.4927
+187,86,Continent,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,9,0,0,1,0
+188,87,Good,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,7,1,0,0,0.4404
+189,88,accommodation good value but drinks and food expensive,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,3,0.378,0,0.622,0.3919
+190,89,Exceptional,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,10,0,0,1,0
+191,90,Very good,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,9,0.762,0,0.238,0.4927
+192,91,Disappointing,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,4,0,1,0,-0.4939
+193,92,Hotel with a good location and view.,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,8,0.367,0,0.633,0.4404
+194,93,Excellent location,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,7,0.787,0,0.213,0.5719
+195,94,"Quiet, relaxed and pleasant in a good location, but room felt cramped.",Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,6,0.437,0,0.563,0.6369
+196,95,stay was fine - couldn’t complain about anything just wouldn’t say it was incredible.,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,8,0.118,0.163,0.719,-0.1779
+197,96,Exceptional,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,10,0,0,1,0
+198,97,Wonderful,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,9,1,0,0,0.5719
+199,98,Wonderful,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,9,1,0,0,0.5719
+200,99,Disappointing,Hotel The Continent Hotel Bangkok by Compass Hospitality - SHA Extra Plus,4,0,1,0,-0.4939
+201,0,Exceptional,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0,0,1,0
+202,1,Absolutley stunning place to stay,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0.394,0,0.606,0.3818
+203,2,No privacy and no windows. loud.,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,5,0,0.524,0.476,-0.5267
+204,3,Exceptional,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0,0,1,0
+205,4,Magical,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0,0,1,0
+206,5,beautiful and great staff,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9,0.8,0,0.2,0.8402
+207,6,Wonderful,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+208,7,Wonderful,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+209,8,"Shanghai mood, Modern and Cosy",Hotel Shanghai Mansion Bangkok - SHA Extra Plus,8,0,0,1,0
+210,9,"Shanghai mansion is what is says a Shanghai mansion ! if you have not been to one , you must visit",Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9,0,0,1,0
+211,10,Wonderful,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+212,11,Exceptional,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0,0,1,0
+213,12,"Excellent surroundings and decor. Good service, and the food was excellent.",Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0.563,0,0.437,0.8834
+214,13,Exceptional,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0,0,1,0
+215,14,Very Good,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,8,0.762,0,0.238,0.4927
+216,15,Hidden escape in nostalgic glamour.,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9,0.63,0,0.37,0.6249
+217,16,Exceptional,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0,0,1,0
+218,17,Exceptional,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0,0,1,0
+219,18,Very pretty hotel in the middle of Chinatown,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0.333,0,0.667,0.5413
+220,19,Wonderful,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+221,20,Great intro to Bangkok which was made more memorable by the quality of care we received at Shanghai Mansion,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0.3,0,0.7,0.8074
+222,21,Exceptional,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0,0,1,0
+223,22,Wonderful,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+224,23,Oasis in the hearth of Bangkok Chinatown,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9,0,0,1,0
+225,24,Exceptional,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0,0,1,0
+226,25,Very Good,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,8,0.762,0,0.238,0.4927
+227,26,Ok,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9,1,0,0,0.296
+228,27,Exceptional,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0,0,1,0
+229,28,Wonderful,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+230,29,Exceptional,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0,0,1,0
+231,30,Best interior and amazing location,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9,0.727,0,0.273,0.8402
+232,31,Wonderful,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+233,32,Wonderful,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+234,33,Beautiful hotel.,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0.796,0,0.204,0.5994
+235,34,Wonderful,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+236,35,"Great location, wonderful staff",Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9,0.796,0,0.204,0.8316
+237,36,Wonderful,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+238,37,Character Hotel in Bangkok worth to stay in the heart of Chinatown,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0.147,0,0.853,0.2263
+239,38,Very Good,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,8,0.762,0,0.238,0.4927
+240,39,"The room is clean and all facilities are good value, we are very love the coconut shampoo and conditions.",Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0.454,0,0.546,0.9099
+241,40,Wonderful,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+242,41,Exceptional,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0,0,1,0
+243,42,Wonderful,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+244,43,Very Good,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,8,0.762,0,0.238,0.4927
+245,44,Wonderful,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+246,45,Exceptional,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0,0,1,0
+247,46,Exceptional,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0,0,1,0
+248,47,Wonderful,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+249,48,Pleasant,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,6,1,0,0,0.5106
+250,49,Exceptional,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0,0,1,0
+251,50,Perfect location in the middle of Chinatown,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,8,0.381,0,0.619,0.5719
+252,51,"Old world charm, genuine hospitality, location.",Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0.351,0,0.649,0.4019
+253,52,Great location,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,7,0.804,0,0.196,0.6249
+254,53,Poor,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,3,0,1,0,-0.4767
+255,54,Exceptional,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0,0,1,0
+256,55,Good experience,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0.744,0,0.256,0.4404
+257,56,"It’s in the center of China town, near shopping street and street foods",Hotel Shanghai Mansion Bangkok - SHA Extra Plus,8,0,0,1,0
+258,57,Exceptional,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0,0,1,0
+259,58,Spa was top,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9,0.474,0,0.526,0.2023
+260,59,Exceptional,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0,0,1,0
+261,60,Exceptional,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0,0,1,0
+262,61,Wonderful,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+263,62,Exceptional,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0,0,1,0
+264,63,Good hotel with Jazz bar for relaxing,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9,0.55,0,0.45,0.7269
+265,64,Fair,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,5,1,0,0,0.3182
+266,65,Good,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,7,1,0,0,0.4404
+267,66,Wonderful,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+268,67,Worth and Best,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0.859,0,0.141,0.7269
+269,68,"Very traditional Bangkok location, nice retro decoration all over, loved the bar with live music opening onto the...",Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9,0.295,0,0.705,0.7717
+270,69,Bad,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,1,0,1,0,-0.5423
+271,70,Weekend Getaway,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0,0,1,0
+272,71,"Love it, would love to stay there again.",Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0.583,0,0.417,0.8555
+273,72,Worth every penny,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0.487,0,0.513,0.2263
+274,73,Pleasant,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,6,1,0,0,0.5106
+275,74,"in style, refreshing alternative to the big chains",Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9,0,0,1,0
+276,75,Exceptional,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0,0,1,0
+277,76,Very Good,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,8,0.762,0,0.238,0.4927
+278,77,Cool hotel,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9,0.697,0,0.303,0.3182
+279,78,Very Good,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,8,0.762,0,0.238,0.4927
+280,79,Pleasant,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,6,1,0,0,0.5106
+281,80,Very Good,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,8,0.762,0,0.238,0.4927
+282,81,Wonderful,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+283,82,Disappointing,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,1,0,1,0,-0.4939
+284,83,Great hotel in Bangkok will definitely return,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0.576,0,0.424,0.7783
+285,84,Good,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,7,1,0,0,0.4404
+286,85,"Good hotel, smack in the middle of Chinatown, but our room had roaches.",Hotel Shanghai Mansion Bangkok - SHA Extra Plus,5,0.14,0,0.86,0.2382
+287,86,Very Good,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,8,0.762,0,0.238,0.4927
+288,87,Wonderful,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+289,88,Very nice stay with a great vibe.,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9,0.643,0,0.357,0.8016
+290,89,Wonderful,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+291,90,Exceptional,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0,0,1,0
+292,91,Exceptional,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0,0,1,0
+293,92,Good,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,7.1,1,0,0,0.4404
+294,93,we would definitely come here again,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9,0.351,0,0.649,0.4019
+295,94,Exceptional,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9.6,0,0,1,0
+296,95,Exceptional,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0,0,1,0
+297,96,Had high expectations that were unfortunately not met. :-(,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,3,0.183,0.209,0.608,-0.0747
+298,97,Exceptional,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0,0,1,0
+299,98,Exceptional,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,10,0,0,1,0
+300,99,Great hotel in the heart of Bangkok,Hotel Shanghai Mansion Bangkok - SHA Extra Plus,9,0.406,0,0.594,0.6249
+301,0,Perfect,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,1,0,0,0.5719
+302,1,Very Good,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,8,0.762,0,0.238,0.4927
+303,2,Wonderful,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,9,1,0,0,0.5719
+304,3,Very Good,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,8,0.762,0,0.238,0.4927
+305,4,Exceptional,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+306,5,Exceptional,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+307,6,Exceptional,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+308,7,poor service. all flash and no substance.,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,5,0,0.515,0.485,-0.6486
+309,8,Exceptional,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+310,9,Wonderful,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,9,1,0,0,0.5719
+311,10,Very Good,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,8,0.762,0,0.238,0.4927
+312,11,Exceptional,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+313,12,Very Good,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,8,0.762,0,0.238,0.4927
+314,13,Exceptional,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+315,14,Wonderful,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,9,1,0,0,0.5719
+316,15,Exceptional,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+317,16,Exceptional,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+318,17,Exceptional,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+319,18,Exceptional,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+320,19,Good,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,7,1,0,0,0.4404
+321,20,THE STAY COULD HAVE BEEN BETTER,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,8,0.367,0,0.633,0.4404
+322,21,Wonderful,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,9,1,0,0,0.5719
+323,22,"Everything is great, i was there for work on an 8-days trip, I managed to do some shoppings in between cuz of the distan",Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,9,0.163,0,0.837,0.6249
+324,23,Very Good,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,8,0.762,0,0.238,0.4927
+325,24,Wonderful,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,9,1,0,0,0.5719
+326,25,Very Good,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,8,0.762,0,0.238,0.4927
+327,26,Wonderful,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,9,1,0,0,0.5719
+328,27,Wonderful,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,9,1,0,0,0.5719
+329,28,Very Good,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,8,0.762,0,0.238,0.4927
+330,29,"i had to move to this property as booking.con sold me a hotel that wasn’t even open ,so when I got to bangkok I was str",Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+331,30,Very Good,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,8,0.762,0,0.238,0.4927
+332,31,10-Oct,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+333,32,Exceptional,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+334,33,Exceptional,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+335,34,Wonderful,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,9,1,0,0,0.5719
+336,35,really great,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,9,0.815,0,0.185,0.659
+337,36,"canceled last day of my stay there, and was told I will get a refund within 2 weeks, now it’s been over 10 weeks without",Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,1,0,0,1,0
+338,37,Marvellous stay at Amari Watergate,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,9,0,0,1,0
+339,38,Wonderful,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,9,1,0,0,0.5719
+340,39,Great breakfast friendly staff..,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,8,0.785,0,0.215,0.8074
+341,40,Wonderful,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,9,1,0,0,0.5719
+342,41,Exceptional,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+343,42,Wonderful,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,9,1,0,0,0.5719
+344,43,perfection,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,1,0,0,0.5719
+345,44,Very Good,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,8,0.762,0,0.238,0.4927
+346,45,All the staff are so nice!!!!!!,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+347,46,Very Good,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,8,0.762,0,0.238,0.4927
+348,47,Exceptional,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+349,48,Exceptional,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+350,49,"Mr,Slavomir the manger of this property are very good and professional person he make our stay more special.",Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0.279,0,0.721,0.734
+351,50,Fantastic everything,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0.783,0,0.217,0.5574
+352,51,Exceptional,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+353,52,Exceptional,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+354,53,Exactly what I was looking for,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,8,0,0,1,0
+355,54,Very Good,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,8,0.762,0,0.238,0.4927
+356,55,A great holiday with every at your door step. The hospitality and staff are so helpful and always giving information whe,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0.445,0,0.555,0.9156
+357,56,This hotel gave us the fantastic holiday we wished for. The facilities and staff were exceptional.,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0.31,0,0.69,0.743
+358,57,Fair,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,5,1,0,0,0.3182
+359,58,Excellent.,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,8,1,0,0,0.5719
+360,59,Wonderful,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,9,1,0,0,0.5719
+361,60,Exceptional,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+362,61,Wonderful,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,9,1,0,0,0.5719
+363,62,Exceptional,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+364,63,Very Good,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,8,0.762,0,0.238,0.4927
+365,64,Wonderful,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,9,1,0,0,0.5719
+366,65,Wonderful,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,9,1,0,0,0.5719
+367,66,Good,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,7,1,0,0,0.4404
+368,67,Great Stay!!,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,8,0.824,0,0.176,0.6892
+369,68,Exceptional,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+370,69,Exceptional,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+371,70,Exceptional,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+372,71,Exceptional,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+373,72,Exceptional,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+374,73,Wonderful,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,9,1,0,0,0.5719
+375,74,IDEAL LOCATION FOR SHOPPING,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0.531,0,0.469,0.5267
+376,75,Very Good,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,8,0.762,0,0.238,0.4927
+377,76,Love my stay,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,8,0.677,0,0.323,0.6369
+378,77,Exceptional,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+379,78,The best one,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,8,0.677,0,0.323,0.6369
+380,79,Exceptional,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+381,80,Exceptional,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+382,81,Very Good,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,8,0.762,0,0.238,0.4927
+383,82,Very Good,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,8,0.762,0,0.238,0.4927
+384,83,It's amazing and satisfying.,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0.773,0,0.227,0.7783
+385,84,Exceptional,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+386,85,Wonderful,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,9,1,0,0,0.5719
+387,86,Overall very good,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,8,0.615,0,0.385,0.4927
+388,87,Very Good,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,8,0.762,0,0.238,0.4927
+389,88,Good,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,7,1,0,0,0.4404
+390,89,Exceptional,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+391,90,Exceptional,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+392,91,Exceptional,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+393,92,Exceptional,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+394,93,Wonderful,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,9,1,0,0,0.5719
+395,94,Nice location,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,7,0.737,0,0.263,0.4215
+396,95,Wonderful,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,9,1,0,0,0.5719
+397,96,"No swimming pool (but did arrange swimming at a different location). No gym, spa or room service.",Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,4,0,0.239,0.761,-0.5267
+398,97,Exceptional,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+399,98,Exceptional,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,10,0,0,1,0
+400,99,Best 10 days ever,Hotel Amari Watergate Bangkok - SHA Extra Plus Certified,9,0.583,0,0.417,0.6369
+401,0,Very Good,Hotel VIC 3 Bangkok - SHA Plus,8,0.762,0,0.238,0.4927
+402,1,Exceptional,Hotel VIC 3 Bangkok - SHA Plus,10,0,0,1,0
+403,2,Good,Hotel VIC 3 Bangkok - SHA Plus,7,1,0,0,0.4404
+404,3,ok for a very short stay,Hotel VIC 3 Bangkok - SHA Plus,3,0.355,0,0.645,0.296
+405,4,Good stay,Hotel VIC 3 Bangkok - SHA Plus,8,0.744,0,0.256,0.4404
+406,5,"I would not recommend, below expected standard.",Hotel VIC 3 Bangkok - SHA Plus,3,0,0.297,0.703,-0.2755
+407,6,Very Good,Hotel VIC 3 Bangkok - SHA Plus,8,0.762,0,0.238,0.4927
+408,7,Very Good,Hotel VIC 3 Bangkok - SHA Plus,8,0.762,0,0.238,0.4927
+409,8,Exceptional,Hotel VIC 3 Bangkok - SHA Plus,10,0,0,1,0
+410,9,Wonderful,Hotel VIC 3 Bangkok - SHA Plus,9,1,0,0,0.5719
+411,10,its value for money - but the experience can be better with good wifi and more food options,Hotel VIC 3 Bangkok - SHA Plus,6,0.402,0,0.598,0.8555
+412,11,Fair,Hotel VIC 3 Bangkok - SHA Plus,5,1,0,0,0.3182
+413,12,Thank you!,Hotel VIC 3 Bangkok - SHA Plus,9,0.736,0,0.264,0.4199
+414,13,Wonderful,Hotel VIC 3 Bangkok - SHA Plus,9,1,0,0,0.5719
+415,14,Good,Hotel VIC 3 Bangkok - SHA Plus,7,1,0,0,0.4404
+416,15,short but sweet,Hotel VIC 3 Bangkok - SHA Plus,9,0.667,0,0.333,0.6124
+417,16,Very Good,Hotel VIC 3 Bangkok - SHA Plus,8,0.762,0,0.238,0.4927
+418,17,Exceptional,Hotel VIC 3 Bangkok - SHA Plus,10,0,0,1,0
+419,18,Very Good,Hotel VIC 3 Bangkok - SHA Plus,8,0.762,0,0.238,0.4927
+420,19,Wonderful,Hotel VIC 3 Bangkok - SHA Plus,9,1,0,0,0.5719
+421,20,Wonderful,Hotel VIC 3 Bangkok - SHA Plus,9,1,0,0,0.5719
+422,21,Good,Hotel VIC 3 Bangkok - SHA Plus,7,1,0,0,0.4404
+423,22,Good,Hotel VIC 3 Bangkok - SHA Plus,7,1,0,0,0.4404
+424,23,Good,Hotel VIC 3 Bangkok - SHA Plus,7,1,0,0,0.4404
+425,24,Wonderful,Hotel VIC 3 Bangkok - SHA Plus,9,1,0,0,0.5719
+426,25,Very nice staff and great location!,Hotel VIC 3 Bangkok - SHA Plus,9,0.652,0,0.348,0.8169
+427,26,Wonderful,Hotel VIC 3 Bangkok - SHA Plus,9,1,0,0,0.5719
+428,27,Great,Hotel VIC 3 Bangkok - SHA Plus,10,1,0,0,0.6249
+429,28,Exceptional,Hotel VIC 3 Bangkok - SHA Plus,10,0,0,1,0
+430,29,Very Good,Hotel VIC 3 Bangkok - SHA Plus,8,0.762,0,0.238,0.4927
+431,30,The hotel room was fit for purpose and had local amenities to hand.,Hotel VIC 3 Bangkok - SHA Plus,9,0.341,0,0.659,0.6908
+432,31,Exceptional,Hotel VIC 3 Bangkok - SHA Plus,10,0,0,1,0
+433,32,Good,Hotel VIC 3 Bangkok - SHA Plus,7,1,0,0,0.4404
+434,33,Good,Hotel VIC 3 Bangkok - SHA Plus,7,1,0,0,0.4404
+435,34,"Super comfy, yummy food, clean and safe",Hotel VIC 3 Bangkok - SHA Plus,10,0.811,0,0.189,0.9169
+436,35,Very Good,Hotel VIC 3 Bangkok - SHA Plus,8,0.762,0,0.238,0.4927
+437,36,Wonderful,Hotel VIC 3 Bangkok - SHA Plus,9,1,0,0,0.5719
+438,37,"Overall, my stay at the VIC3 Bangkok was satisfactory and I recommend this hotel.",Hotel VIC 3 Bangkok - SHA Plus,8,0.312,0,0.688,0.6124
+439,38,Pleasant,Hotel VIC 3 Bangkok - SHA Plus,6,1,0,0,0.5106
+440,39,Exceptional,Hotel VIC 3 Bangkok - SHA Plus,10,0,0,1,0
+441,40,Good,Hotel VIC 3 Bangkok - SHA Plus,7,1,0,0,0.4404
+442,41,Good,Hotel VIC 3 Bangkok - SHA Plus,7,1,0,0,0.4404
+443,42,Exceptional,Hotel VIC 3 Bangkok - SHA Plus,10,0,0,1,0
+444,43,Very Good,Hotel VIC 3 Bangkok - SHA Plus,8,0.762,0,0.238,0.4927
+445,44,Good,Hotel VIC 3 Bangkok - SHA Plus,7,1,0,0,0.4404
+446,45,Good,Hotel VIC 3 Bangkok - SHA Plus,7,1,0,0,0.4404
+447,46,I definitely will come back.,Hotel VIC 3 Bangkok - SHA Plus,8,0.474,0,0.526,0.4019
+448,47,Disappointing,Hotel VIC 3 Bangkok - SHA Plus,4,0,1,0,-0.4939
+449,48,Very Good,Hotel VIC 3 Bangkok - SHA Plus,8,0.762,0,0.238,0.4927
+450,49,I love it!,Hotel VIC 3 Bangkok - SHA Plus,10,0.818,0,0.182,0.6696
+451,50,Very Good,Hotel VIC 3 Bangkok - SHA Plus,8,0.762,0,0.238,0.4927
+452,51,Very Good,Hotel VIC 3 Bangkok - SHA Plus,8,0.762,0,0.238,0.4927
+453,52,Reception staff during check in & check out were very courteous and polite.,Hotel VIC 3 Bangkok - SHA Plus,9,0.246,0,0.754,0.5563
+454,53,Very Good,Hotel VIC 3 Bangkok - SHA Plus,8,0.762,0,0.238,0.4927
+455,54,Ideal if you need to spend a day or 2 in that area.,Hotel VIC 3 Bangkok - SHA Plus,7,0.254,0,0.746,0.5267
+456,55,Exceptional,Hotel VIC 3 Bangkok - SHA Plus,10,0,0,1,0
+457,56,Wonderful,Hotel VIC 3 Bangkok - SHA Plus,9,1,0,0,0.5719
+458,57,Exceptional,Hotel VIC 3 Bangkok - SHA Plus,10,0,0,1,0
+459,58,A solid choice of hotel.,Hotel VIC 3 Bangkok - SHA Plus,9,0.348,0,0.652,0.1531
+460,59,Good,Hotel VIC 3 Bangkok - SHA Plus,7,1,0,0,0.4404
+461,60,Privacy place,Hotel VIC 3 Bangkok - SHA Plus,10,0,0,1,0
+462,61,Good,Hotel VIC 3 Bangkok - SHA Plus,7,1,0,0,0.4404
+463,62,Wonderful,Hotel VIC 3 Bangkok - SHA Plus,9,1,0,0,0.5719
+464,63,Good,Hotel VIC 3 Bangkok - SHA Plus,7,1,0,0,0.4404
+465,64,Good,Hotel VIC 3 Bangkok - SHA Plus,9,1,0,0,0.4404
+466,65,Very Good,Hotel VIC 3 Bangkok - SHA Plus,8,0.762,0,0.238,0.4927
+467,66,Comfy bed,Hotel VIC 3 Bangkok - SHA Plus,9,0,0,1,0
+468,67,Good location and has parking lot,Hotel VIC 3 Bangkok - SHA Plus,8,0.367,0,0.633,0.4404
+469,68,Very Good,Hotel VIC 3 Bangkok - SHA Plus,8,0.762,0,0.238,0.4927
+470,69,Exceptional,Hotel VIC 3 Bangkok - SHA Plus,10,0,0,1,0
+471,70,Very Good,Hotel VIC 3 Bangkok - SHA Plus,8,0.762,0,0.238,0.4927
+472,71,Exceptional,Hotel VIC 3 Bangkok - SHA Plus,10,0,0,1,0
+473,72,Exceptional,Hotel VIC 3 Bangkok - SHA Plus,10,0,0,1,0
+474,73,Exceptional,Hotel VIC 3 Bangkok - SHA Plus,10,0,0,1,0
+475,74,Exceptional,Hotel VIC 3 Bangkok - SHA Plus,10,0,0,1,0
+476,75,Exceptional,Hotel VIC 3 Bangkok - SHA Plus,10,0,0,1,0
+477,76,My Stay,Hotel VIC 3 Bangkok - SHA Plus,9,0,0,1,0
+478,77,Fair,Hotel VIC 3 Bangkok - SHA Plus,5,1,0,0,0.3182
+479,78,Wonderful,Hotel VIC 3 Bangkok - SHA Plus,9,1,0,0,0.5719
+480,79,Good,Hotel VIC 3 Bangkok - SHA Plus,7,1,0,0,0.4404
+481,80,Disappointing,Hotel VIC 3 Bangkok - SHA Plus,4,0,1,0,-0.4939
+482,81,Exceptional,Hotel VIC 3 Bangkok - SHA Plus,10,0,0,1,0
+483,82,Very Good,Hotel VIC 3 Bangkok - SHA Plus,8,0.762,0,0.238,0.4927
+484,83,Very Good,Hotel VIC 3 Bangkok - SHA Plus,8,0.762,0,0.238,0.4927
+485,84,Very Good,Hotel VIC 3 Bangkok - SHA Plus,8,0.762,0,0.238,0.4927
+486,85,Very Good,Hotel VIC 3 Bangkok - SHA Plus,8,0.762,0,0.238,0.4927
+487,86,good,Hotel VIC 3 Bangkok - SHA Plus,8,1,0,0,0.4404
+488,87,Nice food and good location,Hotel VIC 3 Bangkok - SHA Plus,8,0.655,0,0.345,0.6908
+489,88,Exceptional,Hotel VIC 3 Bangkok - SHA Plus,10,0,0,1,0
+490,89,Wonderful,Hotel VIC 3 Bangkok - SHA Plus,9,1,0,0,0.5719
+491,90,Good,Hotel VIC 3 Bangkok - SHA Plus,10,1,0,0,0.4404
+492,91,Clean room nice facility,Hotel VIC 3 Bangkok - SHA Plus,7.5,0.733,0,0.267,0.6705
+493,92,Very Good,Hotel VIC 3 Bangkok - SHA Plus,8,0.762,0,0.238,0.4927
+494,93,Fair,Hotel VIC 3 Bangkok - SHA Plus,5,1,0,0,0.3182
+495,94,Good,Hotel VIC 3 Bangkok - SHA Plus,7.1,1,0,0,0.4404
+496,95,Good,Hotel VIC 3 Bangkok - SHA Plus,7.9,1,0,0,0.4404
+497,96,Good,Hotel VIC 3 Bangkok - SHA Plus,7.9,1,0,0,0.4404
+498,97,Excellent,Hotel VIC 3 Bangkok - SHA Plus,8.8,1,0,0,0.5719
+499,98,Car park a bit small but acceptable,Hotel VIC 3 Bangkok - SHA Plus,10,0.371,0,0.629,0.4497
+500,99,Good,Hotel VIC 3 Bangkok - SHA Plus,7.9,1,0,0,0.4404
+501,0,Good,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,7,1,0,0,0.4404
+502,1,Very Good,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,8,0.762,0,0.238,0.4927
+503,2,Fair,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,5,1,0,0,0.3182
+504,3,Good,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,7,1,0,0,0.4404
+505,4,Exceptional,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,10,0,0,1,0
+506,5,ok,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,6,1,0,0,0.296
+507,6,Exceptional,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,10,0,0,1,0
+508,7,Exceptional,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,10,0,0,1,0
+509,8,Very Good,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,8,0.762,0,0.238,0.4927
+510,9,Pleasant,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,6,1,0,0,0.5106
+511,10,Exceptional,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,10,0,0,1,0
+512,11,Wonderful,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,9,1,0,0,0.5719
+513,12,Wonderful,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,9,1,0,0,0.5719
+514,13,Very Good,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,8,0.762,0,0.238,0.4927
+515,14,Very Good,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,8,0.762,0,0.238,0.4927
+516,15,Wonderful,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,9,1,0,0,0.5719
+517,16,Good,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,7,1,0,0,0.4404
+518,17,Very Good,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,8,0.762,0,0.238,0.4927
+519,18,Exceptional,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,10,0,0,1,0
+520,19,i will be back,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,8,0,0,1,0
+521,20,Very Good,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,8,0.762,0,0.238,0.4927
+522,21,Comfortable and friendly hotel in good location.,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,8,0.701,0,0.299,0.8555
+523,22,Exceptional,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,10,0,0,1,0
+524,23,Reál big stylish hotel in a good part of Bangkok. You can éven walk around a bit…,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,9,0.172,0,0.828,0.4404
+525,24,Ideal location,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,7,0.773,0,0.227,0.5267
+526,25,Very Good,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,8,0.762,0,0.238,0.4927
+527,26,Very Good,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,8,0.762,0,0.238,0.4927
+528,27,Very Good,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,8,0.762,0,0.238,0.4927
+529,28,Exceptional,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,10,0,0,1,0
+530,29,Pleasant,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,6,1,0,0,0.5106
+531,30,Very Good,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,8,0.762,0,0.238,0.4927
+532,31,you get what you payed for not 5 start but 3++ star hotel,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,7,0,0,1,0
+533,32,Beautiful hotel,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,9,0.796,0,0.204,0.5994
+534,33,customer care as 1 star hotel,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,2,0.444,0,0.556,0.4939
+535,34,Pleasant,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,6,1,0,0,0.5106
+536,35,customer care as 1 star hotel,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,2,0.444,0,0.556,0.4939
+537,36,Fabulous stay in Bangkok,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,9,0.531,0,0.469,0.5267
+538,37,Exceptional,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,10,0,0,1,0
+539,38,Wonderful,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,9,1,0,0,0.5719
+540,39,Exceptional,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,10,0,0,1,0
+541,40,Exceptional,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,10,0,0,1,0
+542,41,Best in Downtown Bangkok,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,10,0.583,0,0.417,0.6369
+543,42,worth it,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,8,0.655,0,0.345,0.2263
+544,43,An absolutely outstanding service and the hotel is amazing,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,10,0.536,0,0.464,0.8439
+545,44,Pleasant,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,6,1,0,0,0.5106
+546,45,Good,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,7,1,0,0,0.4404
+547,46,Very Good,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,8,0.762,0,0.238,0.4927
+548,47,Very Good,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,8,0.762,0,0.238,0.4927
+549,48,Very Good,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,8,0.762,0,0.238,0.4927
+550,49,Exceptional,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,10,0,0,1,0
+551,50,Pleasant,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,6,1,0,0,0.5106
+552,51,Ok if you get it for 27 quid I guess,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,6,0.216,0,0.784,0.296
+553,52,Very Good,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,8,0.762,0,0.238,0.4927
+554,53,Exceptional,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,10,0,0,1,0
+555,54,Very Good,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,8,0.762,0,0.238,0.4927
+556,55,I won’t stay here again or suggest the hotel to anyone unless they need an affordable price hotel with good location,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,5,0.132,0,0.868,0.4404
+557,56,Disappointing,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,4,0,1,0,-0.4939
+558,57,good value but need to improve its services,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,5,0.6,0,0.4,0.7579
+559,58,Wonderful,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,9,1,0,0,0.5719
+560,59,Fair,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,5,1,0,0,0.3182
+561,60,Very Good,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,8,0.762,0,0.238,0.4927
+562,61,Wonderful,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,9,1,0,0,0.5719
+563,62,Wonderful,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,9,1,0,0,0.5719
+564,63,Lovely staff and room,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,9,0.559,0,0.441,0.5859
+565,64,worth my stay and will stay in future,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,10,0.213,0,0.787,0.2263
+566,65,it’s fine to stay in for quarantine,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,7,0.231,0,0.769,0.2023
+567,66,Very Good,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,8,0.762,0,0.238,0.4927
+568,67,Very Good,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,8,0.762,0,0.238,0.4927
+569,68,Exceptional,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,10,0,0,1,0
+570,69,Very Good,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,8,0.762,0,0.238,0.4927
+571,70,Exceptional,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,10,0,0,1,0
+572,71,An ok hotel but definitely not five stars,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,6,0.462,0,0.538,0.631
+573,72,Wonderful,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,9,1,0,0,0.5719
+574,73,Disappointing,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,4,0,1,0,-0.4939
+575,74,Wonderful,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,9,1,0,0,0.5719
+576,75,Good,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,7,1,0,0,0.4404
+577,76,Wonderful,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,9,1,0,0,0.5719
+578,77,Pleasant,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,6,1,0,0,0.5106
+579,78,Pleasant,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,6,1,0,0,0.5106
+580,79,Wonderful,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,9,1,0,0,0.5719
+581,80,Exceptional,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,10,0,0,1,0
+582,81,A tremendous disappointment,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,5,0,0.767,0.233,-0.5106
+583,82,Exceptional,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,10,0,0,1,0
+584,83,Exceptional,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,10,0,0,1,0
+585,84,Exceptional,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,10,0,0,1,0
+586,85,Exceptional,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,10,0,0,1,0
+587,86,Just so so!!,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,8,0,0,1,0
+588,87,Exceptional,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,10,0,0,1,0
+589,88,Breakfast was amazing and so was the staff all over the hotel. I really felt like home.,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,9,0.32,0,0.68,0.7635
+590,89,Exceptional,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,10,0,0,1,0
+591,90,Quality not equivalent to five stars.,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,5,0,0,1,0
+592,91,Very Good,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,8,0.762,0,0.238,0.4927
+593,92,Pleasant,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,6,1,0,0,0.5106
+594,93,good,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,7,1,0,0,0.4404
+595,94,Very Good,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,8,0.762,0,0.238,0.4927
+596,95,Excellent,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,8.8,1,0,0,0.5719
+597,96,Very Good,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,8,0.762,0,0.238,0.4927
+598,97,Very Good,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,8,0.762,0,0.238,0.4927
+599,98,Very Good,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,8,0.762,0,0.238,0.4927
+600,99,Wonderful,Hotel The Berkeley Hotel Pratunam - SHA Extra Plus,9,1,0,0,0.5719
+601,0,Good,Hotel The Mulberry Bangkok Khaosan Road,7,1,0,0,0.4404
+602,1,Wonderful,Hotel The Mulberry Bangkok Khaosan Road,9,1,0,0,0.5719
+603,2,Very Good,Hotel The Mulberry Bangkok Khaosan Road,8,0.762,0,0.238,0.4927
+604,3,"Ok for short stays, modern but small rooms",Hotel The Mulberry Bangkok Khaosan Road,5,0.186,0,0.814,0.1531
+605,4,Exceptional,Hotel The Mulberry Bangkok Khaosan Road,10,0,0,1,0
+606,5,Wonderful,Hotel The Mulberry Bangkok Khaosan Road,9,1,0,0,0.5719
+607,6,Pleasant,Hotel The Mulberry Bangkok Khaosan Road,6,1,0,0,0.5106
+608,7,Wonderful,Hotel The Mulberry Bangkok Khaosan Road,9,1,0,0,0.5719
+609,8,Exceptional,Hotel The Mulberry Bangkok Khaosan Road,10,0,0,1,0
+610,9,"Comfortable but small rooms, very loud from the street",Hotel The Mulberry Bangkok Khaosan Road,7,0.212,0,0.788,0.2846
+611,10,Exceptional,Hotel The Mulberry Bangkok Khaosan Road,10,0,0,1,0
+612,11,Wonderful,Hotel The Mulberry Bangkok Khaosan Road,9,1,0,0,0.5719
+613,12,Exceptional,Hotel The Mulberry Bangkok Khaosan Road,10,0,0,1,0
+614,13,Fair,Hotel The Mulberry Bangkok Khaosan Road,5,1,0,0,0.3182
+615,14,Very Good,Hotel The Mulberry Bangkok Khaosan Road,8,0.762,0,0.238,0.4927
+616,15,Very Good,Hotel The Mulberry Bangkok Khaosan Road,8,0.762,0,0.238,0.4927
+617,16,The Mulberry Hotel Bangkok,Hotel The Mulberry Bangkok Khaosan Road,5,0,0,1,0
+618,17,Just go for another hotel,Hotel The Mulberry Bangkok Khaosan Road,5,0,0,1,0
+619,18,Very Poor,Hotel The Mulberry Bangkok Khaosan Road,2,0,0.772,0.228,-0.5256
+620,19,Bad,Hotel The Mulberry Bangkok Khaosan Road,1,0,1,0,-0.5423
+621,20,Very Good,Hotel The Mulberry Bangkok Khaosan Road,8,0.762,0,0.238,0.4927
+622,21,Excellent Location - Good Value for Money,Hotel The Mulberry Bangkok Khaosan Road,9,0.75,0,0.25,0.8402
+623,22,Good,Hotel The Mulberry Bangkok Khaosan Road,7,1,0,0,0.4404
+624,23,There is no way to evaluate.,Hotel The Mulberry Bangkok Khaosan Road,8,0,0.306,0.694,-0.296
+625,24,Good,Hotel The Mulberry Bangkok Khaosan Road,7,1,0,0,0.4404
+626,25,Exceptional,Hotel The Mulberry Bangkok Khaosan Road,10,0,0,1,0
+627,26,For backpackers,Hotel The Mulberry Bangkok Khaosan Road,4,0,0,1,0
+628,27,comfortable and location makes this a great hotel as well as helpful staff,Hotel The Mulberry Bangkok Khaosan Road,8,0.62,0,0.38,0.9197
+629,28,Fair,Hotel The Mulberry Bangkok Khaosan Road,5,1,0,0,0.3182
+630,29,"For the price and location, this is an acceptable stay if you’re only staying a night or two.",Hotel The Mulberry Bangkok Khaosan Road,7,0.126,0,0.874,0.3182
+631,30,Very Good,Hotel The Mulberry Bangkok Khaosan Road,8,0.762,0,0.238,0.4927
+632,31,Clean and good located but noisy neighbours,Hotel The Mulberry Bangkok Khaosan Road,7,0.386,0.208,0.406,0.1901
+633,32,"I canceled my reservation upon arrival after seeing the room, upgraded the room for a shorter stay.",Hotel The Mulberry Bangkok Khaosan Road,6,0,0,1,0
+634,33,"it’s a nice hotel, very clean and in a good convenient location.",Hotel The Mulberry Bangkok Khaosan Road,8,0.554,0,0.446,0.8268
+635,34,Very Good,Hotel The Mulberry Bangkok Khaosan Road,8,0.762,0,0.238,0.4927
+636,35,Wonderful,Hotel The Mulberry Bangkok Khaosan Road,9,1,0,0,0.5719
+637,36,perfect location with confort,Hotel The Mulberry Bangkok Khaosan Road,8,0.552,0,0.448,0.5719
+638,37,Exceptional,Hotel The Mulberry Bangkok Khaosan Road,10,0,0,1,0
+639,38,Exceptional,Hotel The Mulberry Bangkok Khaosan Road,10,0,0,1,0
+640,39,Good,Hotel The Mulberry Bangkok Khaosan Road,7,1,0,0,0.4404
+641,40,That sunset is Mad!,Hotel The Mulberry Bangkok Khaosan Road,10,0,0.538,0.462,-0.5411
+642,41,enjoyed our stay - helpful polite staff.,Hotel The Mulberry Bangkok Khaosan Road,7,0.604,0,0.396,0.7269
+643,42,Exceptional,Hotel The Mulberry Bangkok Khaosan Road,10,0,0,1,0
+644,43,Overall we enjoyed our stay here.,Hotel The Mulberry Bangkok Khaosan Road,8,0.398,0,0.602,0.5106
+645,44,after all a pleasant stay,Hotel The Mulberry Bangkok Khaosan Road,8,0.524,0,0.476,0.5106
+646,45,Exceptional,Hotel The Mulberry Bangkok Khaosan Road,10,0,0,1,0
+647,46,Exceptional,Hotel The Mulberry Bangkok Khaosan Road,10,0,0,1,0
+648,47,Poor,Hotel The Mulberry Bangkok Khaosan Road,3,0,1,0,-0.4767
+649,48,Wonderful,Hotel The Mulberry Bangkok Khaosan Road,9,1,0,0,0.5719
+650,49,Wonderful,Hotel The Mulberry Bangkok Khaosan Road,9,1,0,0,0.5719
+651,50,Wonderful,Hotel The Mulberry Bangkok Khaosan Road,9,1,0,0,0.5719
+652,51,Wonderful,Hotel The Mulberry Bangkok Khaosan Road,9.2,1,0,0,0.5719
+653,52,Exceptional,Hotel The Mulberry Bangkok Khaosan Road,10,0,0,1,0
+654,53,Exceptional,Hotel The Mulberry Bangkok Khaosan Road,10,0,0,1,0
+655,54,Good location and nice staff,Hotel The Mulberry Bangkok Khaosan Road,7,0.655,0,0.345,0.6908
+656,55,Basic,Hotel The Mulberry Bangkok Khaosan Road,6,0,0,1,0
+657,56,Sand inside our sheets,Hotel The Mulberry Bangkok Khaosan Road,2,0,0,1,0
+658,57,Very Good,Hotel The Mulberry Bangkok Khaosan Road,8,0.762,0,0.238,0.4927
+659,58,Not impressed,Hotel The Mulberry Bangkok Khaosan Road,5,0,0.719,0.281,-0.3724
+660,59,"perfect spot, not busy, chilled vibe",Hotel The Mulberry Bangkok Khaosan Road,7,0.425,0,0.575,0.5719
+661,60,Good,Hotel The Mulberry Bangkok Khaosan Road,7,1,0,0,0.4404
+662,61,Very Good,Hotel The Mulberry Bangkok Khaosan Road,8,0.762,0,0.238,0.4927
+663,62,Great hotel. Wonderful staff,Hotel The Mulberry Bangkok Khaosan Road,9,0.796,0,0.204,0.8316
+664,63,Exceptional,Hotel The Mulberry Bangkok Khaosan Road,10,0,0,1,0
+665,64,Fair,Hotel The Mulberry Bangkok Khaosan Road,5,1,0,0,0.3182
+666,65,"Great location, good hotel. Empty and cheap, in times of covid",Hotel The Mulberry Bangkok Khaosan Road,8,0.417,0.107,0.476,0.7351
+667,66,Very Good,Hotel The Mulberry Bangkok Khaosan Road,8,0.762,0,0.238,0.4927
+668,67,Wonderful,Hotel The Mulberry Bangkok Khaosan Road,9,1,0,0,0.5719
+669,68,Exceptional,Hotel The Mulberry Bangkok Khaosan Road,10,0,0,1,0
+670,69,Exceptional,Hotel The Mulberry Bangkok Khaosan Road,10,0,0,1,0
+671,70,Disappointing,Hotel The Mulberry Bangkok Khaosan Road,4,0,1,0,-0.4939
+672,71,Superb room and location but reasonable price,Hotel The Mulberry Bangkok Khaosan Road,9,0.298,0,0.702,0.3716
+673,72,Good,Hotel The Mulberry Bangkok Khaosan Road,7,1,0,0,0.4404
+674,73,Excellent Hotel,Hotel The Mulberry Bangkok Khaosan Road,9,0.787,0,0.213,0.5719
+675,74,Very Good,Hotel The Mulberry Bangkok Khaosan Road,8,0.762,0,0.238,0.4927
+676,75,Wonderful,Hotel The Mulberry Bangkok Khaosan Road,9,1,0,0,0.5719
+677,76,Wonderful,Hotel The Mulberry Bangkok Khaosan Road,9,1,0,0,0.5719
+678,77,Disappointing,Hotel The Mulberry Bangkok Khaosan Road,4,0,1,0,-0.4939
+679,78,Pleasant,Hotel The Mulberry Bangkok Khaosan Road,6,1,0,0,0.5106
+680,79,Very Good,Hotel The Mulberry Bangkok Khaosan Road,8,0.762,0,0.238,0.4927
+681,80,5 Star!,Hotel The Mulberry Bangkok Khaosan Road,10,0,0,1,0
+682,81,It was ok,Hotel The Mulberry Bangkok Khaosan Road,7,0.524,0,0.476,0.296
+683,82,Good place to stay on Khao San Road,Hotel The Mulberry Bangkok Khaosan Road,9,0.293,0,0.707,0.4404
+684,83,Very Good,Hotel The Mulberry Bangkok Khaosan Road,8,0.762,0,0.238,0.4927
+685,84,Wonderful,Hotel The Mulberry Bangkok Khaosan Road,9,1,0,0,0.5719
+686,85,Quiet room in a super busy area,Hotel The Mulberry Bangkok Khaosan Road,10,0.438,0,0.562,0.5994
+687,86,Wonderful,Hotel The Mulberry Bangkok Khaosan Road,9,1,0,0,0.5719
+688,87,Exceptional,Hotel The Mulberry Bangkok Khaosan Road,10,0,0,1,0
+689,88,Wonderful,Hotel The Mulberry Bangkok Khaosan Road,9,1,0,0,0.5719
+690,89,Wonderful,Hotel The Mulberry Bangkok Khaosan Road,9,1,0,0,0.5719
+691,90,Disappointing,Hotel The Mulberry Bangkok Khaosan Road,4,0,1,0,-0.4939
+692,91,Very Good,Hotel The Mulberry Bangkok Khaosan Road,8,0.762,0,0.238,0.4927
+693,92,Wonderful,Hotel The Mulberry Bangkok Khaosan Road,9,1,0,0,0.5719
+694,93,Exceptional,Hotel The Mulberry Bangkok Khaosan Road,10,0,0,1,0
+695,94,Pleasant,Hotel The Mulberry Bangkok Khaosan Road,6.2,1,0,0,0.5106
+696,95,Very Good,Hotel The Mulberry Bangkok Khaosan Road,8,0.762,0,0.238,0.4927
+697,96,Excellent,Hotel The Mulberry Bangkok Khaosan Road,8.8,1,0,0,0.5719
+698,97,Best Deal in Khao San,Hotel The Mulberry Bangkok Khaosan Road,9.2,0.512,0,0.488,0.6369
+699,98,Exceptional,Hotel The Mulberry Bangkok Khaosan Road,9.6,0,0,1,0
+700,99,Exceptional,Hotel The Mulberry Bangkok Khaosan Road,10,0,0,1,0
+701,0,Poor,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,3,0,1,0,-0.4767
+702,1,"Room size is good, location also ok, rooms are in old style",Hotel Ambassador Hotel Bangkok - SHA Extra Plus,5,0.338,0,0.662,0.6249
+703,2,Wonderful,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+704,3,Wonderful,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+705,4,Good Location,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,7,0.744,0,0.256,0.4404
+706,5,Good,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,7,1,0,0,0.4404
+707,6,Fair,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,5,1,0,0,0.3182
+708,7,Ambassador hotel,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,8,0,0,1,0
+709,8,Exceptional,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,10,0,0,1,0
+710,9,in general pleasant stay,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,7,0.524,0,0.476,0.5106
+711,10,Good,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,7,1,0,0,0.4404
+712,11,pleasant and fun stay regardless of few negatives,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,8,0.524,0,0.476,0.765
+713,12,"below average hotel, in a great location. nice budget hotel. get what you pay for.",Hotel Ambassador Hotel Bangkok - SHA Extra Plus,7,0.358,0.073,0.57,0.7579
+714,13,best place,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,10,0.808,0,0.192,0.6369
+715,14,Wonderful,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+716,15,Very Good,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,8,0.762,0,0.238,0.4927
+717,16,Exceptional,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,10,0,0,1,0
+718,17,Pleasant,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,6,1,0,0,0.5106
+719,18,Exceptional,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,10,0,0,1,0
+720,19,Very Good,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,8,0.762,0,0.238,0.4927
+721,20,Very Good,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,8,0.762,0,0.238,0.4927
+722,21,Poor,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,3,0,1,0,-0.4767
+723,22,Value for money hotel,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,7,0.444,0,0.556,0.34
+724,23,Will certainly book this hotel again,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,9,0.324,0,0.676,0.34
+725,24,"The bed was wonderful as always, should be finished with construction when I return again",Hotel Ambassador Hotel Bangkok - SHA Extra Plus,3,0.222,0,0.778,0.5719
+726,25,Wonderful,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+727,26,Very Good,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,8,0.762,0,0.238,0.4927
+728,27,Very Good,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,8,0.762,0,0.238,0.4927
+729,28,Disappointing,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,4,0,1,0,-0.4939
+730,29,Nice Hotel - need some improvements.,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,6,0.63,0,0.37,0.6249
+731,30,Exceptional,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,10,0,0,1,0
+732,31,"Always stay at ambassador, but this time no hot water.",Hotel Ambassador Hotel Bangkok - SHA Extra Plus,7,0,0.237,0.763,-0.4215
+733,32,Parking is quite narrow. And must have staff to help hail the car as well,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,7,0.337,0,0.663,0.6249
+734,33,Scary,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,1,0,1,0,-0.4939
+735,34,Very Good,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,8,0.762,0,0.238,0.4927
+736,35,Very Good,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,8,0.762,0,0.238,0.4927
+737,36,Great location and OK value during Pandemic.,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,7,0.702,0,0.298,0.8567
+738,37,Fair,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,5,1,0,0,0.3182
+739,38,For 2 days stay it was very good,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,8,0.347,0,0.653,0.4927
+740,39,Exceptional,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,10,0,0,1,0
+741,40,Wonderful,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+742,41,Exceptional,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,10,0,0,1,0
+743,42,Good,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,7,1,0,0,0.4404
+744,43,Very Good,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,8,0.762,0,0.238,0.4927
+745,44,Fair,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,5,1,0,0,0.3182
+746,45,Wonderful,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,9.2,1,0,0,0.5719
+747,46,Pleasant,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,6.2,1,0,0,0.5106
+748,47,Exceptional,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,9.6,0,0,1,0
+749,48,Great location and warm people but little else,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,5,0.4,0,0.6,0.4588
+750,49,Very Good,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,8,0.762,0,0.238,0.4927
+751,50,Fair,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,5.4,1,0,0,0.3182
+752,51,Poor,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,3,0,1,0,-0.4767
+753,52,Overall my stay was good. the location was in a very convenient location.,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,6,0.209,0,0.791,0.4404
+754,53,Very Good,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,8,0.762,0,0.238,0.4927
+755,54,Good,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,7.9,1,0,0,0.4404
+756,55,Pleasant,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,6,1,0,0,0.5106
+757,56,"Ok, but not the best.",Hotel Ambassador Hotel Bangkok - SHA Extra Plus,7,0.175,0.497,0.328,-0.6062
+758,57,Wonderful,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,9.2,1,0,0,0.5719
+759,58,Fantastic,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,10,1,0,0,0.5574
+760,59,Disappointing,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,4.6,0,1,0,-0.4939
+761,60,Fair,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,5.4,1,0,0,0.3182
+762,61,Very Good,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,8.3,0.762,0,0.238,0.4927
+763,62,Excellent,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,8.8,1,0,0,0.5719
+764,63,Excellent,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,8.8,1,0,0,0.5719
+765,64,Wonderful,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,9.2,1,0,0,0.5719
+766,65,Good,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,8,1,0,0,0.4404
+767,66,Good,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,7,1,0,0,0.4404
+768,67,Very Good,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,8,0.762,0,0.238,0.4927
+769,68,Wonderful,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+770,69,Very Good,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,8.3,0.762,0,0.238,0.4927
+771,70,Everyone was very nice and friendly.,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,8,0.621,0,0.379,0.762
+772,71,"Dirty, aged large hotel, needs demolishing",Hotel Ambassador Hotel Bangkok - SHA Extra Plus,4,0,0.367,0.633,-0.4404
+773,72,Honest review,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,7,0.767,0,0.233,0.5106
+774,73,Very Good,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,8,0.762,0,0.238,0.4927
+775,74,Wonderful,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+776,75,Pleasant,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,6,1,0,0,0.5106
+777,76,"I love the gym, pool, and boxing area along with great location",Hotel Ambassador Hotel Bangkok - SHA Extra Plus,10,0.48,0,0.52,0.8519
+778,77,Good,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,7,1,0,0,0.4404
+779,78,Good,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,7,1,0,0,0.4404
+780,79,Exceptional,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,10,0,0,1,0
+781,80,Very Good,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,8,0.762,0,0.238,0.4927
+782,81,Very Good,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,8,0.762,0,0.238,0.4927
+783,82,Good,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,7,1,0,0,0.4404
+784,83,Disappointing,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,4.6,0,1,0,-0.4939
+785,84,Exceptional,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,10,0,0,1,0
+786,85,Pleasant,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,6,1,0,0,0.5106
+787,86,Exceptional,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,10,0,0,1,0
+788,87,Fair,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,5.4,1,0,0,0.3182
+789,88,Pleasant,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,6.7,1,0,0,0.5106
+790,89,Value for money,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,8,0.545,0,0.455,0.34
+791,90,Very Good,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,8,0.762,0,0.238,0.4927
+792,91,Pleasant,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,6,1,0,0,0.5106
+793,92,Exceptional,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,10,0,0,1,0
+794,93,Had a great time visiting Bangkok Thailand.,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,10,0.451,0,0.549,0.6249
+795,94,Excellent,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,10,1,0,0,0.5719
+796,95,Disappointing,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,4,0,1,0,-0.4939
+797,96,I won't ever stay there again,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,2,0,0,1,0
+798,97,Very Good,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,8.3,0.762,0,0.238,0.4927
+799,98,"The hotel, specifically the bathroom, is way too dated to be considered a 4-star hotel.",Hotel Ambassador Hotel Bangkok - SHA Extra Plus,3,0,0,1,0
+800,99,Pleasant,Hotel Ambassador Hotel Bangkok - SHA Extra Plus,6,1,0,0,0.5106
+801,0,Exceptional,Hotel Patumwan House,10,0,0,1,0
+802,1,Exceptional,Hotel Patumwan House,10,0,0,1,0
+803,2,okay,Hotel Patumwan House,7,1,0,0,0.2263
+804,3,Great value for money.,Hotel Patumwan House,9,0.765,0,0.235,0.7579
+805,4,Wonderful,Hotel Patumwan House,9,1,0,0,0.5719
+806,5,Very Good,Hotel Patumwan House,8,0.762,0,0.238,0.4927
+807,6,Great location.,Hotel Patumwan House,7,0.804,0,0.196,0.6249
+808,7,Fine central hotel,Hotel Patumwan House,7,0.474,0,0.526,0.2023
+809,8,Excellent,Hotel Patumwan House,8.8,1,0,0,0.5719
+810,9,"Great hidden gem in central Bangkok, Patumwan House is my new go to hotel for future trips.",Hotel Patumwan House,8,0.204,0,0.796,0.6249
+811,10,Very Good,Hotel Patumwan House,8,0.762,0,0.238,0.4927
+812,11,"Its was a good stay, no drama, great service.",Hotel Patumwan House,9,0.493,0.155,0.352,0.7003
+813,12,"Like an eccentric Auntie, Pathumwan House is full of quirky charm.",Hotel Patumwan House,9,0.366,0,0.634,0.6369
+814,13,Exceptional,Hotel Patumwan House,10,0,0,1,0
+815,14,Reasonable,Hotel Patumwan House,9,0,0,1,0
+816,15,i wish to be there next time so cool to be there🥰❤️😘😘❤️❤️,Hotel Patumwan House,7,0.387,0,0.613,0.6899
+817,16,Exceptional,Hotel Patumwan House,10,0,0,1,0
+818,17,as good as always,Hotel Patumwan House,9,0.492,0,0.508,0.4404
+819,18,Exceptional,Hotel Patumwan House,10,0,0,1,0
+820,19,Exceptional,Hotel Patumwan House,10,0,0,1,0
+821,20,"Very good, good location",Hotel Patumwan House,9,0.762,0,0.238,0.7496
+822,21,Wonderful,Hotel Patumwan House,9,1,0,0,0.5719
+823,22,Wonderful,Hotel Patumwan House,9,1,0,0,0.5719
+824,23,Very Good,Hotel Patumwan House,8,0.762,0,0.238,0.4927
+825,24,Good,Hotel Patumwan House,7,1,0,0,0.4404
+826,25,Great location to the malls,Hotel Patumwan House,9,0.506,0,0.494,0.6249
+827,26,"Extraordinarily central but at the same time quiet location, the very friendly staff",Hotel Patumwan House,8,0.283,0,0.717,0.6946
+828,27,Clean Comfortable and Convenient location,Hotel Patumwan House,8,0.667,0,0.333,0.7184
+829,28,Good,Hotel Patumwan House,7,1,0,0,0.4404
+830,29,Exceptional,Hotel Patumwan House,10,0,0,1,0
+831,30,Very Good,Hotel Patumwan House,8,0.762,0,0.238,0.4927
+832,31,Spend a bit more money and find somewhere better,Hotel Patumwan House,3,0.293,0,0.707,0.4404
+833,32,Wonderful,Hotel Patumwan House,9,1,0,0,0.5719
+834,33,Good,Hotel Patumwan House,7,1,0,0,0.4404
+835,34,"Comfortable, but could be better.",Hotel Patumwan House,7,0.667,0,0.333,0.7184
+836,35,Exceptional,Hotel Patumwan House,10,0,0,1,0
+837,36,Very Good,Hotel Patumwan House,8,0.762,0,0.238,0.4927
+838,37,Wonderful,Hotel Patumwan House,9,1,0,0,0.5719
+839,38,Pleasant,Hotel Patumwan House,6,1,0,0,0.5106
+840,39,"as great as ever, see you again next time.",Hotel Patumwan House,10,0.339,0,0.661,0.6249
+841,40,Great value and location,Hotel Patumwan House,8,0.765,0,0.235,0.7579
+842,41,Exceptional,Hotel Patumwan House,10,0,0,1,0
+843,42,recommended if you want near Malls and BTS station.,Hotel Patumwan House,10,0.307,0,0.693,0.2732
+844,43,efficient,Hotel Patumwan House,8,1,0,0,0.4215
+845,44,not too good,Hotel Patumwan House,8,0,0.546,0.454,-0.3412
+846,45,Very Good,Hotel Patumwan House,8,0.762,0,0.238,0.4927
+847,46,Good,Hotel Patumwan House,7,1,0,0,0.4404
+848,47,"Great stay, great staff, great location.",Hotel Patumwan House,9,0.804,0,0.196,0.9231
+849,48,Wonderful,Hotel Patumwan House,9,1,0,0,0.5719
+850,49,Good,Hotel Patumwan House,7,1,0,0,0.4404
+851,50,Wonderful,Hotel Patumwan House,9,1,0,0,0.5719
+852,51,Exceptional,Hotel Patumwan House,10,0,0,1,0
+853,52,Exceptional,Hotel Patumwan House,10,0,0,1,0
+854,53,Very Good,Hotel Patumwan House,8,0.762,0,0.238,0.4927
+855,54,Convenient place close to bts,Hotel Patumwan House,9,0,0,1,0
+856,55,Good,Hotel Patumwan House,7,1,0,0,0.4404
+857,56,I comfortably able to recommend,Hotel Patumwan House,10,0.726,0,0.274,0.6486
+858,57,Exceptional,Hotel Patumwan House,10,0,0,1,0
+859,58,Wonderful,Hotel Patumwan House,9,1,0,0,0.5719
+860,59,Friendly staff,Hotel Patumwan House,7,0.762,0,0.238,0.4939
+861,60,Very Good,Hotel Patumwan House,8,0.762,0,0.238,0.4927
+862,61,Wonderful,Hotel Patumwan House,9,1,0,0,0.5719
+863,62,Exceptional,Hotel Patumwan House,10,0,0,1,0
+864,63,Very Good,Hotel Patumwan House,8,0.762,0,0.238,0.4927
+865,64,Perfect 10👍,Hotel Patumwan House,10,0.787,0,0.213,0.5719
+866,65,Very Good,Hotel Patumwan House,8,0.762,0,0.238,0.4927
+867,66,Very Good,Hotel Patumwan House,8,0.762,0,0.238,0.4927
+868,67,Exceptional,Hotel Patumwan House,10,0,0,1,0
+869,68,Wonderful,Hotel Patumwan House,9,1,0,0,0.5719
+870,69,Very Good,Hotel Patumwan House,8,0.762,0,0.238,0.4927
+871,70,Bad,Hotel Patumwan House,1,0,1,0,-0.5423
+872,71,"Acceptable room rate, surrounded by famous shopping malls.1",Hotel Patumwan House,7,0.247,0,0.753,0.3182
+873,72,Very Good,Hotel Patumwan House,8,0.762,0,0.238,0.4927
+874,73,Exceptional,Hotel Patumwan House,10,0,0,1,0
+875,74,Fair,Hotel Patumwan House,5,1,0,0,0.3182
+876,75,The staff is so nice and they stay active 24 hrs. The room is soooooo clean and soooooooooooo wide!!! I'm so surpris,Hotel Patumwan House,9,0.342,0,0.658,0.8718
+877,76,Pleasant and comfortable for several reasons. Very helpful and kind staff,Hotel Patumwan House,9,0.656,0,0.344,0.924
+878,77,Exceptional,Hotel Patumwan House,10,0,0,1,0
+879,78,Wonderful,Hotel Patumwan House,9,1,0,0,0.5719
+880,79,Exceptional,Hotel Patumwan House,10,0,0,1,0
+881,80,Wonderful,Hotel Patumwan House,9,1,0,0,0.5719
+882,81,Exceptional,Hotel Patumwan House,10,0,0,1,0
+883,82,Very cheap excellent room and very nice location! Recommended!!!,Hotel Patumwan House,10,0.632,0,0.368,0.8835
+884,83,Wonderful,Hotel Patumwan House,9,1,0,0,0.5719
+885,84,Good,Hotel Patumwan House,7,1,0,0,0.4404
+886,85,Wonderful,Hotel Patumwan House,9,1,0,0,0.5719
+887,86,Very Good,Hotel Patumwan House,8,0.762,0,0.238,0.4927
+888,87,Exceptional,Hotel Patumwan House,10,0,0,1,0
+889,88,Wonderful,Hotel Patumwan House,9,1,0,0,0.5719
+890,89,Exceptional,Hotel Patumwan House,10,0,0,1,0
+891,90,well spent,Hotel Patumwan House,8,0.677,0,0.323,0.2732
+892,91,Overall it was a fantastic stay with a great location and convenient for travelling around.,Hotel Patumwan House,10,0.412,0,0.588,0.8271
+893,92,Wonderful,Hotel Patumwan House,9,1,0,0,0.5719
+894,93,"It’s near MBK, Siam Discovery. So, the location is perfect. The room is so big.",Hotel Patumwan House,10,0.209,0,0.791,0.5719
+895,94,Good trip,Hotel Patumwan House,9,0.744,0,0.256,0.4404
+896,95,Very Good,Hotel Patumwan House,8,0.762,0,0.238,0.4927
+897,96,fun,Hotel Patumwan House,9,1,0,0,0.5106
+898,97,Good,Hotel Patumwan House,7.5,1,0,0,0.4404
+899,98,Very Good,Hotel Patumwan House,8,0.762,0,0.238,0.4927
+900,99,Great location,Hotel Patumwan House,9,0.804,0,0.196,0.6249
+901,0,Beyond expectations,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0,0,1,0
+902,1,Great stay. Would stay here again,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,9,0.451,0,0.549,0.6249
+903,2,"A good hotel for customers who need "" A Home away from Home"".",Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,9,0.244,0,0.756,0.4404
+904,3,Very Good,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,8,0.762,0,0.238,0.4927
+905,4,"Very clean and comfortable, nice rooftop pool and good gym",Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0.671,0,0.329,0.9053
+906,5,Good,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,7,1,0,0,0.4404
+907,6,Maitria Mode Sukhumvit beyond expectations....,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0,0,1,0
+908,7,Very Good,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,8,0.762,0,0.238,0.4927
+909,8,Wonderful,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,9,1,0,0,0.5719
+910,9,Great hotel with excellent staff especially the young girl last night and this morning,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0.394,0,0.606,0.8316
+911,10,Wonderful,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,9,1,0,0,0.5719
+912,11,Very Good,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,8,0.762,0,0.238,0.4927
+913,12,Exceptional,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0,0,1,0
+914,13,Good,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,7,1,0,0,0.4404
+915,14,Good location and great food,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0.7,0,0.3,0.7906
+916,15,Wonderful,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,9,1,0,0,0.5719
+917,16,Exceptional,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0,0,1,0
+918,17,Exceptional,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0,0,1,0
+919,18,Good value for money hotel in quiet location but near to the bright lights of Sukhumvit.,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,8,0.366,0,0.634,0.7579
+920,19,Very Good,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,8,0.762,0,0.238,0.4927
+921,20,Exceptional,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0,0,1,0
+922,21,Bad,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,1,0,1,0,-0.5423
+923,22,Very Good,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,8,0.762,0,0.238,0.4927
+924,23,Exceptional,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0,0,1,0
+925,24,Good,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,7,1,0,0,0.4404
+926,25,Wonderful,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,9,1,0,0,0.5719
+927,26,Good,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,7,1,0,0,0.4404
+928,27,"Hotel and staff excellent, nothing too much trouble",Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0.498,0,0.502,0.7147
+929,28,Super pool and convinient services,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0.494,0,0.506,0.5994
+930,29,Exceptional,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0,0,1,0
+931,30,Exceptional,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,9.6,0,0,1,0
+932,31,Exceptional,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,9.6,0,0,1,0
+933,32,Fabuleux,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,9,0,0,1,0
+934,33,Wonderful,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,9,1,0,0,0.5719
+935,34,Exceptional,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0,0,1,0
+936,35,Exceptional,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0,0,1,0
+937,36,Good but not perfect,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,8,0.245,0.503,0.252,-0.4673
+938,37,Wonderful,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,9.2,1,0,0,0.5719
+939,38,Wonderful,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,9,1,0,0,0.5719
+940,39,Exceptional,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0,0,1,0
+941,40,Exceptional,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0,0,1,0
+942,41,Great place for a comfortable break with bonus of lovely rooftop pool and bar.,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,8,0.62,0,0.38,0.9403
+943,42,Exceptional,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0,0,1,0
+944,43,Exceptional,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0,0,1,0
+945,44,Very Good,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,8.3,0.762,0,0.238,0.4927
+946,45,Very Good,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,8,0.762,0,0.238,0.4927
+947,46,Excellent,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,8.8,1,0,0,0.5719
+948,47,"Great place, will definitely stay here again",Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0.576,0,0.424,0.7783
+949,48,This hotel is a little oasis in the madness that is Bangkok.,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0,0.225,0.775,-0.4404
+950,49,Good,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,7.9,1,0,0,0.4404
+951,50,Wonderful,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,9.2,1,0,0,0.5719
+952,51,Excellent,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,8.8,1,0,0,0.5719
+953,52,Very Good,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,8,0.762,0,0.238,0.4927
+954,53,The food,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,9,0,0,1,0
+955,54,Never fails to please!,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0.398,0.298,0.304,0.1685
+956,55,"Excellent place, good location and very nice staff",Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0.66,0,0.34,0.8655
+957,56,Very comfortable stay.,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,9,0.642,0,0.358,0.5563
+958,57,Wonderful,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,9.2,1,0,0,0.5719
+959,58,"Fantastic, nothing more to add",Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0.474,0,0.526,0.5574
+960,59,Nice hotel,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,9.2,0.737,0,0.263,0.4215
+961,60,Wonderful,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,9.2,1,0,0,0.5719
+962,61,"Lovely hotel, great location.",Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0.798,0,0.202,0.836
+963,62,Service is the best!,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,9.2,0.6,0,0.4,0.6696
+964,63,Very Good,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,8.3,0.762,0,0.238,0.4927
+965,64,Excellent,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,8.8,1,0,0,0.5719
+966,65,Very Good,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,8,0.762,0,0.238,0.4927
+967,66,Wouldn't go again...,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,6.7,0,0,1,0
+968,67,Amazing staff and great view and ambiance,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,9.2,0.612,0,0.388,0.836
+969,68,Value for money and a quality experience,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0.324,0,0.676,0.34
+970,69,As good as always!,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0.516,0,0.484,0.4926
+971,70,Very Good,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,8.3,0.762,0,0.238,0.4927
+972,71,Exceptional,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0,0,1,0
+973,72,Great modern hotel,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,9.2,0.672,0,0.328,0.6249
+974,73,Exceptional,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0,0,1,0
+975,74,Great hotel,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,9.5,0.804,0,0.196,0.6249
+976,75,Exceptional,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,9.6,0,0,1,0
+977,76,Good,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,7,1,0,0,0.4404
+978,77,Exceptional,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0,0,1,0
+979,78,Good quality stay and value for money,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,8.3,0.515,0,0.485,0.6486
+980,79,Affordable comfort,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,8.3,0.714,0,0.286,0.3612
+981,80,Excellent. Will definitely recommend,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,8.3,0.899,0,0.101,0.836
+982,81,Great stay,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,9.2,0.804,0,0.196,0.6249
+983,82,Really great find and wonderful staff and management.,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0.574,0,0.426,0.8439
+984,83,A nice city getaway...,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,9.2,0.583,0,0.417,0.4215
+985,84,U again!,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,9.6,0,0,1,0
+986,85,Good,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,7.5,1,0,0,0.4404
+987,86,Good,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,7.5,1,0,0,0.4404
+988,87,Exceptional,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0,0,1,0
+989,88,Exceptional,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,9.6,0,0,1,0
+990,89,24hr Suite - Great Choice!,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0.594,0,0.406,0.6588
+991,90,Exceptional,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0,0,1,0
+992,91,Exceptional,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0,0,1,0
+993,92,So good.,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0.762,0,0.238,0.4927
+994,93,Pleasant stay - good hotel and staff but not in the easiest location,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,8.8,0.255,0.186,0.559,0.0263
+995,94,Excellent,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,8.8,1,0,0,0.5719
+996,95,Exceptional,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,9.6,0,0,1,0
+997,96,Exceptional,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0,0,1,0
+998,97,Exceptional,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0,0,1,0
+999,98,Exceptional,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,9.6,0,0,1,0
+1000,99,Awesome Hotel,Hotel Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,10,0.804,0,0.196,0.6249
+1001,0,Exceptional,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0,0,1,0
+1002,1,Nice and very welcoming,Hotel The Quarter Silom by UHG - SHA Extra Plus,8,0.75,0,0.25,0.7178
+1003,2,Very Good,Hotel The Quarter Silom by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1004,3,Excellent value for money. Spot on stay 👍🏼,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0.504,0,0.496,0.7269
+1005,4,Wonderful,Hotel The Quarter Silom by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1006,5,Pleasant,Hotel The Quarter Silom by UHG - SHA Extra Plus,6,1,0,0,0.5106
+1007,6,Thank you,Hotel The Quarter Silom by UHG - SHA Extra Plus,9,0.714,0,0.286,0.3612
+1008,7,Exceptional,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0,0,1,0
+1009,8,I'll definitely visit the place again.,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0.351,0,0.649,0.4019
+1010,9,Good,Hotel The Quarter Silom by UHG - SHA Extra Plus,7,1,0,0,0.4404
+1011,10,Very Good,Hotel The Quarter Silom by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1012,11,Exceptional,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0,0,1,0
+1013,12,clean and comfort,Hotel The Quarter Silom by UHG - SHA Extra Plus,8,0.839,0,0.161,0.6369
+1014,13,Wonderful,Hotel The Quarter Silom by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1015,14,Good,Hotel The Quarter Silom by UHG - SHA Extra Plus,7,1,0,0,0.4404
+1016,15,Pleasant,Hotel The Quarter Silom by UHG - SHA Extra Plus,6,1,0,0,0.5106
+1017,16,A great hotel in the center of silom,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0.406,0,0.594,0.6249
+1018,17,Exceptional,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0,0,1,0
+1019,18,Very Good,Hotel The Quarter Silom by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1020,19,Good stay for short periods,Hotel The Quarter Silom by UHG - SHA Extra Plus,6,0.42,0,0.58,0.4404
+1021,20,Exceptional,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0,0,1,0
+1022,21,Exceptional,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0,0,1,0
+1023,22,Fair,Hotel The Quarter Silom by UHG - SHA Extra Plus,5,1,0,0,0.3182
+1024,23,Exceptional,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0,0,1,0
+1025,24,Good,Hotel The Quarter Silom by UHG - SHA Extra Plus,7,1,0,0,0.4404
+1026,25,Very Good,Hotel The Quarter Silom by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1027,26,Overall a good stay just would have liked a little bit more sleep during the afternoon.,Hotel The Quarter Silom by UHG - SHA Extra Plus,9,0.322,0,0.678,0.6908
+1028,27,Exceptional,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0,0,1,0
+1029,28,Exceptional,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0,0,1,0
+1030,29,Good stay for a fair price!,Hotel The Quarter Silom by UHG - SHA Extra Plus,6,0.647,0,0.353,0.6696
+1031,30,Wonderful,Hotel The Quarter Silom by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1032,31,Wonderful,Hotel The Quarter Silom by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1033,32,The perfect Silom hotel for the gay couple!,Hotel The Quarter Silom by UHG - SHA Extra Plus,9,0.363,0,0.637,0.6114
+1034,33,Exceptional,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0,0,1,0
+1035,34,Exceptional,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0,0,1,0
+1036,35,Very Good,Hotel The Quarter Silom by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1037,36,Good,Hotel The Quarter Silom by UHG - SHA Extra Plus,7,1,0,0,0.4404
+1038,37,recommended!!! worth the price!!!,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0.709,0,0.291,0.5951
+1039,38,the best in Silom,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0.583,0,0.417,0.6369
+1040,39,Exceptional,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0,0,1,0
+1041,40,Exceptional,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0,0,1,0
+1042,41,Fair,Hotel The Quarter Silom by UHG - SHA Extra Plus,5,1,0,0,0.3182
+1043,42,Wonderful,Hotel The Quarter Silom by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1044,43,Exceptional,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0,0,1,0
+1045,44,Wonderful,Hotel The Quarter Silom by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1046,45,Very nice place that was priced well below its value,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0.52,0,0.48,0.7645
+1047,46,Fair,Hotel The Quarter Silom by UHG - SHA Extra Plus,5,1,0,0,0.3182
+1048,47,Good,Hotel The Quarter Silom by UHG - SHA Extra Plus,7,1,0,0,0.4404
+1049,48,Thank you,Hotel The Quarter Silom by UHG - SHA Extra Plus,8,0.714,0,0.286,0.3612
+1050,49,Wonderful,Hotel The Quarter Silom by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1051,50,Pleasant,Hotel The Quarter Silom by UHG - SHA Extra Plus,6,1,0,0,0.5106
+1052,51,"Great hotel, great staff, great stay",Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0.804,0,0.196,0.9231
+1053,52,Wonderful,Hotel The Quarter Silom by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1054,53,Ts,Hotel The Quarter Silom by UHG - SHA Extra Plus,8,0,0,1,0
+1055,54,Exceptional,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0,0,1,0
+1056,55,Very Good,Hotel The Quarter Silom by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1057,56,Very Good,Hotel The Quarter Silom by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1058,57,great hotel with excellent location,Hotel The Quarter Silom by UHG - SHA Extra Plus,8,0.722,0,0.278,0.8316
+1059,58,Good,Hotel The Quarter Silom by UHG - SHA Extra Plus,7,1,0,0,0.4404
+1060,59,Exceptional,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0,0,1,0
+1061,60,Exceptional,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0,0,1,0
+1062,61,Exceptional,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0,0,1,0
+1063,62,Wonderful,Hotel The Quarter Silom by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1064,63,BE AWARE!! The staff are SCAMERS!!,Hotel The Quarter Silom by UHG - SHA Extra Plus,4,0,0,1,0
+1065,64,Very Good,Hotel The Quarter Silom by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1066,65,Wonderful,Hotel The Quarter Silom by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1067,66,Wonderful,Hotel The Quarter Silom by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1068,67,Number 1 in Bangkok,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0.394,0,0.606,0.0772
+1069,68,Very Good,Hotel The Quarter Silom by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1070,69,Very Good,Hotel The Quarter Silom by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1071,70,Exceptional,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0,0,1,0
+1072,71,Exceptional,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0,0,1,0
+1073,72,Pleasant,Hotel The Quarter Silom by UHG - SHA Extra Plus,6,1,0,0,0.5106
+1074,73,Exceptional,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0,0,1,0
+1075,74,Exceptional,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0,0,1,0
+1076,75,Exceptional,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0,0,1,0
+1077,76,Exceptional,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0,0,1,0
+1078,77,Excellent staffs and clean room.,Hotel The Quarter Silom by UHG - SHA Extra Plus,9,0.681,0,0.319,0.7506
+1079,78,Wonderful,Hotel The Quarter Silom by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1080,79,Wonderful,Hotel The Quarter Silom by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1081,80,Exceptional,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0,0,1,0
+1082,81,Exceptional,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0,0,1,0
+1083,82,Very Good,Hotel The Quarter Silom by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1084,83,Exceptional,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0,0,1,0
+1085,84,"With the exception of noisy and drunk guests, my stay was fine.",Hotel The Quarter Silom by UHG - SHA Extra Plus,7,0.121,0.275,0.604,-0.3182
+1086,85,Bad,Hotel The Quarter Silom by UHG - SHA Extra Plus,1,0,1,0,-0.5423
+1087,86,Exceptional,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0,0,1,0
+1088,87,Exceptional,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0,0,1,0
+1089,88,Pleasant,Hotel The Quarter Silom by UHG - SHA Extra Plus,6,1,0,0,0.5106
+1090,89,Exceptional,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0,0,1,0
+1091,90,Exceptional,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0,0,1,0
+1092,91,Would definitely stay there again!,Hotel The Quarter Silom by UHG - SHA Extra Plus,9,0.428,0,0.572,0.4574
+1093,92,Exceptional,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0,0,1,0
+1094,93,Wonderful,Hotel The Quarter Silom by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1095,94,Wonderful,Hotel The Quarter Silom by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1096,95,Geat Hotel but felt bit racism by some staff,Hotel The Quarter Silom by UHG - SHA Extra Plus,9,0,0.414,0.586,-0.7684
+1097,96,Exceptional,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0,0,1,0
+1098,97,Best Hotel in Bangkok?,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0.583,0,0.417,0.6369
+1099,98,Very Good,Hotel The Quarter Silom by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1100,99,Exceptional,Hotel The Quarter Silom by UHG - SHA Extra Plus,10,0,0,1,0
+1101,0,Very Good,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1102,1,I was back and I will be back,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,10,0,0,1,0
+1103,2,Exceptional,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,10,0,0,1,0
+1104,3,Exceptional,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,10,0,0,1,0
+1105,4,good,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,8,1,0,0,0.4404
+1106,5,Very Good,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1107,6,Very Good,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1108,7,Wonderful,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1109,8,Good,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,7,1,0,0,0.4404
+1110,9,Exceptional,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,10,0,0,1,0
+1111,10,Fair,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,5,1,0,0,0.3182
+1112,11,Very Good,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1113,12,"Overall good experience, would recommend",Hotel The Quarter Phromphong by UHG - SHA Extra Plus,7,0.643,0,0.357,0.6597
+1114,13,Very Good,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1115,14,Poor,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,3,0,1,0,-0.4767
+1116,15,Wonderful,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1117,16,Wonderful,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1118,17,Very Good,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1119,18,Would happily return.,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,9,0.643,0,0.357,0.5574
+1120,19,Very Good,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1121,20,Good,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,7,1,0,0,0.4404
+1122,21,Fair,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,5,1,0,0,0.3182
+1123,22,"Fab place, amazing pool",Hotel The Quarter Phromphong by UHG - SHA Extra Plus,9,0.773,0,0.227,0.7783
+1124,23,i will stay there again next time,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,9,0,0,1,0
+1125,24,Bad,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,1,0,1,0,-0.5423
+1126,25,Good,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,7,1,0,0,0.4404
+1127,26,Exceptional,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,10,0,0,1,0
+1128,27,Good,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,7,1,0,0,0.4404
+1129,28,Very Good,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1130,29,Value for money,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,7,0.545,0,0.455,0.34
+1131,30,Very Good,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1132,31,Wonderful,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1133,32,Wonderful,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1134,33,Exceptional,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,10,0,0,1,0
+1135,34,Exceptional,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,10,0,0,1,0
+1136,35,Wonderful,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1137,36,Enjoyable stay,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,10,0.744,0,0.256,0.4404
+1138,37,Wonderful,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1139,38,Exceptional,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,10,0,0,1,0
+1140,39,Excellent choice for stay in Bangkok,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,10,0.425,0,0.575,0.5719
+1141,40,Very Good,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1142,41,Wonderful,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1143,42,Exceptional,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,10,0,0,1,0
+1144,43,Comfortable hotel in a good location.,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,9,0.674,0,0.326,0.7351
+1145,44,Great stay in Sukhumvit area,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,9,0.506,0,0.494,0.6249
+1146,45,Very Good,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1147,46,Fair,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,5,1,0,0,0.3182
+1148,47,Pleasant,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,6,1,0,0,0.5106
+1149,48,Very Good,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1150,49,Exceptional,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,10,0,0,1,0
+1151,50,Very Good,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1152,51,Wonderful,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1153,52,Very Good,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1154,53,Exceptional,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,10,0,0,1,0
+1155,54,Exceptional,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,10,0,0,1,0
+1156,55,Wonderful,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1157,56,Very Good,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1158,57,Very Good,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1159,58,Very Good,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1160,59,Wonderful,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1161,60,Exceptional,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,10,0,0,1,0
+1162,61,Very Good,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1163,62,Very Good,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1164,63,My favourite headquarters at Asok,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,9,0,0,1,0
+1165,64,Indeed I will recommend this hotel,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,9,0.385,0,0.615,0.3612
+1166,65,Excellent value for money in a great central location,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,9,0.671,0,0.329,0.8807
+1167,66,Exceptional,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,10,0,0,1,0
+1168,67,Accessible,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,10,0,0,1,0
+1169,68,"Good hotel for the price , nice pool area chill out. Comfortable bed.",Hotel The Quarter Phromphong by UHG - SHA Extra Plus,8,0.5,0,0.5,0.8402
+1170,69,Wonderful,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1171,70,Exceptional,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,10,0,0,1,0
+1172,71,Pleasant,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,6,1,0,0,0.5106
+1173,72,Exceptional,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,10,0,0,1,0
+1174,73,Wonderful,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1175,74,untold the comfortably before checking in,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,6,0.359,0,0.641,0.4215
+1176,75,Very Good,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1177,76,Exceptional,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,10,0,0,1,0
+1178,77,Pleasant,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,6,1,0,0,0.5106
+1179,78,"Fantastic and easy, great location and friendly staff, and nicely clean!",Hotel The Quarter Phromphong by UHG - SHA Extra Plus,10,0.798,0,0.202,0.9622
+1180,79,Fair,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,5,1,0,0,0.3182
+1181,80,Wonderful,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1182,81,Wonderful,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1183,82,Wonderful,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1184,83,Pleasant,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,6,1,0,0,0.5106
+1185,84,Wonderful,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1186,85,Pleasant,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,6,1,0,0,0.5106
+1187,86,Ok for the price,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,8,0.423,0,0.577,0.296
+1188,87,Exceptional,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,10,0,0,1,0
+1189,88,Exceptional,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,10,0,0,1,0
+1190,89,Very happy with everything !,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,10,0.588,0,0.412,0.6468
+1191,90,I always like staying in this hotel. The hotel is just a walking distance to food station. The staff namely Dim and Fah,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,10,0.111,0,0.889,0.3612
+1192,91,Good,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,7,1,0,0,0.4404
+1193,92,Wonderful,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1194,93,Everything is good. 😊,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,10,0.592,0,0.408,0.4404
+1195,94,Exceptional,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,10,0,0,1,0
+1196,95,very beautiful place and staff very professional,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,10,0.411,0,0.589,0.6361
+1197,96,Very Good,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1198,97,Exceptional,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,10,0,0,1,0
+1199,98,Very Good,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1200,99,Very Good,Hotel The Quarter Phromphong by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1201,0,Exceptional,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0,0,1,0
+1202,1,Exceptional,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0,0,1,0
+1203,2,"Fabulous, my new favorite in BKK now that Windsor Suites is closed for business",Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0.348,0,0.652,0.7506
+1204,3,Very Good,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1205,4,Excellent and comfy suite,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,8,0.552,0,0.448,0.5719
+1206,5,Excellent and comfy suite,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,8,0.552,0,0.448,0.5719
+1207,6,Excellent and very comfortable suite,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,8,0.709,0,0.291,0.807
+1208,7,Small but comfy room,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,8,0,0,1,0
+1209,8,"A big room, but not well maintained.",Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,6,0,0.308,0.692,-0.3007
+1210,9,highly recommended and would return next time without hesitation.,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0.358,0,0.642,0.4417
+1211,10,Very Good,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1212,11,Perfect stay,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,9,0.787,0,0.213,0.5719
+1213,12,Fantastic... my new go-to place to stay when in Bangkok,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0,0,1,0
+1214,13,Amazing suite,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0.792,0,0.208,0.5859
+1215,14,Wonderful,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,9,1,0,0,0.5719
+1216,15,Great accommodation in Sukhumit,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,9,0.577,0,0.423,0.6249
+1217,16,GEM in the heart of Sukhumvit.,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0,0,1,0
+1218,17,Bad,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,1,0,1,0,-0.5423
+1219,18,Exceptional,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0,0,1,0
+1220,19,Pleasant,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,6,1,0,0,0.5106
+1221,20,"nice place, I would visit again.",Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0.412,0,0.588,0.4215
+1222,21,Wonderful,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,9,1,0,0,0.5719
+1223,22,Exceptional,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0,0,1,0
+1224,23,Wonderful,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,9,1,0,0,0.5719
+1225,24,Good deal in Sukhumvit,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,9,0.492,0,0.508,0.4404
+1226,25,Very Good,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1227,26,Good,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,7,1,0,0,0.4404
+1228,27,Exceptional,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0,0,1,0
+1229,28,Exceptional,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0,0,1,0
+1230,29,My best stay in a hotel ever!,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0.473,0,0.527,0.6696
+1231,30,"very good location, very good staff, very good hotel, very good price.",Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0.615,0,0.385,0.9148
+1232,31,Very Good,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1233,32,Wonderful,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,9,1,0,0,0.5719
+1234,33,Wonderful,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,9,1,0,0,0.5719
+1235,34,suit room is very big and full of facilities All staffs are helpful and nice breakfast too,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,9,0.272,0,0.728,0.6808
+1236,35,Great hotel services and price.,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,9,0.506,0,0.494,0.6249
+1237,36,What a legacy!!!,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0,0,1,0
+1238,37,Solo travel,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,8,0,0,1,0
+1239,38,Exceptional,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0,0,1,0
+1240,39,Good,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,7,1,0,0,0.4404
+1241,40,Exceptional,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0,0,1,0
+1242,41,Exceptional,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0,0,1,0
+1243,42,Very Good,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1244,43,Exceptional,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0,0,1,0
+1245,44,Exceptional,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0,0,1,0
+1246,45,Wonderful,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,9,1,0,0,0.5719
+1247,46,Wonderful,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,9,1,0,0,0.5719
+1248,47,Exceptional,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0,0,1,0
+1249,48,Exceptional,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0,0,1,0
+1250,49,great relaxing getaway,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,8,0.88,0,0.12,0.8074
+1251,50,Very Good,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1252,51,Wonderful,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,9,1,0,0,0.5719
+1253,52,Great place to stay in Bangkok,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0.451,0,0.549,0.6249
+1254,53,Exceptional,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0,0,1,0
+1255,54,Wonderful,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,9,1,0,0,0.5719
+1256,55,Outstanding,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,1,0,0,0.6124
+1257,56,Exceptional,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0,0,1,0
+1258,57,everything is good,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0.592,0,0.408,0.4404
+1259,58,Exceptional,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0,0,1,0
+1260,59,Exceptional,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0,0,1,0
+1261,60,Exceptional,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0,0,1,0
+1262,61,Exceptional,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0,0,1,0
+1263,62,Super stay - highly recommend,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0.77,0,0.23,0.7713
+1264,63,Good,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,7,1,0,0,0.4404
+1265,64,Super value,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,9,1,0,0,0.743
+1266,65,Very Good,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1267,66,Very Good,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1268,67,Wonderful,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,9,1,0,0,0.5719
+1269,68,Overall nice stat,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,9,0.583,0,0.417,0.4215
+1270,69,Excellent,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,1,0,0,0.5719
+1271,70,Excellent,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,1,0,0,0.5719
+1272,71,Wonderful,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,9,1,0,0,0.5719
+1273,72,comfortable and convenient,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,8,0.623,0,0.377,0.5106
+1274,73,but worth the money,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,7,0.439,0,0.561,0.3291
+1275,74,felt like I was at home!,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0.411,0,0.589,0.4199
+1276,75,"very good hotel and good value , awesome breakfast",Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0.763,0,0.237,0.9167
+1277,76,Poor,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,3,0,1,0,-0.4767
+1278,77,Wonderful,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,9,1,0,0,0.5719
+1279,78,Our perfect New Year’s Eve to start the year 2022!,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0.307,0,0.693,0.6114
+1280,79,Good,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,7,1,0,0,0.4404
+1281,80,Wonderful,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,9,1,0,0,0.5719
+1282,81,Always Happy.,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0.787,0,0.213,0.5719
+1283,82,Very Good,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1284,83,it was ok,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,5,0.524,0,0.476,0.296
+1285,84,Wonderful,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,9,1,0,0,0.5719
+1286,85,Exceptional,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0,0,1,0
+1287,86,Solo travel in the age of COVID,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0,0,1,0
+1288,87,Exceptional,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0,0,1,0
+1289,88,Wonderful,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,9,1,0,0,0.5719
+1290,89,Very Good,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1291,90,"spacious room with bathtub, kitchen and washing machine",Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,9,0,0,1,0
+1292,91,"Great value for money, amazing location and very friendly and helpful staff. Would book again.",Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,9,0.628,0,0.372,0.9506
+1293,92,Very Good,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1294,93,Good.Staff are extremely efficient.,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,9,0.508,0,0.492,0.4754
+1295,94,Good,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,7,1,0,0,0.4404
+1296,95,"Great, will stay again.",Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0.577,0,0.423,0.6249
+1297,96,Wonderful,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,9,1,0,0,0.5719
+1298,97,Pleasant,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,6,1,0,0,0.5106
+1299,98,On point.,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,9,0,0,1,0
+1300,99,Exceptional,Hotel Legacy Suites Hotel Sukhumvit - SHA Extra Plus,10,0,0,1,0
+1301,0,Unique hotel,"Hotel Siam@Siam, Design Hotel Bangkok",9,0,0,1,0
+1302,1,Exceptional,"Hotel Siam@Siam, Design Hotel Bangkok",10,0,0,1,0
+1303,2,from check in to check out I felt great. loved the room speaker and the chic design of the hotel. loved breakfast!,"Hotel Siam@Siam, Design Hotel Bangkok",10,0.457,0,0.543,0.9359
+1304,3,Perfect for a first arrival with test & go in Thailand. very well organized,"Hotel Siam@Siam, Design Hotel Bangkok",9,0.379,0,0.621,0.7264
+1305,4,Very Good,"Hotel Siam@Siam, Design Hotel Bangkok",8,0.762,0,0.238,0.4927
+1306,5,Very Good,"Hotel Siam@Siam, Design Hotel Bangkok",8,0.762,0,0.238,0.4927
+1307,6,One of the Best City Hotels in Bangkok!,"Hotel Siam@Siam, Design Hotel Bangkok",10,0.391,0,0.609,0.6696
+1308,7,Wonderful,"Hotel Siam@Siam, Design Hotel Bangkok",9,1,0,0,0.5719
+1309,8,Wonderful,"Hotel Siam@Siam, Design Hotel Bangkok",9,1,0,0,0.5719
+1310,9,Beautiful modern hotels,"Hotel Siam@Siam, Design Hotel Bangkok",10,0.661,0,0.339,0.5994
+1311,10,Wonderful,"Hotel Siam@Siam, Design Hotel Bangkok",9,1,0,0,0.5719
+1312,11,Exceptional,"Hotel Siam@Siam, Design Hotel Bangkok",10,0,0,1,0
+1313,12,Exceptional,"Hotel Siam@Siam, Design Hotel Bangkok",10,0,0,1,0
+1314,13,Exceptional,"Hotel Siam@Siam, Design Hotel Bangkok",10,0,0,1,0
+1315,14,Amazing,"Hotel Siam@Siam, Design Hotel Bangkok",10,1,0,0,0.5859
+1316,15,Exceptional,"Hotel Siam@Siam, Design Hotel Bangkok",10,0,0,1,0
+1317,16,Wonderful,"Hotel Siam@Siam, Design Hotel Bangkok",9,1,0,0,0.5719
+1318,17,Good value spending,"Hotel Siam@Siam, Design Hotel Bangkok",10,0.841,0,0.159,0.6486
+1319,18,Exceptional,"Hotel Siam@Siam, Design Hotel Bangkok",10,0,0,1,0
+1320,19,Wonderful,"Hotel Siam@Siam, Design Hotel Bangkok",9,1,0,0,0.5719
+1321,20,Exceptional,"Hotel Siam@Siam, Design Hotel Bangkok",10,0,0,1,0
+1322,21,Exceptional,"Hotel Siam@Siam, Design Hotel Bangkok",10,0,0,1,0
+1323,22,Exceptional,"Hotel Siam@Siam, Design Hotel Bangkok",10,0,0,1,0
+1324,23,Exceptional,"Hotel Siam@Siam, Design Hotel Bangkok",10,0,0,1,0
+1325,24,Wonderful,"Hotel Siam@Siam, Design Hotel Bangkok",9,1,0,0,0.5719
+1326,25,Artistic Hotel,"Hotel Siam@Siam, Design Hotel Bangkok",8,0,0,1,0
+1327,26,Exceptional,"Hotel Siam@Siam, Design Hotel Bangkok",10,0,0,1,0
+1328,27,Good,"Hotel Siam@Siam, Design Hotel Bangkok",7,1,0,0,0.4404
+1329,28,Wonderful,"Hotel Siam@Siam, Design Hotel Bangkok",9,1,0,0,0.5719
+1330,29,Excellent place and near Siam,"Hotel Siam@Siam, Design Hotel Bangkok",8,0.481,0,0.519,0.5719
+1331,30,Exceptional,"Hotel Siam@Siam, Design Hotel Bangkok",10,0,0,1,0
+1332,31,Excellent stay in a fantastically designed hotel,"Hotel Siam@Siam, Design Hotel Bangkok",10,0.425,0,0.575,0.5719
+1333,32,Great hotel & location,"Hotel Siam@Siam, Design Hotel Bangkok",10,0.672,0,0.328,0.6249
+1334,33,Good,"Hotel Siam@Siam, Design Hotel Bangkok",7,1,0,0,0.4404
+1335,34,Exceptional,"Hotel Siam@Siam, Design Hotel Bangkok",10,0,0,1,0
+1336,35,Wonderful,"Hotel Siam@Siam, Design Hotel Bangkok",9,1,0,0,0.5719
+1337,36,Exceptional,"Hotel Siam@Siam, Design Hotel Bangkok",10,0,0,1,0
+1338,37,Exceptional,"Hotel Siam@Siam, Design Hotel Bangkok",10,0,0,1,0
+1339,38,Exceptional,"Hotel Siam@Siam, Design Hotel Bangkok",10,0,0,1,0
+1340,39,Very Good,"Hotel Siam@Siam, Design Hotel Bangkok",8,0.762,0,0.238,0.4927
+1341,40,Disappointing,"Hotel Siam@Siam, Design Hotel Bangkok",4,0,1,0,-0.4939
+1342,41,Great,"Hotel Siam@Siam, Design Hotel Bangkok",10,1,0,0,0.6249
+1343,42,Exceptional,"Hotel Siam@Siam, Design Hotel Bangkok",10,0,0,1,0
+1344,43,A great experience all round,"Hotel Siam@Siam, Design Hotel Bangkok",10,0.577,0,0.423,0.6249
+1345,44,Wonderful,"Hotel Siam@Siam, Design Hotel Bangkok",9,1,0,0,0.5719
+1346,45,Exceptional,"Hotel Siam@Siam, Design Hotel Bangkok",10,0,0,1,0
+1347,46,Very Good,"Hotel Siam@Siam, Design Hotel Bangkok",8,0.762,0,0.238,0.4927
+1348,47,Exceptional,"Hotel Siam@Siam, Design Hotel Bangkok",10,0,0,1,0
+1349,48,Very Stylish quirky 5 star hotel,"Hotel Siam@Siam, Design Hotel Bangkok",9,0,0,1,0
+1350,49,I would definitely recommend this hotel and would stay in it again.,"Hotel Siam@Siam, Design Hotel Bangkok",10,0.366,0,0.634,0.6369
+1351,50,Cool hotel,"Hotel Siam@Siam, Design Hotel Bangkok",8,0.697,0,0.303,0.3182
+1352,51,Exceptional,"Hotel Siam@Siam, Design Hotel Bangkok",10,0,0,1,0
+1353,52,Very Good,"Hotel Siam@Siam, Design Hotel Bangkok",8,0.762,0,0.238,0.4927
+1354,53,Exceptional,"Hotel Siam@Siam, Design Hotel Bangkok",10,0,0,1,0
+1355,54,Happy to be back @ Siam,"Hotel Siam@Siam, Design Hotel Bangkok",9,0.481,0,0.519,0.5719
+1356,55,Good,"Hotel Siam@Siam, Design Hotel Bangkok",7,1,0,0,0.4404
+1357,56,Great hotel with great location,"Hotel Siam@Siam, Design Hotel Bangkok",9.2,0.732,0,0.268,0.8481
+1358,57,Exceptional,"Hotel Siam@Siam, Design Hotel Bangkok",10,0,0,1,0
+1359,58,Clean comfortable hotel with helpful friendly staff,"Hotel Siam@Siam, Design Hotel Bangkok",9.6,0.8,0,0.2,0.9001
+1360,59,A good place to stay !,"Hotel Siam@Siam, Design Hotel Bangkok",8.3,0.516,0,0.484,0.4926
+1361,60,Very Good,"Hotel Siam@Siam, Design Hotel Bangkok",8,0.762,0,0.238,0.4927
+1362,61,Wonderful,"Hotel Siam@Siam, Design Hotel Bangkok",9,1,0,0,0.5719
+1363,62,Very Good,"Hotel Siam@Siam, Design Hotel Bangkok",8,0.762,0,0.238,0.4927
+1364,63,Most enjoyable.,"Hotel Siam@Siam, Design Hotel Bangkok",10,0.762,0,0.238,0.4927
+1365,64,Nice and stylish,"Hotel Siam@Siam, Design Hotel Bangkok",9.2,0.583,0,0.417,0.4215
+1366,65,Very Good,"Hotel Siam@Siam, Design Hotel Bangkok",8,0.762,0,0.238,0.4927
+1367,66,Good,"Hotel Siam@Siam, Design Hotel Bangkok",7,1,0,0,0.4404
+1368,67,Very Good,"Hotel Siam@Siam, Design Hotel Bangkok",8,0.762,0,0.238,0.4927
+1369,68,Very Good,"Hotel Siam@Siam, Design Hotel Bangkok",8.3,0.762,0,0.238,0.4927
+1370,69,Great hotel !,"Hotel Siam@Siam, Design Hotel Bangkok",9,0.815,0,0.185,0.6588
+1371,70,Good,"Hotel Siam@Siam, Design Hotel Bangkok",7,1,0,0,0.4404
+1372,71,Excellent,"Hotel Siam@Siam, Design Hotel Bangkok",8.8,1,0,0,0.5719
+1373,72,Exceptional,"Hotel Siam@Siam, Design Hotel Bangkok",10,0,0,1,0
+1374,73,Stunning hotel,"Hotel Siam@Siam, Design Hotel Bangkok",9.6,0.722,0,0.278,0.3818
+1375,74,Wonderful,"Hotel Siam@Siam, Design Hotel Bangkok",9,1,0,0,0.5719
+1376,75,Exceptional,"Hotel Siam@Siam, Design Hotel Bangkok",10,0,0,1,0
+1377,76,Exceptional,"Hotel Siam@Siam, Design Hotel Bangkok",10,0,0,1,0
+1378,77,Great for short stay close to the Siam center,"Hotel Siam@Siam, Design Hotel Bangkok",8,0.339,0,0.661,0.6249
+1379,78,Great place to stay to explore the city.,"Hotel Siam@Siam, Design Hotel Bangkok",10,0.369,0,0.631,0.6249
+1380,79,Wonderful,"Hotel Siam@Siam, Design Hotel Bangkok",9,1,0,0,0.5719
+1381,80,Good,"Hotel Siam@Siam, Design Hotel Bangkok",7,1,0,0,0.4404
+1382,81,Pleasant,"Hotel Siam@Siam, Design Hotel Bangkok",6.2,1,0,0,0.5106
+1383,82,Exceptional,"Hotel Siam@Siam, Design Hotel Bangkok",10,0,0,1,0
+1384,83,great place to stay when in Bangkok!,"Hotel Siam@Siam, Design Hotel Bangkok",8,0.423,0,0.577,0.6588
+1385,84,Wonderful,"Hotel Siam@Siam, Design Hotel Bangkok",9.2,1,0,0,0.5719
+1386,85,Great stay!,"Hotel Siam@Siam, Design Hotel Bangkok",10,0.815,0,0.185,0.6588
+1387,86,It was a pleasant experience with great location,"Hotel Siam@Siam, Design Hotel Bangkok",7,0.597,0,0.403,0.8126
+1388,87,Exceptional,"Hotel Siam@Siam, Design Hotel Bangkok",9.6,0,0,1,0
+1389,88,Exceptional,"Hotel Siam@Siam, Design Hotel Bangkok",10,0,0,1,0
+1390,89,very relaxing,"Hotel Siam@Siam, Design Hotel Bangkok",9,0.777,0,0.223,0.5413
+1391,90,Perfection!,"Hotel Siam@Siam, Design Hotel Bangkok",10,1,0,0,0.6114
+1392,91,Very good. Will come again for sure,"Hotel Siam@Siam, Design Hotel Bangkok",9,0.523,0,0.477,0.6697
+1393,92,Pleasant,"Hotel Siam@Siam, Design Hotel Bangkok",6,1,0,0,0.5106
+1394,93,Good location and stylish designed hotel,"Hotel Siam@Siam, Design Hotel Bangkok",9,0.367,0,0.633,0.4404
+1395,94,Design hotel with convenient location,"Hotel Siam@Siam, Design Hotel Bangkok",9,0,0,1,0
+1396,95,Fair,"Hotel Siam@Siam, Design Hotel Bangkok",5.4,1,0,0,0.3182
+1397,96,Exceptional,"Hotel Siam@Siam, Design Hotel Bangkok",10,0,0,1,0
+1398,97,Exceptional,"Hotel Siam@Siam, Design Hotel Bangkok",10,0,0,1,0
+1399,98,Would highly recommend - No real complaints and everything was excellent.,"Hotel Siam@Siam, Design Hotel Bangkok",10,0.367,0.293,0.34,0.3214
+1400,99,Perfect short stay in a hectic and loud city,"Hotel Siam@Siam, Design Hotel Bangkok",9,0.346,0,0.654,0.5719
+1401,0,Exceptional,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,10,0,0,1,0
+1402,1,Exceptional,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,10,0,0,1,0
+1403,2,Exceptional,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,10,0,0,1,0
+1404,3,Exceptional,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,10,0,0,1,0
+1405,4,Very Good,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1406,5,Very Good,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1407,6,Pleasant,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,6,1,0,0,0.5106
+1408,7,Nice and affordable hotel near BTS,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,8,0.359,0,0.641,0.4215
+1409,8,Poor,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,3,0,1,0,-0.4767
+1410,9,Fair,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,5,1,0,0,0.3182
+1411,10,Exceptional,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,10,0,0,1,0
+1412,11,Fair,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,5,1,0,0,0.3182
+1413,12,Fair,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,5,1,0,0,0.3182
+1414,13,Great,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,8,1,0,0,0.6249
+1415,14,Wonderful,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1416,15,"Not worth the money, better options in BGK",Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,3,0.274,0.158,0.568,0.3036
+1417,16,Perfect hotel in city center,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,10,0.481,0,0.519,0.5719
+1418,17,Very Good,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1419,18,Wonderful,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1420,19,"perfect location, friendly staff and nice quality",Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,10,0.708,0,0.292,0.8658
+1421,20,Wonderful,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1422,21,Exceptional,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,10,0,0,1,0
+1423,22,Exceptional,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,10,0,0,1,0
+1424,23,Very Good,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1425,24,Exceptional,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,10,0,0,1,0
+1426,25,Fair,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,5,1,0,0,0.3182
+1427,26,Very Good,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1428,27,Exceptional,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,10,0,0,1,0
+1429,28,Very Poor,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,2,0,0.772,0.228,-0.5256
+1430,29,Exceptional,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,10,0,0,1,0
+1431,30,great location clean rooms would recommend,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,10,0.756,0,0.244,0.8519
+1432,31,Very Good,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1433,32,Nice place and good value. Reception staff needs training.,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,8,0.574,0,0.426,0.7964
+1434,33,Good value and clean.,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,8,0.889,0,0.111,0.7906
+1435,34,nice little hotel but a bit way off from bts station,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,8,0.174,0,0.826,0.2263
+1436,35,Wonderful,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1437,36,Excellent hotel and perfect location!,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,9,0.719,0,0.281,0.8268
+1438,37,Very Good,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1439,38,Very Good,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1440,39,Exceptional,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,10,0,0,1,0
+1441,40,Nicely designed hotel in a great location!,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,8,0.646,0,0.354,0.807
+1442,41,Very Good,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1443,42,Very Good,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1444,43,Very Good,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1445,44,Wonderful,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1446,45,Exceptional,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,10,0,0,1,0
+1447,46,Very Good,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1448,47,Wonderful,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1449,48,Very Good,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1450,49,Wonderful,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1451,50,Very Good,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1452,51,Exceptional,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,10,0,0,1,0
+1453,52,Exceptional,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,10,0,0,1,0
+1454,53,Exceptional,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,10,0,0,1,0
+1455,54,Good,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,7,1,0,0,0.4404
+1456,55,Wonderful,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1457,56,Very Good,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1458,57,Very Good,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1459,58,Wonderful,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1460,59,Wonderful,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1461,60,Very Good,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1462,61,Exceptional,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,10,0,0,1,0
+1463,62,Poor,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,3,0,1,0,-0.4767
+1464,63,Pleasant,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,6,1,0,0,0.5106
+1465,64,Exceptional,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,10,0,0,1,0
+1466,65,Very Good,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1467,66,Great value for low price,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,8,0.613,0.198,0.189,0.6597
+1468,67,cozy and nicely,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,8,0.592,0,0.408,0.4404
+1469,68,Very Good,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1470,69,Overall happy,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,9,0.787,0,0.213,0.5719
+1471,70,Exceptional,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,10,0,0,1,0
+1472,71,Wonderful,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1473,72,Wonderful,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1474,73,Really Nice place. Close to the EU delegation. Near hotele there is a lot of restaurants. Nice brea,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,8,0.292,0,0.708,0.734
+1475,74,Perfect stay for one or two bights if you need to fly out of Bangkok,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,9,0.209,0,0.791,0.5719
+1476,75,Very Good,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1477,76,Very Good,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1478,77,Good value but bad for cars,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,8,0.32,0.417,0.263,-0.4767
+1479,78,Exceptional,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,10,0,0,1,0
+1480,79,Very Good,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1481,80,Highly recommended,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,10,0.677,0,0.323,0.2716
+1482,81,Good,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,7,1,0,0,0.4404
+1483,82,Wonderful,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1484,83,Exceptional,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,10,0,0,1,0
+1485,84,Wonderful,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1486,85,Exceptional,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,10,0,0,1,0
+1487,86,Location and value for money,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,5,0.375,0,0.625,0.34
+1488,87,Good,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,7,1,0,0,0.4404
+1489,88,Disappointing,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,4,0,1,0,-0.4939
+1490,89,Exceptional,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,10,0,0,1,0
+1491,90,Very Good,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1492,91,Great stay,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,9,0.804,0,0.196,0.6249
+1493,92,Exceptional,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,10,0,0,1,0
+1494,93,Wonderful,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1495,94,Wonderful,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1496,95,Good,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,7,1,0,0,0.4404
+1497,96,Good,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,7,1,0,0,0.4404
+1498,97,Exceptional,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,10,0,0,1,0
+1499,98,Wonderful,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1500,99,Wonderful,Apartments The Quarter Ploenchit by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1501,0,Pleasant,Hotel La Locanda,6,1,0,0,0.5106
+1502,1,Small but a great little place,Hotel La Locanda,9,0.585,0,0.415,0.7684
+1503,2,Fantastic for a short stay in Bangkok,Hotel La Locanda,9,0.419,0,0.581,0.5574
+1504,3,Exceptional,Hotel La Locanda,10,0,0,1,0
+1505,4,Exceptional,Hotel La Locanda,10,0,0,1,0
+1506,5,Exceptional,Hotel La Locanda,10,0,0,1,0
+1507,6,Exceptional,Hotel La Locanda,10,0,0,1,0
+1508,7,Wonderful,Hotel La Locanda,9,1,0,0,0.5719
+1509,8,Exceptional,Hotel La Locanda,10,0,0,1,0
+1510,9,Exceptional,Hotel La Locanda,10,0,0,1,0
+1511,10,Good,Hotel La Locanda,7,1,0,0,0.4404
+1512,11,Was very comfortable and look forward to staying in the facility in my next visit to Bangkok city,Hotel La Locanda,10,0.174,0,0.826,0.5563
+1513,12,Very Good,Hotel La Locanda,8,0.762,0,0.238,0.4927
+1514,13,Wonderful,Hotel La Locanda,9,1,0,0,0.5719
+1515,14,Wonderful,Hotel La Locanda,9,1,0,0,0.5719
+1516,15,Exceptional,Hotel La Locanda,10,0,0,1,0
+1517,16,Exceptional,Hotel La Locanda,10,0,0,1,0
+1518,17,Exceptional,Hotel La Locanda,10,0,0,1,0
+1519,18,Pleasant,Hotel La Locanda,6,1,0,0,0.5106
+1520,19,Very Good,Hotel La Locanda,8,0.762,0,0.238,0.4927
+1521,20,Great place and amazing owners!!!,Hotel La Locanda,10,0.745,0,0.255,0.8682
+1522,21,Good value for money,Hotel La Locanda,8,0.726,0,0.274,0.6486
+1523,22,Fantastic stay!,Hotel La Locanda,10,0.796,0,0.204,0.5983
+1524,23,10-Oct,Hotel La Locanda,10,0,0,1,0
+1525,24,Exceptional,Hotel La Locanda,10,0,0,1,0
+1526,25,Wonderful,Hotel La Locanda,9,1,0,0,0.5719
+1527,26,it’s an excellent choice,Hotel La Locanda,10,0.552,0,0.448,0.5719
+1528,27,Exceptional,Hotel La Locanda,10,0,0,1,0
+1529,28,"Great hosts and lovely, simple place to stay.",Hotel La Locanda,10,0.568,0,0.432,0.836
+1530,29,Very Good,Hotel La Locanda,8,0.762,0,0.238,0.4927
+1531,30,Exceptional,Hotel La Locanda,10,0,0,1,0
+1532,31,Good,Hotel La Locanda,7,1,0,0,0.4404
+1533,32,Very Good,Hotel La Locanda,8,0.762,0,0.238,0.4927
+1534,33,Exceptional,Hotel La Locanda,10,0,0,1,0
+1535,34,I would recommend this place to anyone who want to stay in Bangkok. Will come back again for sure.,Hotel La Locanda,10,0.289,0,0.711,0.6249
+1536,35,Very Good,Hotel La Locanda,8,0.762,0,0.238,0.4927
+1537,36,Exceptional,Hotel La Locanda,10,0,0,1,0
+1538,37,"A very pleasant stay, I will return again in the future.",Hotel La Locanda,10,0.31,0,0.69,0.5563
+1539,38,Exceptional,Hotel La Locanda,10,0,0,1,0
+1540,39,Good,Hotel La Locanda,7,1,0,0,0.4404
+1541,40,Recommended!!!,Hotel La Locanda,10,1,0,0,0.3971
+1542,41,Very Good,Hotel La Locanda,8,0.762,0,0.238,0.4927
+1543,42,Pleasant,Hotel La Locanda,6,1,0,0,0.5106
+1544,43,Highly recommend & will definitely be back when in Bangkok again!!,Hotel La Locanda,10,0.442,0,0.558,0.7462
+1545,44,Wonderful,Hotel La Locanda,9,1,0,0,0.5719
+1546,45,C and Julia I remember. Good job.,Hotel La Locanda,7,0.42,0,0.58,0.4404
+1547,46,Hostel like hotel with great breakfast,Hotel La Locanda,7.1,0.623,0,0.377,0.765
+1548,47,Excellent,Hotel La Locanda,8.8,1,0,0,0.5719
+1549,48,I defenitely would go there again!,Hotel La Locanda,9,0,0,1,0
+1550,49,Wonderful,Hotel La Locanda,9.2,1,0,0,0.5719
+1551,50,Perfect 1 night stay,Hotel La Locanda,10,0.649,0,0.351,0.5719
+1552,51,Wonderful,Hotel La Locanda,9,1,0,0,0.5719
+1553,52,Pleasant,Hotel La Locanda,6,1,0,0,0.5106
+1554,53,Wonderful,Hotel La Locanda,9.2,1,0,0,0.5719
+1555,54,A fine experience hosted by Italian people,Hotel La Locanda,10,0.265,0,0.735,0.2023
+1556,55,Very Good,Hotel La Locanda,8,0.762,0,0.238,0.4927
+1557,56,Exceptional,Hotel La Locanda,10,0,0,1,0
+1558,57,Very Good,Hotel La Locanda,8,0.762,0,0.238,0.4927
+1559,58,A great starting point to explore fascinating Bangkok.,Hotel La Locanda,8,0.603,0,0.397,0.8225
+1560,59,I would stay there again.,Hotel La Locanda,10,0,0,1,0
+1561,60,Exceptional,Hotel La Locanda,9.6,0,0,1,0
+1562,61,Lovely italian hotel! We would definitely stay there again!,Hotel La Locanda,8,0.503,0,0.497,0.7955
+1563,62,Staff was great!,Hotel La Locanda,7.1,0.687,0,0.313,0.6588
+1564,63,So great and friendly,Hotel La Locanda,10,0.797,0,0.203,0.8341
+1565,64,Fair,Hotel La Locanda,5,1,0,0,0.3182
+1566,65,Great place,Hotel La Locanda,9,0.804,0,0.196,0.6249
+1567,66,Hotel com boa localizacao e com preco otimo,Hotel La Locanda,10,0,0,1,0
+1568,67,Wonderful,Hotel La Locanda,9,1,0,0,0.5719
+1569,68,A friendly stay in Chinatown,Hotel La Locanda,10,0.516,0,0.484,0.4939
+1570,69,Exceptional,Hotel La Locanda,10,0,0,1,0
+1571,70,Wonderful,Hotel La Locanda,9,1,0,0,0.5719
+1572,71,Exceptional,Hotel La Locanda,10,0,0,1,0
+1573,72,An oasi in Chinatown,Hotel La Locanda,10,0,0,1,0
+1574,73,Very Good,Hotel La Locanda,8,0.762,0,0.238,0.4927
+1575,74,Exceptional,Hotel La Locanda,10,0,0,1,0
+1576,75,Very Good,Hotel La Locanda,8,0.762,0,0.238,0.4927
+1577,76,Wonderful,Hotel La Locanda,9.2,1,0,0,0.5719
+1578,77,Pleasant,Hotel La Locanda,6.2,1,0,0,0.5106
+1579,78,Good,Hotel La Locanda,7,1,0,0,0.4404
+1580,79,Poor,Hotel La Locanda,3,0,1,0,-0.4767
+1581,80,Exceptional,Hotel La Locanda,10,0,0,1,0
+1582,81,Exceptional,Hotel La Locanda,9.6,0,0,1,0
+1583,82,Short stay at BKK,Hotel La Locanda,10,0,0,1,0
+1584,83,Amazing!,Hotel La Locanda,10,1,0,0,0.6239
+1585,84,Exceptional,Hotel La Locanda,10,0,0,1,0
+1586,85,Wonderful,Hotel La Locanda,9.2,1,0,0,0.5719
+1587,86,Very friendly welcoming guesthouse with italian flair.,Hotel La Locanda,9,0.572,0,0.428,0.7698
+1588,87,Good hospitality and delicious food!,Hotel La Locanda,10,0.697,0,0.303,0.784
+1589,88,Exceptional,Hotel La Locanda,10,0,0,1,0
+1590,89,Exceptional,Hotel La Locanda,10,0,0,1,0
+1591,90,Good place for short journey in Bangkok,Hotel La Locanda,8.8,0.326,0,0.674,0.4404
+1592,91,Wonderful,Hotel La Locanda,9.2,1,0,0,0.5719
+1593,92,"Comfortable, relaxed and safe!",Hotel La Locanda,8,0.906,0,0.094,0.8655
+1594,93,Exceptional,Hotel La Locanda,9.6,0,0,1,0
+1595,94,"""Little Italy"" in China town",Hotel La Locanda,9,0,0,1,0
+1596,95,Excellent,Hotel La Locanda,8.8,1,0,0,0.5719
+1597,96,5*,Hotel La Locanda,10,0,0,1,0
+1598,97,Exceptional,Hotel La Locanda,10,0,0,1,0
+1599,98,Excellent,Hotel La Locanda,8.8,1,0,0,0.5719
+1600,99,Exceptional,Hotel La Locanda,10,0,0,1,0
+1601,0,"ok for very short stay., pool tiny and little sun. little storage for clothes. bathroom good",Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,4,0.267,0,0.733,0.6249
+1602,1,Very Poor,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,2,0,0.772,0.228,-0.5256
+1603,2,A bed you won’t forget in a lovely apartament,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,8,0.355,0.178,0.467,0.4404
+1604,3,Bad place. STAY AWAY!,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,2,0,0.558,0.442,-0.5848
+1605,4,Wonderful,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1606,5,Very good,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1607,6,Poor,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,3,0,1,0,-0.4767
+1608,7,Fair,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,5,1,0,0,0.3182
+1609,8,Bad,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,1,0,1,0,-0.5423
+1610,9,Disappointing,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,4,0,1,0,-0.4939
+1611,10,the location is very good and the service is good,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,7,0.444,0,0.556,0.7496
+1612,11,The location is very good. service is good.,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,7,0.516,0,0.484,0.7496
+1613,12,The location is very good.,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,7,0.444,0,0.556,0.4927
+1614,13,not up to the standard I have come to expect from booking.com and I would never stay there again or recommend it to anyo,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,2,0.106,0,0.894,0.3612
+1615,14,Very Good,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1616,15,You can do so much better than SiriSathorn,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,1,0.312,0,0.688,0.4902
+1617,16,Good,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,7,1,0,0,0.4404
+1618,17,Never come back again,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,3,0,0,1,0
+1619,18,-,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,8,0,0,0,0
+1620,19,Pleasant,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,6,1,0,0,0.5106
+1621,20,Overall great service and easy to get around the city centre.,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,10,0.438,0,0.562,0.7906
+1622,21,Very Good,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1623,22,Wonderful,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1624,23,Chose another place to stay.,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,2,0,0,1,0
+1625,24,Disappointing,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,4,0,1,0,-0.4939
+1626,25,Disappointing,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,4,0,1,0,-0.4939
+1627,26,very enjoyable,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1628,27,Wonderful,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1629,28,Great short stay in good location,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,9,0.636,0,0.364,0.7906
+1630,29,great location room disappointment,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,5,0.436,0.351,0.213,0.2023
+1631,30,Poor,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,3,0,1,0,-0.4767
+1632,31,Perfect,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,10,1,0,0,0.5719
+1633,32,good room size and good value for money.,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,8,0.621,0,0.379,0.802
+1634,33,Facilities is not bad and also space but missing maintenance.,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,5,0.151,0.22,0.629,-0.2204
+1635,34,Very Good,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1636,35,Relaxing Place for staying,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,10,0.516,0,0.484,0.4939
+1637,36,enjoyable and close to Lumpini park to walk or run amongst the monitor lizards,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,9,0.182,0,0.818,0.4404
+1638,37,Wonderful,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1639,38,Exceptional,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,10,0,0,1,0
+1640,39,"This hotel is lovely as always, but this time the cigarette smoke from the next room is annoying me",Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,6,0.105,0.155,0.741,-0.2846
+1641,40,Very Good,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1642,41,we enjoyed our stay but it was probably not the best time to be there as it was during the COVID-19 pandemic.,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,8,0.081,0.17,0.749,-0.5271
+1643,42,Disappointing,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,4,0,1,0,-0.4939
+1644,43,not bad!,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,8,0.759,0,0.241,0.484
+1645,44,Everything is exceptional but stuff,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,8,0,0,1,0
+1646,45,Wonderful,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1647,46,Very Good,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1648,47,"I had a wonderful break in Bangkok, being able to explore the city, and very comfortable stay!",Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,10,0.368,0,0.632,0.8217
+1649,48,Very Good,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1650,49,"I had a very good experience overall, I would highly recommend this hotel anytime!",Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,10,0.411,0,0.589,0.7413
+1651,50,"Good location, clean rooms and excellent staff",Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,10,0.699,0,0.301,0.8519
+1652,51,Good,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,7,1,0,0,0.4404
+1653,52,Very Good,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1654,53,one night ok but the cheaper room its good,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,3,0.438,0,0.562,0.6652
+1655,54,Great location. Friendly staff. We always enjoy stay at the Siri as it is centrally located .,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,10,0.447,0,0.553,0.8885
+1656,55,loving it!,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,8,0.807,0,0.193,0.636
+1657,56,absolutely recommended,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,10,0.677,0,0.323,0.2716
+1658,57,Disappointing,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,4,0,1,0,-0.4939
+1659,58,Wonderful,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1660,59,Bad,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,1,0,1,0,-0.5423
+1661,60,A suitable place to stay,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,7,0,0,1,0
+1662,61,Good and cheap for a short stay,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,7,0.367,0,0.633,0.4404
+1663,62,great stay,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,9,0.804,0,0.196,0.6249
+1664,63,Downtown hotel,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,9,0,0,1,0
+1665,64,would definitely stay there again,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,10,0.403,0,0.597,0.4019
+1666,65,Wonderful,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1667,66,Horrible Staff!!,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,4,0,0.803,0.197,-0.6229
+1668,67,Wonderful,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1669,68,Exceptional,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,10,0,0,1,0
+1670,69,Wonderful,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1671,70,Very Good,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1672,71,just average,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,6,0,0,1,0
+1673,72,Exceptional,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,10,0,0,1,0
+1674,73,"Great rooms relatively cheap, fantastic facilities, but the hotel is visible old & smells mold",Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,9,0.288,0,0.712,0.5927
+1675,74,Very Good,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1676,75,Very Good,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1677,76,Great stay,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,9,0.804,0,0.196,0.6249
+1678,77,Very Good,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1679,78,Wonderful,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1680,79,"Friendly Staff, Great Location, Comfortable rooms & planty of pillows, new Coffee shop in the lobby",Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,9,0.515,0,0.485,0.8934
+1681,80,Very Good,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1682,81,Exceptional,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,10,0,0,1,0
+1683,82,Very Good,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1684,83,Exceptional,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,10,0,0,1,0
+1685,84,Very Good,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1686,85,Good,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,8,1,0,0,0.4404
+1687,86,Nice location,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,8,0.737,0,0.263,0.4215
+1688,87,Wonderful,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1689,88,rooms need renovation,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,1,0,0,1,0
+1690,89,Wonderful,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1691,90,If you answer my TeX that you did not take money out of my card will be OK as that may me pay cash,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,5,0.111,0.053,0.835,0.368
+1692,91,Pleasant,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,6,1,0,0,0.5106
+1693,92,Very Good,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1694,93,Very Good,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1695,94,Exceptional,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,10,0,0,1,0
+1696,95,Wonderful,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1697,96,Wonderful,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,9,1,0,0,0.5719
+1698,97,Very Good,Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1699,98,"Great value for price, comfortable and quality stay",Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,10,0.662,0,0.338,0.8689
+1700,99,"Spacious, good gym/pool facilities but needs an upgrade",Hotel Siri Sathorn Bangkok by UHG - SHA Extra Plus,6,0.218,0,0.782,0.2382
+1701,0,super comfortable room and amazing roof top pool view,Hotel Lancaster Bangkok - SHA Extra Plus,9,0.719,0,0.281,0.9153
+1702,1,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1703,2,would stay again,Hotel Lancaster Bangkok - SHA Extra Plus,9,0,0,1,0
+1704,3,Very Good,Hotel Lancaster Bangkok - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1705,4,Very Good,Hotel Lancaster Bangkok - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1706,5,Very Good,Hotel Lancaster Bangkok - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1707,6,Perfect stay... Love it,Hotel Lancaster Bangkok - SHA Extra Plus,9,0.798,0,0.202,0.836
+1708,7,Wonderful,Hotel Lancaster Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+1709,8,Almost perfect,Hotel Lancaster Bangkok - SHA Extra Plus,9,0.773,0,0.227,0.5279
+1710,9,Beautiful hotel. We had an amazing stay! Thank you!,Hotel Lancaster Bangkok - SHA Extra Plus,10,0.643,0,0.357,0.8953
+1711,10,Centrally located,Hotel Lancaster Bangkok - SHA Extra Plus,8,0,0,1,0
+1712,11,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1713,12,Good enough except breakfast and background music,Hotel Lancaster Bangkok - SHA Extra Plus,9,0.326,0,0.674,0.4404
+1714,13,Wonderful,Hotel Lancaster Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+1715,14,great stay with amazing staff,Hotel Lancaster Bangkok - SHA Extra Plus,8,0.725,0,0.275,0.836
+1716,15,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1717,16,the hotell was excellent and the staff was better!,Hotel Lancaster Bangkok - SHA Extra Plus,10,0.496,0,0.504,0.784
+1718,17,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1719,18,thanks for all,Hotel Lancaster Bangkok - SHA Extra Plus,10,0.592,0,0.408,0.4404
+1720,19,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1721,20,Very Good,Hotel Lancaster Bangkok - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1722,21,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1723,22,"amazing, pampered weekend!",Hotel Lancaster Bangkok - SHA Extra Plus,10,0.672,0,0.328,0.6239
+1724,23,Wonderful,Hotel Lancaster Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+1725,24,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1726,25,"Nice comfortable room, big bed and modern decor. Best thing was the bathroom with bath and shower and a magic clear/",Hotel Lancaster Bangkok - SHA Extra Plus,8,0.377,0,0.623,0.8834
+1727,26,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1728,27,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1729,28,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1730,29,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1731,30,However i met some bad from Housekeeping on second day .she said really upset and excuse to me why she didn’t put some w,Hotel Lancaster Bangkok - SHA Extra Plus,10,0.058,0.237,0.705,-0.7031
+1732,31,Wonderful,Hotel Lancaster Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+1733,32,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1734,33,Pleasant,Hotel Lancaster Bangkok - SHA Extra Plus,6,1,0,0,0.5106
+1735,34,Wonderful,Hotel Lancaster Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+1736,35,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1737,36,Very Good,Hotel Lancaster Bangkok - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1738,37,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1739,38,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1740,39,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1741,40,Spacious rooms and helpful staff,Hotel Lancaster Bangkok - SHA Extra Plus,10,0.412,0,0.588,0.4215
+1742,41,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1743,42,Wonderful,Hotel Lancaster Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+1744,43,Very good hotel.,Hotel Lancaster Bangkok - SHA Extra Plus,10,0.615,0,0.385,0.4927
+1745,44,Just Fantastic!!,Hotel Lancaster Bangkok - SHA Extra Plus,10,0.807,0,0.193,0.6351
+1746,45,Very Good,Hotel Lancaster Bangkok - SHA Extra Plus,8,0.762,0,0.238,0.4927
+1747,46,Amazing,Hotel Lancaster Bangkok - SHA Extra Plus,10,1,0,0,0.5859
+1748,47,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,9.6,0,0,1,0
+1749,48,A little bit overrated. Not 5 stars imho.,Hotel Lancaster Bangkok - SHA Extra Plus,7,0,0,1,0
+1750,49,Amazing stay!,Hotel Lancaster Bangkok - SHA Extra Plus,9.6,0.804,0,0.196,0.6239
+1751,50,Stopover Bangkok,Hotel Lancaster Bangkok - SHA Extra Plus,8,0,0,1,0
+1752,51,Great and ideal hotel for young couples.,Hotel Lancaster Bangkok - SHA Extra Plus,9,0.6,0,0.4,0.8176
+1753,52,Wonderful,Hotel Lancaster Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+1754,53,Great hotel,Hotel Lancaster Bangkok - SHA Extra Plus,10,0.804,0,0.196,0.6249
+1755,54,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1756,55,Enjoyable overnight stay,Hotel Lancaster Bangkok - SHA Extra Plus,9,0.592,0,0.408,0.4404
+1757,56,"Really great place,5-8 mins walk from the station, staff are all super nice and helpful",Hotel Lancaster Bangkok - SHA Extra Plus,8,0.558,0,0.442,0.9312
+1758,57,Wonderful,Hotel Lancaster Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+1759,58,Wonderful,Hotel Lancaster Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+1760,59,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1761,60,Absolutely amazing,Hotel Lancaster Bangkok - SHA Extra Plus,9,0.804,0,0.196,0.624
+1762,61,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1763,62,Wonderful,Hotel Lancaster Bangkok - SHA Extra Plus,9.2,1,0,0,0.5719
+1764,63,Very Good,Hotel Lancaster Bangkok - SHA Extra Plus,8.3,0.762,0,0.238,0.4927
+1765,64,Great stay in BKK,Hotel Lancaster Bangkok - SHA Extra Plus,10,0.577,0,0.423,0.6249
+1766,65,Wonderful,Hotel Lancaster Bangkok - SHA Extra Plus,9.2,1,0,0,0.5719
+1767,66,Relaxing weekend,Hotel Lancaster Bangkok - SHA Extra Plus,10,0.762,0,0.238,0.4939
+1768,67,Good,Hotel Lancaster Bangkok - SHA Extra Plus,7,1,0,0,0.4404
+1769,68,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1770,69,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1771,70,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1772,71,Good,Hotel Lancaster Bangkok - SHA Extra Plus,7.9,1,0,0,0.4404
+1773,72,Wonderful,Hotel Lancaster Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+1774,73,Wonderful,Hotel Lancaster Bangkok - SHA Extra Plus,9.2,1,0,0,0.5719
+1775,74,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1776,75,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1777,76,Great place to stay in Bangkok and (finally) a hotel with a proper gym!,Hotel Lancaster Bangkok - SHA Extra Plus,10,0.285,0,0.715,0.6588
+1778,77,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1779,78,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1780,79,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1781,80,Very Good,Hotel Lancaster Bangkok - SHA Extra Plus,8.3,0.762,0,0.238,0.4927
+1782,81,Wonderful,Hotel Lancaster Bangkok - SHA Extra Plus,9.2,1,0,0,0.5719
+1783,82,Good,Hotel Lancaster Bangkok - SHA Extra Plus,7.9,1,0,0,0.4404
+1784,83,Great staff. Photos portray the hotel as much better than it is.,Hotel Lancaster Bangkok - SHA Extra Plus,7.5,0.412,0,0.588,0.7906
+1785,84,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1786,85,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1787,86,Good,Hotel Lancaster Bangkok - SHA Extra Plus,7.9,1,0,0,0.4404
+1788,87,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1789,88,Moved us to Landmark Hotel,Hotel Lancaster Bangkok - SHA Extra Plus,5.8,0.245,0,0.755,0.0772
+1790,89,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1791,90,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1792,91,"Comfortable, always welcomed by the friendly staff",Hotel Lancaster Bangkok - SHA Extra Plus,10,0.69,0,0.31,0.836
+1793,92,Wonderful,Hotel Lancaster Bangkok - SHA Extra Plus,9,1,0,0,0.5719
+1794,93,Fair,Hotel Lancaster Bangkok - SHA Extra Plus,5,1,0,0,0.3182
+1795,94,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1796,95,Amazing Hotel should come back again,Hotel Lancaster Bangkok - SHA Extra Plus,10,0.432,0,0.568,0.5859
+1797,96,Wonderful,Hotel Lancaster Bangkok - SHA Extra Plus,9.2,1,0,0,0.5719
+1798,97,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,10,0,0,1,0
+1799,98,Exceptional,Hotel Lancaster Bangkok - SHA Extra Plus,9.6,0,0,1,0
+1800,99,best value for your money,Hotel Lancaster Bangkok - SHA Extra Plus,9,0.688,0,0.312,0.765
+1801,0,Very Good,Hotel I Residence Hotel Silom,8,0.762,0,0.238,0.4927
+1802,1,Very Good,Hotel I Residence Hotel Silom,8,0.762,0,0.238,0.4927
+1803,2,Fair,Hotel I Residence Hotel Silom,5,1,0,0,0.3182
+1804,3,Bad,Hotel I Residence Hotel Silom,1,0,1,0,-0.5423
+1805,4,Good,Hotel I Residence Hotel Silom,7,1,0,0,0.4404
+1806,5,Exceptional,Hotel I Residence Hotel Silom,10,0,0,1,0
+1807,6,Fair,Hotel I Residence Hotel Silom,5,1,0,0,0.3182
+1808,7,Very Good,Hotel I Residence Hotel Silom,8,0.762,0,0.238,0.4927
+1809,8,Exceptional,Hotel I Residence Hotel Silom,10,0,0,1,0
+1810,9,Poor,Hotel I Residence Hotel Silom,3,0,1,0,-0.4767
+1811,10,Very Good,Hotel I Residence Hotel Silom,8,0.762,0,0.238,0.4927
+1812,11,"Many things gone wrong, otherwise it's OK.",Hotel I Residence Hotel Silom,4,0.266,0.281,0.453,-0.0431
+1813,12,Bad,Hotel I Residence Hotel Silom,1,0,1,0,-0.5423
+1814,13,You get a lot for this money,Hotel I Residence Hotel Silom,9,0,0,1,0
+1815,14,Fair,Hotel I Residence Hotel Silom,5,1,0,0,0.3182
+1816,15,Disappointing at all,Hotel I Residence Hotel Silom,1,0,0.615,0.385,-0.4939
+1817,16,Very Good,Hotel I Residence Hotel Silom,8,0.762,0,0.238,0.4927
+1818,17,value for dollars but a bit tired,Hotel I Residence Hotel Silom,5,0.178,0.403,0.419,-0.4854
+1819,18,Fair,Hotel I Residence Hotel Silom,5,1,0,0,0.3182
+1820,19,Good,Hotel I Residence Hotel Silom,7,1,0,0,0.4404
+1821,20,Exceptional,Hotel I Residence Hotel Silom,10,0,0,1,0
+1822,21,Very Good,Hotel I Residence Hotel Silom,8,0.762,0,0.238,0.4927
+1823,22,Beautiful stay,Hotel I Residence Hotel Silom,9,0.796,0,0.204,0.5994
+1824,23,Bad,Hotel I Residence Hotel Silom,1,0,1,0,-0.5423
+1825,24,Good,Hotel I Residence Hotel Silom,7,1,0,0,0.4404
+1826,25,Disappointing,Hotel I Residence Hotel Silom,4,0,1,0,-0.4939
+1827,26,Very Good,Hotel I Residence Hotel Silom,8,0.762,0,0.238,0.4927
+1828,27,Pleasant,Hotel I Residence Hotel Silom,6,1,0,0,0.5106
+1829,28,Very Good,Hotel I Residence Hotel Silom,8,0.762,0,0.238,0.4927
+1830,29,Good,Hotel I Residence Hotel Silom,7,1,0,0,0.4404
+1831,30,Exceptional,Hotel I Residence Hotel Silom,10,0,0,1,0
+1832,31,Pleasant,Hotel I Residence Hotel Silom,6,1,0,0,0.5106
+1833,32,Very Good,Hotel I Residence Hotel Silom,8,0.762,0,0.238,0.4927
+1834,33,Great stay,Hotel I Residence Hotel Silom,10,0.804,0,0.196,0.6249
+1835,34,Wonderful,Hotel I Residence Hotel Silom,9,1,0,0,0.5719
+1836,35,Very Good,Hotel I Residence Hotel Silom,8,0.762,0,0.238,0.4927
+1837,36,Poor,Hotel I Residence Hotel Silom,3,0,1,0,-0.4767
+1838,37,Pleasant,Hotel I Residence Hotel Silom,6,1,0,0,0.5106
+1839,38,Great budget stay,Hotel I Residence Hotel Silom,8,0.672,0,0.328,0.6249
+1840,39,Very Good,Hotel I Residence Hotel Silom,8,0.762,0,0.238,0.4927
+1841,40,Good,Hotel I Residence Hotel Silom,7,1,0,0,0.4404
+1842,41,Good,Hotel I Residence Hotel Silom,7,1,0,0,0.4404
+1843,42,Cheap hotel Near BTS station,Hotel I Residence Hotel Silom,8,0,0,1,0
+1844,43,Wonderful,Hotel I Residence Hotel Silom,9,1,0,0,0.5719
+1845,44,Location,Hotel I Residence Hotel Silom,5,0,0,1,0
+1846,45,Fair,Hotel I Residence Hotel Silom,5,1,0,0,0.3182
+1847,46,Very Good,Hotel I Residence Hotel Silom,8,0.762,0,0.238,0.4927
+1848,47,Very Good,Hotel I Residence Hotel Silom,8,0.762,0,0.238,0.4927
+1849,48,Nice location,Hotel I Residence Hotel Silom,8,0.737,0,0.263,0.4215
+1850,49,Great Staff,Hotel I Residence Hotel Silom,5,0.804,0,0.196,0.6249
+1851,50,Wonderful,Hotel I Residence Hotel Silom,9,1,0,0,0.5719
+1852,51,Very Good,Hotel I Residence Hotel Silom,8,0.762,0,0.238,0.4927
+1853,52,Good,Hotel I Residence Hotel Silom,7,1,0,0,0.4404
+1854,53,Pleasant,Hotel I Residence Hotel Silom,6,1,0,0,0.5106
+1855,54,Good choice,Hotel I Residence Hotel Silom,8,0.744,0,0.256,0.4404
+1856,55,Exceptional,Hotel I Residence Hotel Silom,10,0,0,1,0
+1857,56,Fair,Hotel I Residence Hotel Silom,5,1,0,0,0.3182
+1858,57,They are getting worse atitude,Hotel I Residence Hotel Silom,1,0,0.437,0.563,-0.4767
+1859,58,Exceptional,Hotel I Residence Hotel Silom,10,0,0,1,0
+1860,59,Good,Hotel I Residence Hotel Silom,7,1,0,0,0.4404
+1861,60,Exceptional,Hotel I Residence Hotel Silom,10,0,0,1,0
+1862,61,Very Good,Hotel I Residence Hotel Silom,8,0.762,0,0.238,0.4927
+1863,62,"comfortable, clean, affordable, and GREAT location!",Hotel I Residence Hotel Silom,9,0.788,0,0.212,0.9027
+1864,63,Will be back,Hotel I Residence Hotel Silom,10,0,0,1,0
+1865,64,Wonderful,Hotel I Residence Hotel Silom,9,1,0,0,0.5719
+1866,65,Fair,Hotel I Residence Hotel Silom,5,1,0,0,0.3182
+1867,66,Good,Hotel I Residence Hotel Silom,7,1,0,0,0.4404
+1868,67,Exceptional,Hotel I Residence Hotel Silom,10,0,0,1,0
+1869,68,Very Good,Hotel I Residence Hotel Silom,8,0.762,0,0.238,0.4927
+1870,69,Pleasant,Hotel I Residence Hotel Silom,6,1,0,0,0.5106
+1871,70,The toilet has some strange smell and there’s the cotton swab from last room customer left in the washbasin,Hotel I Residence Hotel Silom,7,0,0.091,0.909,-0.2023
+1872,71,A downgraded hotel existing only for location priviledge,Hotel I Residence Hotel Silom,4,0,0,1,0
+1873,72,Exceptional,Hotel I Residence Hotel Silom,10,0,0,1,0
+1874,73,Good,Hotel I Residence Hotel Silom,7,1,0,0,0.4404
+1875,74,Wonderful,Hotel I Residence Hotel Silom,9,1,0,0,0.5719
+1876,75,Wonderful,Hotel I Residence Hotel Silom,9,1,0,0,0.5719
+1877,76,Good,Hotel I Residence Hotel Silom,7,1,0,0,0.4404
+1878,77,Exceptional,Hotel I Residence Hotel Silom,10,0,0,1,0
+1879,78,Exceptional,Hotel I Residence Hotel Silom,10,0,0,1,0
+1880,79,Wonderful,Hotel I Residence Hotel Silom,9,1,0,0,0.5719
+1881,80,"Good place, great location",Hotel I Residence Hotel Silom,8,0.778,0,0.222,0.7906
+1882,81,Pleasant,Hotel I Residence Hotel Silom,6,1,0,0,0.5106
+1883,82,Exceptional,Hotel I Residence Hotel Silom,10,0,0,1,0
+1884,83,Pleasant,Hotel I Residence Hotel Silom,6,1,0,0,0.5106
+1885,84,Wonderful,Hotel I Residence Hotel Silom,9,1,0,0,0.5719
+1886,85,Very Good,Hotel I Residence Hotel Silom,8,0.762,0,0.238,0.4927
+1887,86,Exceptional,Hotel I Residence Hotel Silom,10,0,0,1,0
+1888,87,Exceptional,Hotel I Residence Hotel Silom,10,0,0,1,0
+1889,88,"Great swimming pool, rundown hotel",Hotel I Residence Hotel Silom,6,0.506,0,0.494,0.6249
+1890,89,Good,Hotel I Residence Hotel Silom,7,1,0,0,0.4404
+1891,90,Good,Hotel I Residence Hotel Silom,7,1,0,0,0.4404
+1892,91,Exceptional,Hotel I Residence Hotel Silom,10,0,0,1,0
+1893,92,Very Good,Hotel I Residence Hotel Silom,8,0.762,0,0.238,0.4927
+1894,93,Great place,Hotel I Residence Hotel Silom,8,0.804,0,0.196,0.6249
+1895,94,Very good place service,Hotel I Residence Hotel Silom,7,0.516,0,0.484,0.4927
+1896,95,Very good place nice location,Hotel I Residence Hotel Silom,8,0.676,0,0.324,0.7397
+1897,96,Fine place,Hotel I Residence Hotel Silom,8,0.643,0,0.357,0.2023
+1898,97,Very great place,Hotel I Residence Hotel Silom,8,0.687,0,0.313,0.659
+1899,98,Very nice place,Hotel I Residence Hotel Silom,8,0.607,0,0.393,0.4754
+1900,99,Very good place,Hotel I Residence Hotel Silom,7,0.615,0,0.385,0.4927
+1901,0,Very Good,Hotel Amora NeoLuxe Suites Hotel,8,0.762,0,0.238,0.4927
+1902,1,Wonderful,Hotel Amora NeoLuxe Suites Hotel,9,1,0,0,0.5719
+1903,2,"Smokers' paradise, non-smokers' hell",Hotel Amora NeoLuxe Suites Hotel,5,0.389,0.426,0.185,-0.1027
+1904,3,Exceptional,Hotel Amora NeoLuxe Suites Hotel,10,0,0,1,0
+1905,4,Exceptional,Hotel Amora NeoLuxe Suites Hotel,10,0,0,1,0
+1906,5,Wonderful,Hotel Amora NeoLuxe Suites Hotel,9,1,0,0,0.5719
+1907,6,Pleasant,Hotel Amora NeoLuxe Suites Hotel,6,1,0,0,0.5106
+1908,7,excellent,Hotel Amora NeoLuxe Suites Hotel,9,1,0,0,0.5719
+1909,8,Exceptional,Hotel Amora NeoLuxe Suites Hotel,10,0,0,1,0
+1910,9,Exceptional,Hotel Amora NeoLuxe Suites Hotel,10,0,0,1,0
+1911,10,Good,Hotel Amora NeoLuxe Suites Hotel,7,1,0,0,0.4404
+1912,11,Wonderful,Hotel Amora NeoLuxe Suites Hotel,9,1,0,0,0.5719
+1913,12,Wonderful,Hotel Amora NeoLuxe Suites Hotel,9,1,0,0,0.5719
+1914,13,A diamond in a gold mine,Hotel Amora NeoLuxe Suites Hotel,10,0.444,0,0.556,0.34
+1915,14,Good,Hotel Amora NeoLuxe Suites Hotel,7,1,0,0,0.4404
+1916,15,Good,Hotel Amora NeoLuxe Suites Hotel,7,1,0,0,0.4404
+1917,16,Very Good,Hotel Amora NeoLuxe Suites Hotel,8,0.762,0,0.238,0.4927
+1918,17,Very Good,Hotel Amora NeoLuxe Suites Hotel,8,0.762,0,0.238,0.4927
+1919,18,Good,Hotel Amora NeoLuxe Suites Hotel,7,1,0,0,0.4404
+1920,19,Very Good,Hotel Amora NeoLuxe Suites Hotel,8,0.762,0,0.238,0.4927
+1921,20,Very Good,Hotel Amora NeoLuxe Suites Hotel,8,0.762,0,0.238,0.4927
+1922,21,relaxing and quiet in the middle of the city,Hotel Amora NeoLuxe Suites Hotel,8,0.286,0,0.714,0.4939
+1923,22,Not comfortable,Hotel Amora NeoLuxe Suites Hotel,5,0,0.73,0.27,-0.4023
+1924,23,Wonderful,Hotel Amora NeoLuxe Suites Hotel,9,1,0,0,0.5719
+1925,24,Fair,Hotel Amora NeoLuxe Suites Hotel,5,1,0,0,0.3182
+1926,25,Good,Hotel Amora NeoLuxe Suites Hotel,7,1,0,0,0.4404
+1927,26,Wonderful,Hotel Amora NeoLuxe Suites Hotel,9,1,0,0,0.5719
+1928,27,Very comfortable and located hotel,Hotel Amora NeoLuxe Suites Hotel,9,0.473,0,0.527,0.5563
+1929,28,Exceptional,Hotel Amora NeoLuxe Suites Hotel,10,0,0,1,0
+1930,29,Very Good,Hotel Amora NeoLuxe Suites Hotel,8,0.762,0,0.238,0.4927
+1931,30,"Perfect Hotel, Ideally Located",Hotel Amora NeoLuxe Suites Hotel,8,0.765,0,0.235,0.7579
+1932,31,Very Good,Hotel Amora NeoLuxe Suites Hotel,8,0.762,0,0.238,0.4927
+1933,32,great experience,Hotel Amora NeoLuxe Suites Hotel,8,0.804,0,0.196,0.6249
+1934,33,Exceptional,Hotel Amora NeoLuxe Suites Hotel,10,0,0,1,0
+1935,34,Pleasant,Hotel Amora NeoLuxe Suites Hotel,6,1,0,0,0.5106
+1936,35,Convenience and clean,Hotel Amora NeoLuxe Suites Hotel,9,0.574,0,0.426,0.4019
+1937,36,Wonderful,Hotel Amora NeoLuxe Suites Hotel,9,1,0,0,0.5719
+1938,37,Very Good,Hotel Amora NeoLuxe Suites Hotel,8,0.762,0,0.238,0.4927
+1939,38,Wonderful,Hotel Amora NeoLuxe Suites Hotel,9,1,0,0,0.5719
+1940,39,Exceptional,Hotel Amora NeoLuxe Suites Hotel,10,0,0,1,0
+1941,40,Wonderful,Hotel Amora NeoLuxe Suites Hotel,9,1,0,0,0.5719
+1942,41,Wonderful,Hotel Amora NeoLuxe Suites Hotel,9,1,0,0,0.5719
+1943,42,Exceptional,Hotel Amora NeoLuxe Suites Hotel,10,0,0,1,0
+1944,43,Wonderful,Hotel Amora NeoLuxe Suites Hotel,9,1,0,0,0.5719
+1945,44,Very Good,Hotel Amora NeoLuxe Suites Hotel,8,0.762,0,0.238,0.4927
+1946,45,Exceptional,Hotel Amora NeoLuxe Suites Hotel,10,0,0,1,0
+1947,46,Wonderful,Hotel Amora NeoLuxe Suites Hotel,9,1,0,0,0.5719
+1948,47,Wonderful,Hotel Amora NeoLuxe Suites Hotel,9,1,0,0,0.5719
+1949,48,Perfect,Hotel Amora NeoLuxe Suites Hotel,8,1,0,0,0.5719
+1950,49,Disappointing,Hotel Amora NeoLuxe Suites Hotel,4,0,1,0,-0.4939
+1951,50,Comfortable Stay,Hotel Amora NeoLuxe Suites Hotel,8,0.767,0,0.233,0.5106
+1952,51,"Great place for your stay, took advantage of the discounted rate available!!!",Hotel Amora NeoLuxe Suites Hotel,10,0.476,0,0.524,0.8007
+1953,52,Very Good,Hotel Amora NeoLuxe Suites Hotel,8,0.762,0,0.238,0.4927
+1954,53,Exceptional,Hotel Amora NeoLuxe Suites Hotel,10,0,0,1,0
+1955,54,My favourite place to stay,Hotel Amora NeoLuxe Suites Hotel,10,0,0,1,0
+1956,55,Exceptional,Hotel Amora NeoLuxe Suites Hotel,10,0,0,1,0
+1957,56,Exceptional,Hotel Amora NeoLuxe Suites Hotel,10,0,0,1,0
+1958,57,Very Good,Hotel Amora NeoLuxe Suites Hotel,8,0.762,0,0.238,0.4927
+1959,58,Recommend the hotel staff were very friendly and helpful,Hotel Amora NeoLuxe Suites Hotel,8,0.602,0,0.398,0.8425
+1960,59,Exceptional,Hotel Amora NeoLuxe Suites Hotel,10,0,0,1,0
+1961,60,The hotel has the perfect location but if you are going to base through their photos it is much very far from the pictur,Hotel Amora NeoLuxe Suites Hotel,8,0.093,0,0.907,0.3291
+1962,61,Fair,Hotel Amora NeoLuxe Suites Hotel,5,1,0,0,0.3182
+1963,62,Good location but limited car parking spaces,Hotel Amora NeoLuxe Suites Hotel,8,0.21,0.253,0.538,-0.1027
+1964,63,My new favourite affordable hotel,Hotel Amora NeoLuxe Suites Hotel,9,0,0,1,0
+1965,64,Pleasant cozy business hotel on sukumvit,Hotel Amora NeoLuxe Suites Hotel,8,0.398,0,0.602,0.5106
+1966,65,Very Good,Hotel Amora NeoLuxe Suites Hotel,8,0.762,0,0.238,0.4927
+1967,66,Exceptional,Hotel Amora NeoLuxe Suites Hotel,10,0,0,1,0
+1968,67,Exceptional,Hotel Amora NeoLuxe Suites Hotel,10,0,0,1,0
+1969,68,Exceptional,Hotel Amora NeoLuxe Suites Hotel,10,0,0,1,0
+1970,69,Disappointing,Hotel Amora NeoLuxe Suites Hotel,4,0,1,0,-0.4939
+1971,70,Very enjoyable stay and great value.,Hotel Amora NeoLuxe Suites Hotel,8,0.764,0,0.236,0.8655
+1972,71,Exceptional,Hotel Amora NeoLuxe Suites Hotel,10,0,0,1,0
+1973,72,Exceptional,Hotel Amora NeoLuxe Suites Hotel,10,0,0,1,0
+1974,73,Wonderful,Hotel Amora NeoLuxe Suites Hotel,9,1,0,0,0.5719
+1975,74,Exceptional,Hotel Amora NeoLuxe Suites Hotel,10,0,0,1,0
+1976,75,Wonderful,Hotel Amora NeoLuxe Suites Hotel,9,1,0,0,0.5719
+1977,76,Exceptional,Hotel Amora NeoLuxe Suites Hotel,10,0,0,1,0
+1978,77,Very Good,Hotel Amora NeoLuxe Suites Hotel,8,0.762,0,0.238,0.4927
+1979,78,Wonderful,Hotel Amora NeoLuxe Suites Hotel,9,1,0,0,0.5719
+1980,79,Great value,Hotel Amora NeoLuxe Suites Hotel,9,1,0,0,0.7579
+1981,80,Exceptional,Hotel Amora NeoLuxe Suites Hotel,10,0,0,1,0
+1982,81,Exceptional,Hotel Amora NeoLuxe Suites Hotel,10,0,0,1,0
+1983,82,10-Oct,Hotel Amora NeoLuxe Suites Hotel,10,0,0,1,0
+1984,83,Very Good,Hotel Amora NeoLuxe Suites Hotel,8,0.762,0,0.238,0.4927
+1985,84,One night in Bangkok,Hotel Amora NeoLuxe Suites Hotel,8,0,0,1,0
+1986,85,Very Good,Hotel Amora NeoLuxe Suites Hotel,8,0.762,0,0.238,0.4927
+1987,86,Wonderful,Hotel Amora NeoLuxe Suites Hotel,9,1,0,0,0.5719
+1988,87,Very Good,Hotel Amora NeoLuxe Suites Hotel,8,0.762,0,0.238,0.4927
+1989,88,Wonderful,Hotel Amora NeoLuxe Suites Hotel,9,1,0,0,0.5719
+1990,89,Exceptional,Hotel Amora NeoLuxe Suites Hotel,10,0,0,1,0
+1991,90,Pleasant,Hotel Amora NeoLuxe Suites Hotel,6,1,0,0,0.5106
+1992,91,Wonderful,Hotel Amora NeoLuxe Suites Hotel,9,1,0,0,0.5719
+1993,92,Exceptional,Hotel Amora NeoLuxe Suites Hotel,10,0,0,1,0
+1994,93,Excellent,Hotel Amora NeoLuxe Suites Hotel,9,1,0,0,0.5719
+1995,94,Wonderful,Hotel Amora NeoLuxe Suites Hotel,9,1,0,0,0.5719
+1996,95,Good,Hotel Amora NeoLuxe Suites Hotel,7,1,0,0,0.4404
+1997,96,Wonderful,Hotel Amora NeoLuxe Suites Hotel,9,1,0,0,0.5719
+1998,97,Very Good,Hotel Amora NeoLuxe Suites Hotel,8,0.762,0,0.238,0.4927
+1999,98,Very comfortable,Hotel Amora NeoLuxe Suites Hotel,9,0.782,0,0.218,0.5563
+2000,99,Exceptional,Hotel Amora NeoLuxe Suites Hotel,10,0,0,1,0
